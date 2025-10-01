@@ -75,3 +75,4 @@ if not df.empty:
     print(f"Data collection complete. Saved to {OUTPUT_FILE} with {len(df)} rows")
 else:
     print("No data collected. Check FastF1 cache and API availability.")
+

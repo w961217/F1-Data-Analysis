@@ -192,3 +192,6 @@ else:
     # Print a message if the specified stint was not found for the driver
     print(f"Stint {target_stint_number} not found for driver {target_driver}.")
     
+# Export results to CSV (new line added, original code unchanged)
+degradation_df.to_csv("tire_degradation_summary.csv", index=False)
+print("\nDegradation results exported to 'tire_degradation_summary.csv'")
