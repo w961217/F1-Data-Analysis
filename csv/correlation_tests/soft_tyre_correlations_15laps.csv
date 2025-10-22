@@ -1,0 +1,2730 @@
+Year,GrandPrix,Driver,Stint,Correlation,PValue,NumLaps
+2021,Abu Dhabi Grand Prix,ALO,1.0,,,0
+2021,Abu Dhabi Grand Prix,ALO,2.0,,,0
+2021,Abu Dhabi Grand Prix,BOT,1.0,,,0
+2021,Abu Dhabi Grand Prix,BOT,2.0,,,0
+2021,Abu Dhabi Grand Prix,GAS,1.0,,,0
+2021,Abu Dhabi Grand Prix,GIO,1.0,,,0
+2021,Abu Dhabi Grand Prix,HAM,2.0,,,0
+2021,Abu Dhabi Grand Prix,LAT,1.0,,,0
+2021,Abu Dhabi Grand Prix,LAT,2.0,,,0
+2021,Abu Dhabi Grand Prix,LEC,2.0,,,0
+2021,Abu Dhabi Grand Prix,LEC,3.0,,,0
+2021,Abu Dhabi Grand Prix,MSC,2.0,,,0
+2021,Abu Dhabi Grand Prix,NOR,1.0,-0.46519116918706216,0.08058074287870107,15
+2021,Abu Dhabi Grand Prix,NOR,2.0,,,0
+2021,Abu Dhabi Grand Prix,OCO,2.0,,,0
+2021,Abu Dhabi Grand Prix,PER,1.0,0.6259114109783359,0.004148359264338998,19
+2021,Abu Dhabi Grand Prix,PER,3.0,,,0
+2021,Abu Dhabi Grand Prix,RAI,1.0,,,0
+2021,Abu Dhabi Grand Prix,RIC,1.0,-0.5132385641032025,0.042028860891810446,16
+2021,Abu Dhabi Grand Prix,RIC,2.0,,,0
+2021,Abu Dhabi Grand Prix,RUS,1.0,,,0
+2021,Abu Dhabi Grand Prix,SAI,1.0,-0.442545898155957,0.0752624921272063,17
+2021,Abu Dhabi Grand Prix,SAI,2.0,,,0
+2021,Abu Dhabi Grand Prix,STR,1.0,,,0
+2021,Abu Dhabi Grand Prix,STR,2.0,,,0
+2021,Abu Dhabi Grand Prix,TSU,1.0,,,0
+2021,Abu Dhabi Grand Prix,TSU,2.0,,,0
+2021,Abu Dhabi Grand Prix,VER,2.0,,,0
+2021,Abu Dhabi Grand Prix,VER,3.0,,,0
+2021,Abu Dhabi Grand Prix,VET,1.0,,,0
+2021,Abu Dhabi Grand Prix,VET,2.0,,,0
+2021,Austrian Grand Prix,ALO,1.0,,,0
+2021,Austrian Grand Prix,ALO,2.0,,,0
+2021,Austrian Grand Prix,BOT,1.0,,,0
+2021,Austrian Grand Prix,BOT,2.0,,,0
+2021,Austrian Grand Prix,GAS,2.0,,,0
+2021,Austrian Grand Prix,GAS,3.0,,,0
+2021,Austrian Grand Prix,GIO,2.0,,,0
+2021,Austrian Grand Prix,GIO,3.0,,,0
+2021,Austrian Grand Prix,HAM,1.0,,,0
+2021,Austrian Grand Prix,HAM,2.0,,,0
+2021,Austrian Grand Prix,HAM,3.0,,,0
+2021,Austrian Grand Prix,LAT,1.0,,,0
+2021,Austrian Grand Prix,LAT,2.0,,,0
+2021,Austrian Grand Prix,LEC,1.0,,,0
+2021,Austrian Grand Prix,LEC,2.0,,,0
+2021,Austrian Grand Prix,MAZ,1.0,,,0
+2021,Austrian Grand Prix,MAZ,2.0,,,0
+2021,Austrian Grand Prix,MAZ,3.0,,,0
+2021,Austrian Grand Prix,MSC,1.0,,,0
+2021,Austrian Grand Prix,MSC,2.0,,,0
+2021,Austrian Grand Prix,NOR,1.0,,,0
+2021,Austrian Grand Prix,NOR,2.0,,,0
+2021,Austrian Grand Prix,PER,1.0,,,0
+2021,Austrian Grand Prix,PER,2.0,,,0
+2021,Austrian Grand Prix,RAI,1.0,,,0
+2021,Austrian Grand Prix,RAI,2.0,,,0
+2021,Austrian Grand Prix,RIC,1.0,,,0
+2021,Austrian Grand Prix,RIC,2.0,,,0
+2021,Austrian Grand Prix,RUS,1.0,,,0
+2021,Austrian Grand Prix,RUS,2.0,,,0
+2021,Austrian Grand Prix,SAI,1.0,,,0
+2021,Austrian Grand Prix,SAI,2.0,,,0
+2021,Austrian Grand Prix,STR,2.0,,,0
+2021,Austrian Grand Prix,STR,3.0,,,0
+2021,Austrian Grand Prix,TSU,2.0,,,0
+2021,Austrian Grand Prix,TSU,3.0,,,0
+2021,Austrian Grand Prix,VER,1.0,,,0
+2021,Austrian Grand Prix,VER,2.0,,,0
+2021,Austrian Grand Prix,VET,2.0,,,0
+2021,Austrian Grand Prix,VET,3.0,,,0
+2021,Azerbaijan Grand Prix,ALO,2.0,,,0
+2021,Azerbaijan Grand Prix,BOT,2.0,,,0
+2021,Azerbaijan Grand Prix,GAS,2.0,,,0
+2021,Azerbaijan Grand Prix,GIO,2.0,,,0
+2021,Azerbaijan Grand Prix,HAM,2.0,,,0
+2021,Azerbaijan Grand Prix,LAT,2.0,,,0
+2021,Azerbaijan Grand Prix,LEC,2.0,,,0
+2021,Azerbaijan Grand Prix,MAZ,2.0,,,0
+2021,Azerbaijan Grand Prix,MSC,2.0,,,0
+2021,Azerbaijan Grand Prix,NOR,2.0,,,0
+2021,Azerbaijan Grand Prix,PER,2.0,,,0
+2021,Azerbaijan Grand Prix,RAI,2.0,,,0
+2021,Azerbaijan Grand Prix,RIC,2.0,,,0
+2021,Azerbaijan Grand Prix,RUS,2.0,,,0
+2021,Azerbaijan Grand Prix,SAI,2.0,,,0
+2021,Azerbaijan Grand Prix,STR,1.0,,,0
+2021,Azerbaijan Grand Prix,TSU,2.0,,,0
+2021,Azerbaijan Grand Prix,VER,2.0,,,0
+2021,Azerbaijan Grand Prix,VET,2.0,,,0
+2021,Bahrain Grand Prix,ALO,2.0,,,0
+2021,Bahrain Grand Prix,BOT,3.0,,,0
+2021,Bahrain Grand Prix,GAS,3.0,,,0
+2021,Bahrain Grand Prix,GIO,2.0,,,0
+2021,Bahrain Grand Prix,GIO,3.0,,,0
+2021,Bahrain Grand Prix,HAM,3.0,,,0
+2021,Bahrain Grand Prix,LAT,2.0,,,0
+2021,Bahrain Grand Prix,LAT,3.0,,,0
+2021,Bahrain Grand Prix,LEC,2.0,,,0
+2021,Bahrain Grand Prix,LEC,3.0,,,0
+2021,Bahrain Grand Prix,MSC,2.0,,,0
+2021,Bahrain Grand Prix,MSC,3.0,,,0
+2021,Bahrain Grand Prix,NOR,2.0,,,0
+2021,Bahrain Grand Prix,NOR,3.0,,,0
+2021,Bahrain Grand Prix,OCO,2.0,,,0
+2021,Bahrain Grand Prix,OCO,3.0,,,0
+2021,Bahrain Grand Prix,PER,3.0,,,0
+2021,Bahrain Grand Prix,PER,4.0,,,0
+2021,Bahrain Grand Prix,RAI,3.0,,,0
+2021,Bahrain Grand Prix,RIC,2.0,,,0
+2021,Bahrain Grand Prix,RIC,3.0,,,0
+2021,Bahrain Grand Prix,RUS,2.0,,,0
+2021,Bahrain Grand Prix,RUS,3.0,,,0
+2021,Bahrain Grand Prix,SAI,2.0,,,0
+2021,Bahrain Grand Prix,SAI,3.0,,,0
+2021,Bahrain Grand Prix,STR,3.0,,,0
+2021,Bahrain Grand Prix,TSU,2.0,,,0
+2021,Bahrain Grand Prix,TSU,3.0,,,0
+2021,Bahrain Grand Prix,VER,2.0,,,0
+2021,Bahrain Grand Prix,VER,3.0,,,0
+2021,Bahrain Grand Prix,VET,1.0,,,0
+2021,Bahrain Grand Prix,VET,2.0,,,0
+2021,British Grand Prix,ALO,2.0,,,0
+2021,British Grand Prix,ALO,3.0,,,0
+2021,British Grand Prix,BOT,2.0,,,0
+2021,British Grand Prix,BOT,3.0,,,0
+2021,British Grand Prix,GAS,2.0,,,0
+2021,British Grand Prix,GAS,3.0,,,0
+2021,British Grand Prix,GIO,2.0,,,0
+2021,British Grand Prix,GIO,3.0,,,0
+2021,British Grand Prix,HAM,2.0,,,0
+2021,British Grand Prix,HAM,3.0,,,0
+2021,British Grand Prix,LAT,3.0,,,0
+2021,British Grand Prix,LEC,2.0,,,0
+2021,British Grand Prix,LEC,3.0,,,0
+2021,British Grand Prix,MAZ,2.0,,,0
+2021,British Grand Prix,MAZ,3.0,,,0
+2021,British Grand Prix,MSC,2.0,,,0
+2021,British Grand Prix,MSC,3.0,,,0
+2021,British Grand Prix,NOR,2.0,,,0
+2021,British Grand Prix,NOR,3.0,,,0
+2021,British Grand Prix,OCO,3.0,,,0
+2021,British Grand Prix,PER,3.0,,,0
+2021,British Grand Prix,RAI,3.0,,,0
+2021,British Grand Prix,RIC,2.0,,,0
+2021,British Grand Prix,RIC,3.0,,,0
+2021,British Grand Prix,RUS,3.0,,,0
+2021,British Grand Prix,SAI,2.0,,,0
+2021,British Grand Prix,SAI,3.0,,,0
+2021,British Grand Prix,STR,2.0,,,0
+2021,British Grand Prix,STR,3.0,,,0
+2021,British Grand Prix,TSU,2.0,,,0
+2021,British Grand Prix,TSU,3.0,,,0
+2021,British Grand Prix,VET,3.0,,,0
+2021,Dutch Grand Prix,ALO,1.0,-0.6693630732510655,3.82848237507347e-05,31
+2021,Dutch Grand Prix,ALO,2.0,,,0
+2021,Dutch Grand Prix,BOT,1.0,0.577599883419831,0.001034350206535776,29
+2021,Dutch Grand Prix,BOT,2.0,,,0
+2021,Dutch Grand Prix,GAS,1.0,0.038540127121871826,0.8647898989160077,22
+2021,Dutch Grand Prix,GAS,2.0,,,0
+2021,Dutch Grand Prix,GIO,1.0,-0.8171903474366238,6.192260630997447e-07,25
+2021,Dutch Grand Prix,GIO,3.0,,,0
+2021,Dutch Grand Prix,HAM,1.0,0.44116198491790043,0.0668549163987374,18
+2021,Dutch Grand Prix,HAM,2.0,,,0
+2021,Dutch Grand Prix,HAM,3.0,,,0
+2021,Dutch Grand Prix,KUB,1.0,,,0
+2021,Dutch Grand Prix,KUB,2.0,,,0
+2021,Dutch Grand Prix,LAT,1.0,,,0
+2021,Dutch Grand Prix,LAT,2.0,,,0
+2021,Dutch Grand Prix,LEC,1.0,-0.10082118745806996,0.5829767206499509,32
+2021,Dutch Grand Prix,LEC,2.0,,,0
+2021,Dutch Grand Prix,MAZ,1.0,,,0
+2021,Dutch Grand Prix,MSC,2.0,,,0
+2021,Dutch Grand Prix,MSC,3.0,,,0
+2021,Dutch Grand Prix,NOR,1.0,,,0
+2021,Dutch Grand Prix,NOR,2.0,,,0
+2021,Dutch Grand Prix,OCO,1.0,-0.8906208420277357,9.738575967326674e-11,29
+2021,Dutch Grand Prix,OCO,2.0,,,0
+2021,Dutch Grand Prix,PER,2.0,,,0
+2021,Dutch Grand Prix,PER,3.0,0.660470314580016,0.0006033840712116028,23
+2021,Dutch Grand Prix,RIC,1.0,-0.8244770220800969,6.889665049767777e-08,28
+2021,Dutch Grand Prix,RIC,2.0,,,0
+2021,Dutch Grand Prix,RUS,1.0,,,0
+2021,Dutch Grand Prix,RUS,2.0,,,0
+2021,Dutch Grand Prix,SAI,1.0,-0.46312880535561785,0.011404388989913267,29
+2021,Dutch Grand Prix,SAI,2.0,,,0
+2021,Dutch Grand Prix,STR,1.0,-0.7708187793146639,6.520266919410376e-06,25
+2021,Dutch Grand Prix,STR,2.0,,,0
+2021,Dutch Grand Prix,TSU,1.0,-0.7950102877135833,2.5811061467784905e-07,29
+2021,Dutch Grand Prix,VER,1.0,0.796986780532963,4.4068561023291326e-05,19
+2021,Dutch Grand Prix,VER,2.0,,,0
+2021,Dutch Grand Prix,VER,3.0,,,0
+2021,Dutch Grand Prix,VET,2.0,,,0
+2021,Dutch Grand Prix,VET,3.0,,,0
+2021,Emilia Romagna Grand Prix,ALO,1.0,,,0
+2021,Emilia Romagna Grand Prix,ALO,4.0,,,0
+2021,Emilia Romagna Grand Prix,BOT,1.0,,,0
+2021,Emilia Romagna Grand Prix,GAS,5.0,,,0
+2021,Emilia Romagna Grand Prix,GIO,1.0,,,0
+2021,Emilia Romagna Grand Prix,GIO,5.0,,,0
+2021,Emilia Romagna Grand Prix,HAM,1.0,,,0
+2021,Emilia Romagna Grand Prix,HAM,5.0,,,0
+2021,Emilia Romagna Grand Prix,LEC,1.0,,,0
+2021,Emilia Romagna Grand Prix,LEC,3.0,,,0
+2021,Emilia Romagna Grand Prix,MAZ,5.0,,,0
+2021,Emilia Romagna Grand Prix,MSC,5.0,,,0
+2021,Emilia Romagna Grand Prix,NOR,1.0,,,0
+2021,Emilia Romagna Grand Prix,NOR,3.0,-0.792647287454468,1.384442056228293e-06,26
+2021,Emilia Romagna Grand Prix,OCO,2.0,,,0
+2021,Emilia Romagna Grand Prix,OCO,6.0,,,0
+2021,Emilia Romagna Grand Prix,PER,1.0,,,0
+2021,Emilia Romagna Grand Prix,PER,3.0,-0.35360990080053,0.07636976874020163,26
+2021,Emilia Romagna Grand Prix,RAI,1.0,,,0
+2021,Emilia Romagna Grand Prix,RAI,4.0,,,0
+2021,Emilia Romagna Grand Prix,RIC,1.0,,,0
+2021,Emilia Romagna Grand Prix,RIC,3.0,-0.7034632154692977,6.099274237683221e-05,26
+2021,Emilia Romagna Grand Prix,RUS,1.0,,,0
+2021,Emilia Romagna Grand Prix,SAI,1.0,,,0
+2021,Emilia Romagna Grand Prix,SAI,3.0,,,0
+2021,Emilia Romagna Grand Prix,STR,1.0,,,0
+2021,Emilia Romagna Grand Prix,STR,4.0,,,0
+2021,Emilia Romagna Grand Prix,TSU,1.0,,,0
+2021,Emilia Romagna Grand Prix,TSU,4.0,-0.762964478723114,9.210188224699102e-06,25
+2021,Emilia Romagna Grand Prix,VER,1.0,,,0
+2021,Emilia Romagna Grand Prix,VER,3.0,,,0
+2021,Emilia Romagna Grand Prix,VET,6.0,-0.8210598061480356,8.838863298134613e-07,24
+2021,French Grand Prix,ALO,1.0,,,0
+2021,French Grand Prix,ALO,2.0,,,0
+2021,French Grand Prix,BOT,1.0,,,0
+2021,French Grand Prix,BOT,2.0,,,0
+2021,French Grand Prix,GAS,1.0,,,0
+2021,French Grand Prix,GAS,2.0,,,0
+2021,French Grand Prix,GIO,1.0,,,0
+2021,French Grand Prix,GIO,2.0,,,0
+2021,French Grand Prix,HAM,1.0,,,0
+2021,French Grand Prix,HAM,2.0,,,0
+2021,French Grand Prix,LAT,1.0,,,0
+2021,French Grand Prix,LAT,2.0,,,0
+2021,French Grand Prix,LEC,2.0,,,0
+2021,French Grand Prix,MAZ,1.0,,,0
+2021,French Grand Prix,MAZ,2.0,,,0
+2021,French Grand Prix,MSC,2.0,,,0
+2021,French Grand Prix,NOR,1.0,,,0
+2021,French Grand Prix,NOR,2.0,,,0
+2021,French Grand Prix,OCO,1.0,,,0
+2021,French Grand Prix,OCO,2.0,,,0
+2021,French Grand Prix,PER,1.0,,,0
+2021,French Grand Prix,PER,2.0,,,0
+2021,French Grand Prix,RAI,1.0,,,0
+2021,French Grand Prix,RAI,2.0,,,0
+2021,French Grand Prix,RIC,2.0,,,0
+2021,French Grand Prix,RUS,1.0,,,0
+2021,French Grand Prix,RUS,2.0,,,0
+2021,French Grand Prix,SAI,1.0,,,0
+2021,French Grand Prix,SAI,2.0,,,0
+2021,French Grand Prix,STR,1.0,,,0
+2021,French Grand Prix,STR,2.0,-0.2735445612332514,0.27205098671622574,18
+2021,French Grand Prix,TSU,2.0,,,0
+2021,French Grand Prix,VER,1.0,,,0
+2021,French Grand Prix,VER,3.0,,,0
+2021,French Grand Prix,VET,1.0,,,0
+2021,French Grand Prix,VET,2.0,,,0
+2021,Hungarian Grand Prix,ALO,3.0,,,0
+2021,Hungarian Grand Prix,ALO,4.0,,,0
+2021,Hungarian Grand Prix,GAS,3.0,,,0
+2021,Hungarian Grand Prix,GAS,4.0,,,0
+2021,Hungarian Grand Prix,GIO,5.0,,,0
+2021,Hungarian Grand Prix,GIO,6.0,,,0
+2021,Hungarian Grand Prix,HAM,4.0,,,0
+2021,Hungarian Grand Prix,HAM,5.0,,,0
+2021,Hungarian Grand Prix,LAT,3.0,,,0
+2021,Hungarian Grand Prix,LAT,4.0,,,0
+2021,Hungarian Grand Prix,MSC,3.0,,,0
+2021,Hungarian Grand Prix,MSC,4.0,,,0
+2021,Hungarian Grand Prix,OCO,3.0,,,0
+2021,Hungarian Grand Prix,OCO,4.0,,,0
+2021,Hungarian Grand Prix,RAI,4.0,,,0
+2021,Hungarian Grand Prix,RIC,3.0,,,0
+2021,Hungarian Grand Prix,RIC,4.0,,,0
+2021,Hungarian Grand Prix,RUS,3.0,,,0
+2021,Hungarian Grand Prix,RUS,4.0,,,0
+2021,Hungarian Grand Prix,SAI,3.0,,,0
+2021,Hungarian Grand Prix,SAI,4.0,,,0
+2021,Hungarian Grand Prix,TSU,3.0,,,0
+2021,Hungarian Grand Prix,TSU,4.0,,,0
+2021,Hungarian Grand Prix,VER,4.0,,,0
+2021,Hungarian Grand Prix,VER,5.0,,,0
+2021,Hungarian Grand Prix,VER,6.0,,,0
+2021,Hungarian Grand Prix,VET,3.0,,,0
+2021,Hungarian Grand Prix,VET,4.0,,,0
+2021,Italian Grand Prix,ALO,1.0,,,0
+2021,Italian Grand Prix,ALO,2.0,,,0
+2021,Italian Grand Prix,BOT,1.0,,,0
+2021,Italian Grand Prix,BOT,2.0,,,0
+2021,Italian Grand Prix,GIO,2.0,,,0
+2021,Italian Grand Prix,GIO,3.0,,,0
+2021,Italian Grand Prix,HAM,1.0,,,0
+2021,Italian Grand Prix,KUB,1.0,,,0
+2021,Italian Grand Prix,KUB,2.0,,,0
+2021,Italian Grand Prix,LAT,1.0,,,0
+2021,Italian Grand Prix,LAT,2.0,,,0
+2021,Italian Grand Prix,LEC,1.0,,,0
+2021,Italian Grand Prix,LEC,2.0,,,0
+2021,Italian Grand Prix,MAZ,1.0,,,0
+2021,Italian Grand Prix,MSC,1.0,,,0
+2021,Italian Grand Prix,MSC,2.0,,,0
+2021,Italian Grand Prix,NOR,1.0,,,0
+2021,Italian Grand Prix,NOR,2.0,,,0
+2021,Italian Grand Prix,OCO,1.0,,,0
+2021,Italian Grand Prix,OCO,2.0,,,0
+2021,Italian Grand Prix,PER,1.0,,,0
+2021,Italian Grand Prix,PER,2.0,,,0
+2021,Italian Grand Prix,RIC,1.0,,,0
+2021,Italian Grand Prix,RIC,2.0,,,0
+2021,Italian Grand Prix,RUS,1.0,,,0
+2021,Italian Grand Prix,RUS,2.0,,,0
+2021,Italian Grand Prix,SAI,1.0,,,0
+2021,Italian Grand Prix,SAI,2.0,,,0
+2021,Italian Grand Prix,STR,1.0,,,0
+2021,Italian Grand Prix,STR,2.0,,,0
+2021,Italian Grand Prix,VER,1.0,,,0
+2021,Italian Grand Prix,VET,1.0,,,0
+2021,Italian Grand Prix,VET,3.0,,,0
+2021,Mexico City Grand Prix,ALO,1.0,,,0
+2021,Mexico City Grand Prix,ALO,2.0,,,0
+2021,Mexico City Grand Prix,BOT,2.0,,,0
+2021,Mexico City Grand Prix,BOT,3.0,,,0
+2021,Mexico City Grand Prix,GAS,1.0,,,0
+2021,Mexico City Grand Prix,GAS,2.0,,,0
+2021,Mexico City Grand Prix,GIO,2.0,,,0
+2021,Mexico City Grand Prix,HAM,1.0,,,0
+2021,Mexico City Grand Prix,HAM,2.0,,,0
+2021,Mexico City Grand Prix,LAT,2.0,,,0
+2021,Mexico City Grand Prix,LAT,3.0,,,0
+2021,Mexico City Grand Prix,LEC,1.0,,,0
+2021,Mexico City Grand Prix,LEC,2.0,,,0
+2021,Mexico City Grand Prix,MAZ,2.0,,,0
+2021,Mexico City Grand Prix,NOR,1.0,,,0
+2021,Mexico City Grand Prix,NOR,2.0,,,0
+2021,Mexico City Grand Prix,OCO,2.0,,,0
+2021,Mexico City Grand Prix,PER,1.0,,,0
+2021,Mexico City Grand Prix,PER,2.0,,,0
+2021,Mexico City Grand Prix,RAI,1.0,,,0
+2021,Mexico City Grand Prix,RAI,2.0,,,0
+2021,Mexico City Grand Prix,RIC,2.0,,,0
+2021,Mexico City Grand Prix,RIC,3.0,,,0
+2021,Mexico City Grand Prix,RUS,2.0,,,0
+2021,Mexico City Grand Prix,SAI,1.0,,,0
+2021,Mexico City Grand Prix,SAI,2.0,,,0
+2021,Mexico City Grand Prix,STR,2.0,,,0
+2021,Mexico City Grand Prix,STR,3.0,,,0
+2021,Mexico City Grand Prix,VER,1.0,,,0
+2021,Mexico City Grand Prix,VER,2.0,,,0
+2021,Mexico City Grand Prix,VET,1.0,,,0
+2021,Mexico City Grand Prix,VET,2.0,,,0
+2021,Monaco Grand Prix,ALO,1.0,,,0
+2021,Monaco Grand Prix,ALO,2.0,-0.3022719677502026,0.09838416188406655,31
+2021,Monaco Grand Prix,BOT,1.0,-0.5667886145213435,0.001662314568517011,28
+2021,Monaco Grand Prix,GAS,1.0,-0.6159542500058428,0.00048381935456742395,28
+2021,Monaco Grand Prix,GAS,2.0,,,0
+2021,Monaco Grand Prix,GIO,1.0,-0.3600622414380279,0.04662839500569138,31
+2021,Monaco Grand Prix,GIO,2.0,,,0
+2021,Monaco Grand Prix,HAM,1.0,-0.7117005236715683,3.14548222810118e-05,27
+2021,Monaco Grand Prix,HAM,2.0,,,0
+2021,Monaco Grand Prix,LAT,1.0,,,0
+2021,Monaco Grand Prix,LAT,2.0,,,0
+2021,Monaco Grand Prix,MAZ,1.0,0.2219223457408559,0.2221889512954007,32
+2021,Monaco Grand Prix,MAZ,2.0,,,0
+2021,Monaco Grand Prix,MSC,1.0,0.30794257616948234,0.07191313313403518,35
+2021,Monaco Grand Prix,MSC,2.0,,,0
+2021,Monaco Grand Prix,NOR,1.0,-0.46751488976744243,0.012122931904774476,28
+2021,Monaco Grand Prix,NOR,2.0,,,0
+2021,Monaco Grand Prix,OCO,1.0,-0.5396328466921142,0.0008213632783488226,35
+2021,Monaco Grand Prix,OCO,2.0,,,0
+2021,Monaco Grand Prix,PER,1.0,-0.8299852095467257,2.3356281423643937e-09,33
+2021,Monaco Grand Prix,PER,2.0,,,0
+2021,Monaco Grand Prix,RAI,1.0,,,0
+2021,Monaco Grand Prix,RAI,2.0,,,0
+2021,Monaco Grand Prix,RIC,1.0,,,0
+2021,Monaco Grand Prix,RIC,2.0,,,0
+2021,Monaco Grand Prix,RUS,1.0,,,0
+2021,Monaco Grand Prix,RUS,2.0,,,0
+2021,Monaco Grand Prix,SAI,1.0,-0.5207718934990819,0.0031724902136323462,30
+2021,Monaco Grand Prix,SAI,2.0,,,0
+2021,Monaco Grand Prix,STR,1.0,,,0
+2021,Monaco Grand Prix,STR,2.0,-0.293747325478455,0.2367614596490065,18
+2021,Monaco Grand Prix,TSU,1.0,,,0
+2021,Monaco Grand Prix,VER,1.0,-0.6954160516831992,9.971516984064421e-06,32
+2021,Monaco Grand Prix,VER,2.0,,,0
+2021,Monaco Grand Prix,VET,1.0,-0.7845387487904761,4.729112227043565e-07,29
+2021,Monaco Grand Prix,VET,2.0,,,0
+2021,Portuguese Grand Prix,ALO,3.0,,,0
+2021,Portuguese Grand Prix,ALO,4.0,,,0
+2021,Portuguese Grand Prix,BOT,3.0,,,0
+2021,Portuguese Grand Prix,BOT,4.0,,,0
+2021,Portuguese Grand Prix,GAS,3.0,-0.6006322517786816,0.010784317134087812,17
+2021,Portuguese Grand Prix,GAS,4.0,,,0
+2021,Portuguese Grand Prix,GIO,3.0,,,0
+2021,Portuguese Grand Prix,GIO,4.0,,,0
+2021,Portuguese Grand Prix,HAM,3.0,,,0
+2021,Portuguese Grand Prix,HAM,4.0,,,0
+2021,Portuguese Grand Prix,LAT,3.0,,,0
+2021,Portuguese Grand Prix,LAT,4.0,,,0
+2021,Portuguese Grand Prix,LEC,3.0,,,0
+2021,Portuguese Grand Prix,LEC,4.0,,,0
+2021,Portuguese Grand Prix,MAZ,3.0,,,0
+2021,Portuguese Grand Prix,MAZ,5.0,0.08806397664893408,0.7119831893012233,20
+2021,Portuguese Grand Prix,MSC,3.0,,,0
+2021,Portuguese Grand Prix,MSC,4.0,,,0
+2021,Portuguese Grand Prix,NOR,3.0,-0.28432251549991755,0.30440102096224403,15
+2021,Portuguese Grand Prix,NOR,4.0,,,0
+2021,Portuguese Grand Prix,OCO,3.0,-0.5888626226511512,0.020908908353744777,15
+2021,Portuguese Grand Prix,OCO,4.0,,,0
+2021,Portuguese Grand Prix,PER,3.0,,,0
+2021,Portuguese Grand Prix,RIC,3.0,,,0
+2021,Portuguese Grand Prix,RIC,4.0,,,0
+2021,Portuguese Grand Prix,RUS,3.0,,,0
+2021,Portuguese Grand Prix,RUS,4.0,,,0
+2021,Portuguese Grand Prix,SAI,4.0,,,0
+2021,Portuguese Grand Prix,STR,3.0,-0.6967325368256265,9.437800755357863e-06,32
+2021,Portuguese Grand Prix,STR,4.0,,,0
+2021,Portuguese Grand Prix,TSU,4.0,,,0
+2021,Portuguese Grand Prix,VER,3.0,,,0
+2021,Portuguese Grand Prix,VER,4.0,,,0
+2021,Portuguese Grand Prix,VET,3.0,-0.5275230078676568,0.04328740513663129,15
+2021,Portuguese Grand Prix,VET,4.0,,,0
+2021,Qatar Grand Prix,ALO,1.0,-0.8978222825031273,3.397188211413532e-08,21
+2021,Qatar Grand Prix,ALO,2.0,,,0
+2021,Qatar Grand Prix,BOT,1.0,,,0
+2021,Qatar Grand Prix,GAS,2.0,,,0
+2021,Qatar Grand Prix,GAS,3.0,,,0
+2021,Qatar Grand Prix,GIO,2.0,,,0
+2021,Qatar Grand Prix,GIO,3.0,,,0
+2021,Qatar Grand Prix,HAM,1.0,,,0
+2021,Qatar Grand Prix,HAM,2.0,,,0
+2021,Qatar Grand Prix,LAT,1.0,-0.523536782975949,0.03740948510954086,16
+2021,Qatar Grand Prix,LAT,2.0,,,0
+2021,Qatar Grand Prix,LEC,1.0,,,0
+2021,Qatar Grand Prix,LEC,2.0,,,0
+2021,Qatar Grand Prix,MAZ,1.0,,,0
+2021,Qatar Grand Prix,MAZ,2.0,-0.466158572805109,0.04424933095434953,19
+2021,Qatar Grand Prix,MSC,1.0,-0.6915489644951296,0.0007317853424433702,20
+2021,Qatar Grand Prix,MSC,2.0,,,0
+2021,Qatar Grand Prix,NOR,1.0,-0.6010546029675181,0.002419401775548611,23
+2021,Qatar Grand Prix,NOR,2.0,,,0
+2021,Qatar Grand Prix,OCO,1.0,-0.7204896567884694,0.00015562211096077207,22
+2021,Qatar Grand Prix,OCO,2.0,,,0
+2021,Qatar Grand Prix,PER,1.0,,,0
+2021,Qatar Grand Prix,PER,2.0,,,0
+2021,Qatar Grand Prix,RAI,2.0,,,0
+2021,Qatar Grand Prix,RAI,3.0,,,0
+2021,Qatar Grand Prix,RIC,1.0,,,0
+2021,Qatar Grand Prix,RIC,2.0,,,0
+2021,Qatar Grand Prix,RUS,1.0,-0.38942816311338735,0.15134918194857772,15
+2021,Qatar Grand Prix,RUS,2.0,,,0
+2021,Qatar Grand Prix,SAI,1.0,,,0
+2021,Qatar Grand Prix,SAI,2.0,,,0
+2021,Qatar Grand Prix,STR,1.0,,,0
+2021,Qatar Grand Prix,STR,2.0,,,0
+2021,Qatar Grand Prix,TSU,2.0,,,0
+2021,Qatar Grand Prix,TSU,3.0,,,0
+2021,Qatar Grand Prix,VER,1.0,,,0
+2021,Qatar Grand Prix,VER,2.0,,,0
+2021,Qatar Grand Prix,VET,1.0,-0.8177438428511403,1.0640555870621932e-06,24
+2021,Qatar Grand Prix,VET,2.0,,,0
+2021,Russian Grand Prix,ALO,1.0,,,0
+2021,Russian Grand Prix,BOT,1.0,,,0
+2021,Russian Grand Prix,BOT,2.0,,,0
+2021,Russian Grand Prix,GAS,1.0,,,0
+2021,Russian Grand Prix,GIO,1.0,,,0
+2021,Russian Grand Prix,HAM,1.0,,,0
+2021,Russian Grand Prix,HAM,2.0,,,0
+2021,Russian Grand Prix,LAT,2.0,,,0
+2021,Russian Grand Prix,LEC,1.0,,,0
+2021,Russian Grand Prix,MAZ,2.0,,,0
+2021,Russian Grand Prix,MSC,1.0,,,0
+2021,Russian Grand Prix,NOR,1.0,,,0
+2021,Russian Grand Prix,NOR,2.0,,,0
+2021,Russian Grand Prix,OCO,2.0,,,0
+2021,Russian Grand Prix,PER,1.0,,,0
+2021,Russian Grand Prix,RAI,2.0,,,0
+2021,Russian Grand Prix,RIC,1.0,,,0
+2021,Russian Grand Prix,RIC,2.0,,,0
+2021,Russian Grand Prix,RUS,2.0,,,0
+2021,Russian Grand Prix,SAI,2.0,,,0
+2021,Russian Grand Prix,STR,2.0,,,0
+2021,Russian Grand Prix,TSU,2.0,,,0
+2021,Russian Grand Prix,VER,1.0,,,0
+2021,Russian Grand Prix,VER,2.0,,,0
+2021,Russian Grand Prix,VET,1.0,,,0
+2021,Russian Grand Prix,VET,2.0,,,0
+2021,Saudi Arabian Grand Prix,ALO,4.0,,,0
+2021,Saudi Arabian Grand Prix,BOT,4.0,,,0
+2021,Saudi Arabian Grand Prix,GAS,3.0,,,0
+2021,Saudi Arabian Grand Prix,GIO,3.0,,,0
+2021,Saudi Arabian Grand Prix,HAM,4.0,,,0
+2021,Saudi Arabian Grand Prix,LAT,4.0,,,0
+2021,Saudi Arabian Grand Prix,LEC,4.0,,,0
+2021,Saudi Arabian Grand Prix,NOR,4.0,,,0
+2021,Saudi Arabian Grand Prix,OCO,3.0,,,0
+2021,Saudi Arabian Grand Prix,RAI,4.0,,,0
+2021,Saudi Arabian Grand Prix,RIC,3.0,,,0
+2021,Saudi Arabian Grand Prix,SAI,3.0,,,0
+2021,Saudi Arabian Grand Prix,STR,4.0,,,0
+2021,Saudi Arabian Grand Prix,TSU,4.0,,,0
+2021,Saudi Arabian Grand Prix,VER,3.0,,,0
+2021,Saudi Arabian Grand Prix,VET,3.0,,,0
+2021,Spanish Grand Prix,ALO,1.0,-0.20179462149598748,0.47077623610198804,15
+2021,Spanish Grand Prix,ALO,2.0,,,0
+2021,Spanish Grand Prix,BOT,1.0,-0.5435611402912421,0.019724253918004492,18
+2021,Spanish Grand Prix,BOT,2.0,,,0
+2021,Spanish Grand Prix,GAS,2.0,,,0
+2021,Spanish Grand Prix,GAS,3.0,0.2250680534491026,0.38511115111858557,17
+2021,Spanish Grand Prix,GIO,2.0,,,0
+2021,Spanish Grand Prix,GIO,3.0,0.4215471785700938,0.03583670496072497,25
+2021,Spanish Grand Prix,HAM,1.0,0.2647518548200721,0.22215074701348594,23
+2021,Spanish Grand Prix,HAM,3.0,,,0
+2021,Spanish Grand Prix,LAT,2.0,,,0
+2021,Spanish Grand Prix,LAT,3.0,,,0
+2021,Spanish Grand Prix,LEC,1.0,-0.19687217385500666,0.3679234728205599,23
+2021,Spanish Grand Prix,LEC,2.0,,,0
+2021,Spanish Grand Prix,MAZ,1.0,-0.2754169198004362,0.3018633715316765,16
+2021,Spanish Grand Prix,MAZ,2.0,,,0
+2021,Spanish Grand Prix,MAZ,3.0,,,0
+2021,Spanish Grand Prix,MSC,1.0,-0.3113823847284434,0.2237549399031662,17
+2021,Spanish Grand Prix,MSC,2.0,,,0
+2021,Spanish Grand Prix,NOR,1.0,-0.4599062795850619,0.06324513997253865,17
+2021,Spanish Grand Prix,NOR,2.0,,,0
+2021,Spanish Grand Prix,OCO,1.0,-0.06116487702465362,0.8094808652061327,18
+2021,Spanish Grand Prix,OCO,2.0,,,0
+2021,Spanish Grand Prix,PER,1.0,-0.08428200995337769,0.7092178130150317,22
+2021,Spanish Grand Prix,PER,2.0,,,0
+2021,Spanish Grand Prix,RAI,1.0,,,0
+2021,Spanish Grand Prix,RAI,2.0,0.09749984974497455,0.6285230249566733,27
+2021,Spanish Grand Prix,RIC,1.0,-0.16465247327472135,0.48787487278063946,20
+2021,Spanish Grand Prix,RIC,2.0,,,0
+2021,Spanish Grand Prix,RIC,3.0,-0.4761632251269853,0.03931241091451648,19
+2021,Spanish Grand Prix,RUS,2.0,,,0
+2021,Spanish Grand Prix,RUS,3.0,,,0
+2021,Spanish Grand Prix,SAI,1.0,-0.15745840569343592,0.5461418928574516,17
+2021,Spanish Grand Prix,SAI,2.0,,,0
+2021,Spanish Grand Prix,SAI,3.0,-0.32857009431885015,0.169607839294563,19
+2021,Spanish Grand Prix,STR,1.0,-0.45914018905183507,0.0736109299957052,16
+2021,Spanish Grand Prix,STR,2.0,,,0
+2021,Spanish Grand Prix,STR,3.0,0.2892742030739253,0.16076040163216526,25
+2021,Spanish Grand Prix,VER,1.0,0.41407808184206035,0.07798548379135624,19
+2021,Spanish Grand Prix,VER,2.0,,,0
+2021,Spanish Grand Prix,VET,1.0,-0.31068609812671083,0.2597129107468139,15
+2021,Spanish Grand Prix,VET,2.0,,,0
+2021,Spanish Grand Prix,VET,3.0,0.2232956266367727,0.2728558115927491,26
+2021,Styrian Grand Prix,ALO,1.0,-0.5636909723512443,0.0033410341290356386,25
+2021,Styrian Grand Prix,ALO,2.0,,,0
+2021,Styrian Grand Prix,BOT,1.0,,,0
+2021,Styrian Grand Prix,BOT,2.0,,,0
+2021,Styrian Grand Prix,GIO,1.0,,,0
+2021,Styrian Grand Prix,GIO,2.0,,,0
+2021,Styrian Grand Prix,HAM,1.0,,,0
+2021,Styrian Grand Prix,HAM,2.0,,,0
+2021,Styrian Grand Prix,LAT,2.0,-0.19001815695629934,0.3969974645367326,22
+2021,Styrian Grand Prix,LAT,3.0,,,0
+2021,Styrian Grand Prix,LEC,2.0,,,0
+2021,Styrian Grand Prix,LEC,3.0,,,0
+2021,Styrian Grand Prix,MAZ,1.0,,,0
+2021,Styrian Grand Prix,MAZ,2.0,,,0
+2021,Styrian Grand Prix,MSC,1.0,,,0
+2021,Styrian Grand Prix,MSC,2.0,,,0
+2021,Styrian Grand Prix,NOR,1.0,-0.2081798644628903,0.27849891886547434,29
+2021,Styrian Grand Prix,NOR,2.0,,,0
+2021,Styrian Grand Prix,OCO,1.0,,,0
+2021,Styrian Grand Prix,OCO,2.0,,,0
+2021,Styrian Grand Prix,PER,1.0,-0.5788726914451271,0.003039458949488921,24
+2021,Styrian Grand Prix,PER,2.0,,,0
+2021,Styrian Grand Prix,PER,3.0,,,0
+2021,Styrian Grand Prix,RAI,1.0,,,0
+2021,Styrian Grand Prix,RAI,2.0,,,0
+2021,Styrian Grand Prix,RIC,1.0,,,0
+2021,Styrian Grand Prix,RIC,2.0,,,0
+2021,Styrian Grand Prix,RUS,1.0,,,0
+2021,Styrian Grand Prix,SAI,1.0,,,0
+2021,Styrian Grand Prix,SAI,2.0,,,0
+2021,Styrian Grand Prix,STR,1.0,-0.3424829203426199,0.10966353009915145,23
+2021,Styrian Grand Prix,STR,2.0,,,0
+2021,Styrian Grand Prix,TSU,1.0,-0.5303130624154558,0.007682186362147427,24
+2021,Styrian Grand Prix,TSU,2.0,,,0
+2021,Styrian Grand Prix,VER,1.0,,,0
+2021,Styrian Grand Prix,VER,2.0,,,0
+2021,Styrian Grand Prix,VET,1.0,,,0
+2021,Styrian Grand Prix,VET,2.0,,,0
+2021,São Paulo Grand Prix,ALO,3.0,,,0
+2021,São Paulo Grand Prix,ALO,4.0,,,0
+2021,São Paulo Grand Prix,BOT,3.0,,,0
+2021,São Paulo Grand Prix,BOT,5.0,,,0
+2021,São Paulo Grand Prix,GAS,4.0,,,0
+2021,São Paulo Grand Prix,GAS,5.0,,,0
+2021,São Paulo Grand Prix,GIO,3.0,,,0
+2021,São Paulo Grand Prix,GIO,5.0,,,0
+2021,São Paulo Grand Prix,HAM,5.0,,,0
+2021,São Paulo Grand Prix,LAT,4.0,,,0
+2021,São Paulo Grand Prix,LAT,5.0,,,0
+2021,São Paulo Grand Prix,LEC,4.0,,,0
+2021,São Paulo Grand Prix,LEC,5.0,,,0
+2021,São Paulo Grand Prix,MAZ,3.0,,,0
+2021,São Paulo Grand Prix,MAZ,4.0,,,0
+2021,São Paulo Grand Prix,MSC,4.0,,,0
+2021,São Paulo Grand Prix,MSC,5.0,,,0
+2021,São Paulo Grand Prix,NOR,5.0,,,0
+2021,São Paulo Grand Prix,NOR,6.0,,,0
+2021,São Paulo Grand Prix,OCO,3.0,,,0
+2021,São Paulo Grand Prix,OCO,4.0,,,0
+2021,São Paulo Grand Prix,PER,3.0,,,0
+2021,São Paulo Grand Prix,PER,5.0,,,0
+2021,São Paulo Grand Prix,RAI,3.0,,,0
+2021,São Paulo Grand Prix,RAI,4.0,,,0
+2021,São Paulo Grand Prix,RAI,5.0,,,0
+2021,São Paulo Grand Prix,RIC,3.0,,,0
+2021,São Paulo Grand Prix,RIC,4.0,,,0
+2021,São Paulo Grand Prix,RUS,4.0,,,0
+2021,São Paulo Grand Prix,RUS,5.0,,,0
+2021,São Paulo Grand Prix,SAI,4.0,,,0
+2021,São Paulo Grand Prix,SAI,5.0,,,0
+2021,São Paulo Grand Prix,STR,4.0,,,0
+2021,São Paulo Grand Prix,TSU,5.0,,,0
+2021,São Paulo Grand Prix,TSU,6.0,,,0
+2021,São Paulo Grand Prix,VER,5.0,,,0
+2021,São Paulo Grand Prix,VET,3.0,,,0
+2021,São Paulo Grand Prix,VET,4.0,,,0
+2021,Turkish Grand Prix,ALO,1.0,,,0
+2021,Turkish Grand Prix,ALO,2.0,,,0
+2021,Turkish Grand Prix,BOT,1.0,,,0
+2021,Turkish Grand Prix,BOT,2.0,,,0
+2021,Turkish Grand Prix,GAS,1.0,,,0
+2021,Turkish Grand Prix,GAS,2.0,,,0
+2021,Turkish Grand Prix,GIO,1.0,,,0
+2021,Turkish Grand Prix,GIO,2.0,,,0
+2021,Turkish Grand Prix,HAM,1.0,,,0
+2021,Turkish Grand Prix,LAT,1.0,,,0
+2021,Turkish Grand Prix,LAT,2.0,,,0
+2021,Turkish Grand Prix,LEC,1.0,,,0
+2021,Turkish Grand Prix,MAZ,1.0,,,0
+2021,Turkish Grand Prix,MAZ,2.0,,,0
+2021,Turkish Grand Prix,MSC,1.0,,,0
+2021,Turkish Grand Prix,MSC,2.0,,,0
+2021,Turkish Grand Prix,NOR,1.0,,,0
+2021,Turkish Grand Prix,NOR,2.0,,,0
+2021,Turkish Grand Prix,OCO,1.0,,,0
+2021,Turkish Grand Prix,PER,1.0,,,0
+2021,Turkish Grand Prix,PER,2.0,,,0
+2021,Turkish Grand Prix,RAI,1.0,,,0
+2021,Turkish Grand Prix,RAI,2.0,,,0
+2021,Turkish Grand Prix,RIC,1.0,,,0
+2021,Turkish Grand Prix,RIC,2.0,,,0
+2021,Turkish Grand Prix,RUS,1.0,,,0
+2021,Turkish Grand Prix,RUS,2.0,,,0
+2021,Turkish Grand Prix,SAI,1.0,,,0
+2021,Turkish Grand Prix,SAI,2.0,,,0
+2021,Turkish Grand Prix,STR,1.0,,,0
+2021,Turkish Grand Prix,STR,2.0,,,0
+2021,Turkish Grand Prix,TSU,1.0,,,0
+2021,Turkish Grand Prix,TSU,2.0,,,0
+2021,Turkish Grand Prix,VER,1.0,,,0
+2021,Turkish Grand Prix,VER,2.0,,,0
+2021,Turkish Grand Prix,VET,1.0,,,0
+2021,Turkish Grand Prix,VET,3.0,,,0
+2021,United States Grand Prix,ALO,2.0,,,0
+2021,United States Grand Prix,BOT,2.0,,,0
+2021,United States Grand Prix,BOT,3.0,,,0
+2021,United States Grand Prix,GIO,2.0,,,0
+2021,United States Grand Prix,GIO,3.0,,,0
+2021,United States Grand Prix,HAM,2.0,,,0
+2021,United States Grand Prix,HAM,3.0,,,0
+2021,United States Grand Prix,LAT,2.0,,,0
+2021,United States Grand Prix,LAT,3.0,,,0
+2021,United States Grand Prix,LEC,2.0,,,0
+2021,United States Grand Prix,LEC,3.0,,,0
+2021,United States Grand Prix,MAZ,2.0,,,0
+2021,United States Grand Prix,MAZ,4.0,,,0
+2021,United States Grand Prix,MSC,2.0,,,0
+2021,United States Grand Prix,MSC,3.0,,,0
+2021,United States Grand Prix,NOR,2.0,,,0
+2021,United States Grand Prix,NOR,3.0,,,0
+2021,United States Grand Prix,OCO,2.0,,,0
+2021,United States Grand Prix,PER,3.0,,,0
+2021,United States Grand Prix,RAI,2.0,,,0
+2021,United States Grand Prix,RAI,3.0,,,0
+2021,United States Grand Prix,RIC,2.0,,,0
+2021,United States Grand Prix,RIC,3.0,,,0
+2021,United States Grand Prix,RUS,2.0,,,0
+2021,United States Grand Prix,RUS,3.0,,,0
+2021,United States Grand Prix,SAI,2.0,,,0
+2021,United States Grand Prix,SAI,3.0,,,0
+2021,United States Grand Prix,STR,1.0,,,0
+2021,United States Grand Prix,STR,3.0,,,0
+2021,United States Grand Prix,TSU,2.0,,,0
+2021,United States Grand Prix,TSU,3.0,,,0
+2021,United States Grand Prix,VER,2.0,,,0
+2021,United States Grand Prix,VER,3.0,,,0
+2021,United States Grand Prix,VET,1.0,,,0
+2021,United States Grand Prix,VET,2.0,,,0
+2021,United States Grand Prix,VET,3.0,,,0
+2022,Abu Dhabi Grand Prix,ALB,2.0,,,0
+2022,Abu Dhabi Grand Prix,ALB,3.0,,,0
+2022,Abu Dhabi Grand Prix,ALO,1.0,,,0
+2022,Abu Dhabi Grand Prix,BOT,1.0,,,0
+2022,Abu Dhabi Grand Prix,BOT,2.0,,,0
+2022,Abu Dhabi Grand Prix,GAS,2.0,,,0
+2022,Abu Dhabi Grand Prix,HAM,1.0,,,0
+2022,Abu Dhabi Grand Prix,HAM,2.0,,,0
+2022,Abu Dhabi Grand Prix,LAT,2.0,,,0
+2022,Abu Dhabi Grand Prix,LAT,3.0,,,0
+2022,Abu Dhabi Grand Prix,LEC,1.0,,,0
+2022,Abu Dhabi Grand Prix,LEC,2.0,,,0
+2022,Abu Dhabi Grand Prix,MAG,1.0,,,0
+2022,Abu Dhabi Grand Prix,MAG,2.0,,,0
+2022,Abu Dhabi Grand Prix,MSC,2.0,,,0
+2022,Abu Dhabi Grand Prix,MSC,3.0,,,0
+2022,Abu Dhabi Grand Prix,NOR,2.0,,,0
+2022,Abu Dhabi Grand Prix,NOR,3.0,,,0
+2022,Abu Dhabi Grand Prix,OCO,2.0,,,0
+2022,Abu Dhabi Grand Prix,OCO,3.0,,,0
+2022,Abu Dhabi Grand Prix,PER,2.0,,,0
+2022,Abu Dhabi Grand Prix,PER,3.0,,,0
+2022,Abu Dhabi Grand Prix,RIC,1.0,,,0
+2022,Abu Dhabi Grand Prix,RIC,2.0,,,0
+2022,Abu Dhabi Grand Prix,RUS,2.0,,,0
+2022,Abu Dhabi Grand Prix,RUS,3.0,,,0
+2022,Abu Dhabi Grand Prix,SAI,1.0,,,0
+2022,Abu Dhabi Grand Prix,SAI,2.0,,,0
+2022,Abu Dhabi Grand Prix,SAI,3.0,,,0
+2022,Abu Dhabi Grand Prix,STR,2.0,,,0
+2022,Abu Dhabi Grand Prix,STR,3.0,,,0
+2022,Abu Dhabi Grand Prix,TSU,2.0,,,0
+2022,Abu Dhabi Grand Prix,TSU,3.0,0.9374284278469937,3.280301424862018e-09,19
+2022,Abu Dhabi Grand Prix,VER,1.0,,,0
+2022,Abu Dhabi Grand Prix,VER,2.0,,,0
+2022,Abu Dhabi Grand Prix,VET,1.0,,,0
+2022,Abu Dhabi Grand Prix,VET,2.0,,,0
+2022,Abu Dhabi Grand Prix,ZHO,2.0,,,0
+2022,Australian Grand Prix,ALB,1.0,,,0
+2022,Australian Grand Prix,ALO,1.0,,,0
+2022,Australian Grand Prix,BOT,1.0,,,0
+2022,Australian Grand Prix,BOT,2.0,,,0
+2022,Australian Grand Prix,GAS,2.0,,,0
+2022,Australian Grand Prix,HAM,1.0,,,0
+2022,Australian Grand Prix,HAM,2.0,,,0
+2022,Australian Grand Prix,LAT,3.0,,,0
+2022,Australian Grand Prix,LEC,1.0,,,0
+2022,Australian Grand Prix,LEC,2.0,,,0
+2022,Australian Grand Prix,MAG,1.0,,,0
+2022,Australian Grand Prix,MAG,2.0,,,0
+2022,Australian Grand Prix,MSC,2.0,,,0
+2022,Australian Grand Prix,NOR,2.0,,,0
+2022,Australian Grand Prix,OCO,2.0,,,0
+2022,Australian Grand Prix,PER,2.0,,,0
+2022,Australian Grand Prix,RIC,2.0,,,0
+2022,Australian Grand Prix,RUS,1.0,,,0
+2022,Australian Grand Prix,RUS,2.0,,,0
+2022,Australian Grand Prix,STR,3.0,,,0
+2022,Australian Grand Prix,STR,4.0,,,0
+2022,Australian Grand Prix,TSU,2.0,,,0
+2022,Australian Grand Prix,VER,2.0,,,0
+2022,Australian Grand Prix,VET,1.0,,,0
+2022,Australian Grand Prix,ZHO,2.0,,,0
+2022,Austrian Grand Prix,ALB,2.0,,,0
+2022,Austrian Grand Prix,ALO,1.0,,,0
+2022,Austrian Grand Prix,ALO,2.0,,,0
+2022,Austrian Grand Prix,BOT,2.0,,,0
+2022,Austrian Grand Prix,GAS,2.0,,,0
+2022,Austrian Grand Prix,HAM,1.0,,,0
+2022,Austrian Grand Prix,HAM,2.0,,,0
+2022,Austrian Grand Prix,LAT,2.0,,,0
+2022,Austrian Grand Prix,LEC,1.0,,,0
+2022,Austrian Grand Prix,LEC,2.0,,,0
+2022,Austrian Grand Prix,MAG,2.0,,,0
+2022,Austrian Grand Prix,MSC,2.0,,,0
+2022,Austrian Grand Prix,NOR,2.0,,,0
+2022,Austrian Grand Prix,OCO,2.0,,,0
+2022,Austrian Grand Prix,PER,2.0,,,0
+2022,Austrian Grand Prix,RIC,2.0,,,0
+2022,Austrian Grand Prix,RUS,2.0,,,0
+2022,Austrian Grand Prix,SAI,1.0,,,0
+2022,Austrian Grand Prix,SAI,2.0,,,0
+2022,Austrian Grand Prix,STR,1.0,,,0
+2022,Austrian Grand Prix,STR,2.0,,,0
+2022,Austrian Grand Prix,STR,3.0,,,0
+2022,Austrian Grand Prix,TSU,1.0,,,0
+2022,Austrian Grand Prix,TSU,2.0,,,0
+2022,Austrian Grand Prix,VER,2.0,,,0
+2022,Austrian Grand Prix,VER,3.0,,,0
+2022,Austrian Grand Prix,VET,1.0,,,0
+2022,Austrian Grand Prix,VET,2.0,,,0
+2022,Austrian Grand Prix,ZHO,1.0,,,0
+2022,Austrian Grand Prix,ZHO,2.0,,,0
+2022,Azerbaijan Grand Prix,ALB,2.0,,,0
+2022,Azerbaijan Grand Prix,ALB,3.0,,,0
+2022,Azerbaijan Grand Prix,ALO,2.0,,,0
+2022,Azerbaijan Grand Prix,BOT,1.0,,,0
+2022,Azerbaijan Grand Prix,BOT,2.0,,,0
+2022,Azerbaijan Grand Prix,GAS,2.0,,,0
+2022,Azerbaijan Grand Prix,HAM,2.0,,,0
+2022,Azerbaijan Grand Prix,HAM,3.0,,,0
+2022,Azerbaijan Grand Prix,LAT,3.0,,,0
+2022,Azerbaijan Grand Prix,MAG,2.0,,,0
+2022,Azerbaijan Grand Prix,MSC,3.0,,,0
+2022,Azerbaijan Grand Prix,NOR,1.0,,,0
+2022,Azerbaijan Grand Prix,NOR,2.0,,,0
+2022,Azerbaijan Grand Prix,OCO,1.0,,,0
+2022,Azerbaijan Grand Prix,OCO,2.0,,,0
+2022,Azerbaijan Grand Prix,PER,2.0,,,0
+2022,Azerbaijan Grand Prix,PER,3.0,,,0
+2022,Azerbaijan Grand Prix,RIC,1.0,,,0
+2022,Azerbaijan Grand Prix,RIC,2.0,,,0
+2022,Azerbaijan Grand Prix,RUS,2.0,,,0
+2022,Azerbaijan Grand Prix,RUS,3.0,,,0
+2022,Azerbaijan Grand Prix,STR,1.0,,,0
+2022,Azerbaijan Grand Prix,TSU,2.0,,,0
+2022,Azerbaijan Grand Prix,VER,3.0,,,0
+2022,Azerbaijan Grand Prix,VET,2.0,,,0
+2022,Bahrain Grand Prix,ALB,2.0,,,0
+2022,Bahrain Grand Prix,ALO,3.0,,,0
+2022,Bahrain Grand Prix,BOT,2.0,,,0
+2022,Bahrain Grand Prix,GAS,2.0,,,0
+2022,Bahrain Grand Prix,HAM,3.0,,,0
+2022,Bahrain Grand Prix,HUL,1.0,0.8051593958561993,0.0001678206530508533,16
+2022,Bahrain Grand Prix,HUL,2.0,0.5865823477437482,0.016922344580484014,16
+2022,Bahrain Grand Prix,LAT,2.0,0.8666680090861171,1.4017320868801149e-05,16
+2022,Bahrain Grand Prix,MAG,2.0,0.9932955639683209,2.009858432349823e-16,18
+2022,Bahrain Grand Prix,MSC,2.0,,,0
+2022,Bahrain Grand Prix,NOR,1.0,,,0
+2022,Bahrain Grand Prix,NOR,2.0,,,0
+2022,Bahrain Grand Prix,PER,2.0,,,0
+2022,Bahrain Grand Prix,RUS,2.0,,,0
+2022,Bahrain Grand Prix,SAI,2.0,0.9764774049158483,2.094544372802169e-11,17
+2022,Bahrain Grand Prix,STR,1.0,0.6557801911046031,0.00794336183993453,15
+2022,Bahrain Grand Prix,STR,2.0,0.7554579883188138,0.0002884914850139579,18
+2022,Bahrain Grand Prix,ZHO,2.0,,,0
+2022,Belgian Grand Prix,ALB,3.0,,,0
+2022,Belgian Grand Prix,ALO,3.0,,,0
+2022,Belgian Grand Prix,GAS,3.0,0.4030024095043465,0.07809759833191267,20
+2022,Belgian Grand Prix,LAT,3.0,,,0
+2022,Belgian Grand Prix,LEC,2.0,,,0
+2022,Belgian Grand Prix,LEC,3.0,,,0
+2022,Belgian Grand Prix,MAG,3.0,,,0
+2022,Belgian Grand Prix,OCO,2.0,,,0
+2022,Belgian Grand Prix,PER,3.0,,,0
+2022,Belgian Grand Prix,RIC,2.0,,,0
+2022,Belgian Grand Prix,SAI,3.0,,,0
+2022,Belgian Grand Prix,STR,3.0,,,0
+2022,Belgian Grand Prix,VET,2.0,,,0
+2022,British Grand Prix,ALO,2.0,,,0
+2022,British Grand Prix,BOT,2.0,,,0
+2022,British Grand Prix,HAM,2.0,,,0
+2022,British Grand Prix,LAT,2.0,-0.44644976650270823,0.0952755989327572,15
+2022,British Grand Prix,LAT,3.0,,,0
+2022,British Grand Prix,LEC,2.0,,,0
+2022,British Grand Prix,LEC,3.0,,,0
+2022,British Grand Prix,MAG,2.0,,,0
+2022,British Grand Prix,MAG,3.0,,,0
+2022,British Grand Prix,MSC,2.0,,,0
+2022,British Grand Prix,MSC,3.0,,,0
+2022,British Grand Prix,NOR,2.0,,,0
+2022,British Grand Prix,OCO,2.0,-0.43513949581768635,0.07111075574114131,18
+2022,British Grand Prix,PER,3.0,,,0
+2022,British Grand Prix,RIC,2.0,,,0
+2022,British Grand Prix,SAI,2.0,,,0
+2022,British Grand Prix,SAI,3.0,,,0
+2022,British Grand Prix,STR,3.0,,,0
+2022,British Grand Prix,TSU,3.0,,,0
+2022,British Grand Prix,VET,3.0,,,0
+2022,Canadian Grand Prix,ALB,2.0,,,0
+2022,Canadian Grand Prix,ALB,3.0,,,0
+2022,Canadian Grand Prix,ALO,1.0,,,0
+2022,Canadian Grand Prix,ALO,2.0,,,0
+2022,Canadian Grand Prix,ALO,3.0,,,0
+2022,Canadian Grand Prix,BOT,1.0,,,0
+2022,Canadian Grand Prix,BOT,2.0,,,0
+2022,Canadian Grand Prix,GAS,2.0,,,0
+2022,Canadian Grand Prix,GAS,3.0,,,0
+2022,Canadian Grand Prix,HAM,2.0,,,0
+2022,Canadian Grand Prix,HAM,3.0,,,0
+2022,Canadian Grand Prix,LAT,2.0,,,0
+2022,Canadian Grand Prix,LAT,3.0,,,0
+2022,Canadian Grand Prix,LEC,1.0,,,0
+2022,Canadian Grand Prix,LEC,2.0,,,0
+2022,Canadian Grand Prix,MAG,2.0,,,0
+2022,Canadian Grand Prix,NOR,2.0,,,0
+2022,Canadian Grand Prix,NOR,3.0,,,0
+2022,Canadian Grand Prix,OCO,2.0,,,0
+2022,Canadian Grand Prix,OCO,3.0,,,0
+2022,Canadian Grand Prix,RIC,2.0,,,0
+2022,Canadian Grand Prix,RIC,3.0,,,0
+2022,Canadian Grand Prix,RUS,2.0,,,0
+2022,Canadian Grand Prix,RUS,3.0,,,0
+2022,Canadian Grand Prix,SAI,2.0,,,0
+2022,Canadian Grand Prix,SAI,3.0,,,0
+2022,Canadian Grand Prix,STR,1.0,,,0
+2022,Canadian Grand Prix,STR,2.0,,,0
+2022,Canadian Grand Prix,TSU,2.0,,,0
+2022,Canadian Grand Prix,VER,2.0,,,0
+2022,Canadian Grand Prix,VER,3.0,,,0
+2022,Canadian Grand Prix,VET,3.0,,,0
+2022,Canadian Grand Prix,ZHO,2.0,,,0
+2022,Canadian Grand Prix,ZHO,3.0,,,0
+2022,Dutch Grand Prix,ALB,1.0,,,0
+2022,Dutch Grand Prix,ALB,2.0,,,0
+2022,Dutch Grand Prix,ALO,2.0,,,0
+2022,Dutch Grand Prix,BOT,2.0,0.23771353637777895,0.3753326084578783,16
+2022,Dutch Grand Prix,GAS,2.0,,,0
+2022,Dutch Grand Prix,HAM,1.0,,,0
+2022,Dutch Grand Prix,LAT,3.0,,,0
+2022,Dutch Grand Prix,LEC,2.0,,,0
+2022,Dutch Grand Prix,MAG,2.0,,,0
+2022,Dutch Grand Prix,MSC,2.0,,,0
+2022,Dutch Grand Prix,NOR,2.0,,,0
+2022,Dutch Grand Prix,OCO,2.0,,,0
+2022,Dutch Grand Prix,PER,2.0,,,0
+2022,Dutch Grand Prix,RIC,3.0,,,0
+2022,Dutch Grand Prix,RUS,1.0,,,0
+2022,Dutch Grand Prix,SAI,2.0,,,0
+2022,Dutch Grand Prix,STR,2.0,,,0
+2022,Dutch Grand Prix,TSU,2.0,,,0
+2022,Dutch Grand Prix,VER,2.0,,,0
+2022,Dutch Grand Prix,VET,2.0,,,0
+2022,Dutch Grand Prix,ZHO,2.0,0.4070378248817801,0.053899893047587896,23
+2022,Emilia Romagna Grand Prix,ALB,2.0,,,0
+2022,Emilia Romagna Grand Prix,BOT,2.0,,,0
+2022,Emilia Romagna Grand Prix,GAS,2.0,,,0
+2022,Emilia Romagna Grand Prix,HAM,2.0,,,0
+2022,Emilia Romagna Grand Prix,LAT,2.0,,,0
+2022,Emilia Romagna Grand Prix,LEC,2.0,,,0
+2022,Emilia Romagna Grand Prix,MAG,2.0,,,0
+2022,Emilia Romagna Grand Prix,MSC,2.0,,,0
+2022,Emilia Romagna Grand Prix,NOR,2.0,,,0
+2022,Emilia Romagna Grand Prix,OCO,2.0,,,0
+2022,Emilia Romagna Grand Prix,PER,2.0,,,0
+2022,Emilia Romagna Grand Prix,RIC,4.0,,,0
+2022,Emilia Romagna Grand Prix,RUS,2.0,,,0
+2022,Emilia Romagna Grand Prix,STR,2.0,,,0
+2022,Emilia Romagna Grand Prix,TSU,2.0,,,0
+2022,Emilia Romagna Grand Prix,VER,2.0,,,0
+2022,Emilia Romagna Grand Prix,VET,2.0,,,0
+2022,Emilia Romagna Grand Prix,ZHO,2.0,,,0
+2022,French Grand Prix,ALB,1.0,,,0
+2022,French Grand Prix,ALB,2.0,,,0
+2022,French Grand Prix,ALO,1.0,,,0
+2022,French Grand Prix,ALO,2.0,,,0
+2022,French Grand Prix,BOT,1.0,,,0
+2022,French Grand Prix,GAS,1.0,,,0
+2022,French Grand Prix,GAS,2.0,,,0
+2022,French Grand Prix,HAM,1.0,,,0
+2022,French Grand Prix,HAM,2.0,,,0
+2022,French Grand Prix,LAT,1.0,,,0
+2022,French Grand Prix,LAT,2.0,,,0
+2022,French Grand Prix,LEC,1.0,,,0
+2022,French Grand Prix,MAG,3.0,,,0
+2022,French Grand Prix,MSC,3.0,,,0
+2022,French Grand Prix,NOR,1.0,,,0
+2022,French Grand Prix,NOR,2.0,,,0
+2022,French Grand Prix,OCO,1.0,,,0
+2022,French Grand Prix,OCO,2.0,,,0
+2022,French Grand Prix,PER,1.0,,,0
+2022,French Grand Prix,PER,2.0,,,0
+2022,French Grand Prix,RIC,1.0,,,0
+2022,French Grand Prix,RIC,2.0,,,0
+2022,French Grand Prix,RUS,1.0,,,0
+2022,French Grand Prix,RUS,2.0,,,0
+2022,French Grand Prix,SAI,1.0,,,0
+2022,French Grand Prix,SAI,2.0,,,0
+2022,French Grand Prix,STR,1.0,,,0
+2022,French Grand Prix,STR,2.0,,,0
+2022,French Grand Prix,VER,2.0,,,0
+2022,French Grand Prix,VET,1.0,,,0
+2022,French Grand Prix,VET,2.0,,,0
+2022,French Grand Prix,ZHO,3.0,,,0
+2022,Hungarian Grand Prix,ALB,2.0,,,0
+2022,Hungarian Grand Prix,ALB,3.0,,,0
+2022,Hungarian Grand Prix,ALB,4.0,0.856074985228672,4.8431419927491796e-08,25
+2022,Hungarian Grand Prix,ALO,1.0,,,0
+2022,Hungarian Grand Prix,ALO,2.0,,,0
+2022,Hungarian Grand Prix,BOT,1.0,,,0
+2022,Hungarian Grand Prix,BOT,2.0,,,0
+2022,Hungarian Grand Prix,GAS,2.0,,,0
+2022,Hungarian Grand Prix,GAS,3.0,0.16058586653353688,0.5113480838472131,19
+2022,Hungarian Grand Prix,HAM,1.0,,,0
+2022,Hungarian Grand Prix,HAM,2.0,,,0
+2022,Hungarian Grand Prix,HAM,3.0,0.7023626429573455,0.003504686326968789,15
+2022,Hungarian Grand Prix,LAT,2.0,,,0
+2022,Hungarian Grand Prix,LEC,1.0,,,0
+2022,Hungarian Grand Prix,LEC,2.0,,,0
+2022,Hungarian Grand Prix,MAG,2.0,,,0
+2022,Hungarian Grand Prix,MAG,3.0,,,0
+2022,Hungarian Grand Prix,MSC,1.0,,,0
+2022,Hungarian Grand Prix,MSC,2.0,,,0
+2022,Hungarian Grand Prix,MSC,3.0,,,0
+2022,Hungarian Grand Prix,NOR,2.0,,,0
+2022,Hungarian Grand Prix,NOR,3.0,,,0
+2022,Hungarian Grand Prix,OCO,1.0,,,0
+2022,Hungarian Grand Prix,OCO,2.0,,,0
+2022,Hungarian Grand Prix,PER,2.0,,,0
+2022,Hungarian Grand Prix,PER,3.0,,,0
+2022,Hungarian Grand Prix,RIC,2.0,,,0
+2022,Hungarian Grand Prix,RIC,3.0,,,0
+2022,Hungarian Grand Prix,RUS,2.0,,,0
+2022,Hungarian Grand Prix,RUS,3.0,,,0
+2022,Hungarian Grand Prix,SAI,2.0,,,0
+2022,Hungarian Grand Prix,SAI,3.0,0.8037981464267266,3.3803226506165e-05,19
+2022,Hungarian Grand Prix,STR,2.0,,,0
+2022,Hungarian Grand Prix,STR,3.0,0.5621094457007026,0.012247273646881548,19
+2022,Hungarian Grand Prix,TSU,2.0,,,0
+2022,Hungarian Grand Prix,VER,2.0,,,0
+2022,Hungarian Grand Prix,VER,3.0,,,0
+2022,Hungarian Grand Prix,VET,2.0,,,0
+2022,Hungarian Grand Prix,VET,3.0,,,0
+2022,Hungarian Grand Prix,ZHO,1.0,,,0
+2022,Hungarian Grand Prix,ZHO,2.0,,,0
+2022,Italian Grand Prix,ALO,1.0,,,0
+2022,Italian Grand Prix,BOT,1.0,,,0
+2022,Italian Grand Prix,DEV,1.0,0.07433908825886189,0.7923194518145362,15
+2022,Italian Grand Prix,DEV,2.0,,,0
+2022,Italian Grand Prix,GAS,2.0,,,0
+2022,Italian Grand Prix,HAM,1.0,,,0
+2022,Italian Grand Prix,LAT,2.0,,,0
+2022,Italian Grand Prix,LEC,2.0,,,0
+2022,Italian Grand Prix,MAG,1.0,,,0
+2022,Italian Grand Prix,MAG,2.0,,,0
+2022,Italian Grand Prix,MSC,1.0,,,0
+2022,Italian Grand Prix,NOR,1.0,,,0
+2022,Italian Grand Prix,OCO,1.0,-0.21671763665102756,0.4378573484042562,15
+2022,Italian Grand Prix,OCO,2.0,,,0
+2022,Italian Grand Prix,PER,2.0,,,0
+2022,Italian Grand Prix,RIC,1.0,,,0
+2022,Italian Grand Prix,RIC,2.0,,,0
+2022,Italian Grand Prix,RUS,1.0,0.16832775803138358,0.5043418589861122,18
+2022,Italian Grand Prix,RUS,2.0,,,0
+2022,Italian Grand Prix,SAI,1.0,,,0
+2022,Italian Grand Prix,SAI,2.0,-0.8011335256475713,0.00033082400010895653,15
+2022,Italian Grand Prix,STR,2.0,,,0
+2022,Italian Grand Prix,TSU,1.0,,,0
+2022,Italian Grand Prix,TSU,2.0,,,0
+2022,Italian Grand Prix,VER,1.0,-0.09297022265233218,0.6885488445060778,21
+2022,Italian Grand Prix,VER,2.0,,,0
+2022,Italian Grand Prix,ZHO,2.0,,,0
+2022,Japanese Grand Prix,BOT,3.0,,,0
+2022,Japanese Grand Prix,HAM,3.0,,,0
+2022,Japanese Grand Prix,LAT,3.0,,,0
+2022,Japanese Grand Prix,LEC,3.0,,,0
+2022,Japanese Grand Prix,MAG,3.0,,,0
+2022,Japanese Grand Prix,MSC,3.0,,,0
+2022,Japanese Grand Prix,NOR,3.0,,,0
+2022,Japanese Grand Prix,OCO,3.0,,,0
+2022,Japanese Grand Prix,PER,3.0,,,0
+2022,Japanese Grand Prix,RIC,3.0,,,0
+2022,Japanese Grand Prix,RUS,3.0,,,0
+2022,Japanese Grand Prix,VER,3.0,,,0
+2022,Japanese Grand Prix,VET,3.0,,,0
+2022,Mexico City Grand Prix,ALB,1.0,,,0
+2022,Mexico City Grand Prix,ALB,2.0,0.3865759473648456,0.03483967279026294,30
+2022,Mexico City Grand Prix,ALO,1.0,,,0
+2022,Mexico City Grand Prix,ALO,2.0,,,0
+2022,Mexico City Grand Prix,BOT,1.0,,,0
+2022,Mexico City Grand Prix,BOT,2.0,,,0
+2022,Mexico City Grand Prix,GAS,1.0,,,0
+2022,Mexico City Grand Prix,GAS,2.0,0.35955090461412526,0.06021432995576572,28
+2022,Mexico City Grand Prix,HAM,1.0,,,0
+2022,Mexico City Grand Prix,HAM,2.0,,,0
+2022,Mexico City Grand Prix,LAT,1.0,-0.21514632989839672,0.348971773126483,21
+2022,Mexico City Grand Prix,LAT,2.0,,,0
+2022,Mexico City Grand Prix,LAT,3.0,0.34162714621796936,0.2126732578571932,15
+2022,Mexico City Grand Prix,LEC,1.0,0.6922717972723005,8.912908274562226e-05,26
+2022,Mexico City Grand Prix,LEC,2.0,,,0
+2022,Mexico City Grand Prix,MAG,1.0,,,0
+2022,Mexico City Grand Prix,MAG,2.0,-0.3426095865550287,0.06885609083267599,29
+2022,Mexico City Grand Prix,MSC,1.0,-0.03560075917850374,0.8750205859685689,22
+2022,Mexico City Grand Prix,MSC,2.0,,,0
+2022,Mexico City Grand Prix,NOR,1.0,,,0
+2022,Mexico City Grand Prix,NOR,2.0,,,0
+2022,Mexico City Grand Prix,OCO,1.0,,,0
+2022,Mexico City Grand Prix,OCO,2.0,,,0
+2022,Mexico City Grand Prix,PER,1.0,0.2463713080783959,0.28166492590009806,21
+2022,Mexico City Grand Prix,PER,2.0,,,0
+2022,Mexico City Grand Prix,RIC,1.0,,,0
+2022,Mexico City Grand Prix,RIC,2.0,-0.08785757566884261,0.690169331787581,23
+2022,Mexico City Grand Prix,RUS,1.0,,,0
+2022,Mexico City Grand Prix,RUS,2.0,,,0
+2022,Mexico City Grand Prix,SAI,1.0,0.6683199043522693,0.00013898652056948345,27
+2022,Mexico City Grand Prix,SAI,2.0,,,0
+2022,Mexico City Grand Prix,STR,1.0,,,0
+2022,Mexico City Grand Prix,STR,2.0,0.3887235082828213,0.08159166358382032,21
+2022,Mexico City Grand Prix,STR,3.0,0.5480713218392576,0.003080712189233131,27
+2022,Mexico City Grand Prix,TSU,1.0,-0.4441684194503888,0.020285485912345604,27
+2022,Mexico City Grand Prix,TSU,2.0,,,0
+2022,Mexico City Grand Prix,VER,1.0,0.4773554882773227,0.021256284920731654,23
+2022,Mexico City Grand Prix,VER,2.0,,,0
+2022,Mexico City Grand Prix,VET,1.0,-0.28588807223707263,0.09097526907812468,36
+2022,Mexico City Grand Prix,VET,2.0,,,0
+2022,Mexico City Grand Prix,ZHO,1.0,,,0
+2022,Mexico City Grand Prix,ZHO,2.0,0.241946186014857,0.2780080425479269,22
+2022,Miami Grand Prix,ALB,2.0,,,0
+2022,Miami Grand Prix,ALO,2.0,,,0
+2022,Miami Grand Prix,BOT,1.0,,,0
+2022,Miami Grand Prix,BOT,2.0,,,0
+2022,Miami Grand Prix,GAS,2.0,,,0
+2022,Miami Grand Prix,HAM,1.0,,,0
+2022,Miami Grand Prix,HAM,2.0,,,0
+2022,Miami Grand Prix,LAT,1.0,,,0
+2022,Miami Grand Prix,LEC,1.0,,,0
+2022,Miami Grand Prix,LEC,2.0,,,0
+2022,Miami Grand Prix,MAG,2.0,,,0
+2022,Miami Grand Prix,MSC,2.0,,,0
+2022,Miami Grand Prix,NOR,1.0,,,0
+2022,Miami Grand Prix,NOR,2.0,,,0
+2022,Miami Grand Prix,OCO,1.0,,,0
+2022,Miami Grand Prix,PER,1.0,,,0
+2022,Miami Grand Prix,RIC,1.0,,,0
+2022,Miami Grand Prix,RUS,1.0,,,0
+2022,Miami Grand Prix,SAI,1.0,,,0
+2022,Miami Grand Prix,SAI,2.0,,,0
+2022,Miami Grand Prix,STR,1.0,,,0
+2022,Miami Grand Prix,TSU,2.0,,,0
+2022,Miami Grand Prix,VER,1.0,,,0
+2022,Miami Grand Prix,VER,2.0,,,0
+2022,Miami Grand Prix,VET,1.0,,,0
+2022,Monaco Grand Prix,ALB,4.0,,,0
+2022,Monaco Grand Prix,ALO,3.0,,,0
+2022,Monaco Grand Prix,BOT,3.0,,,0
+2022,Monaco Grand Prix,GAS,4.0,,,0
+2022,Monaco Grand Prix,HAM,4.0,,,0
+2022,Monaco Grand Prix,LEC,4.0,,,0
+2022,Monaco Grand Prix,NOR,4.0,,,0
+2022,Monaco Grand Prix,OCO,3.0,,,0
+2022,Monaco Grand Prix,PER,4.0,,,0
+2022,Monaco Grand Prix,RIC,3.0,,,0
+2022,Monaco Grand Prix,RUS,3.0,,,0
+2022,Monaco Grand Prix,SAI,3.0,,,0
+2022,Monaco Grand Prix,STR,3.0,,,0
+2022,Monaco Grand Prix,TSU,4.0,,,0
+2022,Monaco Grand Prix,VER,4.0,,,0
+2022,Monaco Grand Prix,VET,4.0,,,0
+2022,Monaco Grand Prix,ZHO,3.0,,,0
+2022,Saudi Arabian Grand Prix,ALB,2.0,,,0
+2022,Saudi Arabian Grand Prix,ALO,2.0,,,0
+2022,Saudi Arabian Grand Prix,GAS,2.0,,,0
+2022,Saudi Arabian Grand Prix,HAM,1.0,,,0
+2022,Saudi Arabian Grand Prix,HUL,1.0,,,0
+2022,Saudi Arabian Grand Prix,LEC,2.0,,,0
+2022,Saudi Arabian Grand Prix,MAG,1.0,,,0
+2022,Saudi Arabian Grand Prix,NOR,2.0,,,0
+2022,Saudi Arabian Grand Prix,OCO,2.0,,,0
+2022,Saudi Arabian Grand Prix,PER,2.0,,,0
+2022,Saudi Arabian Grand Prix,RIC,2.0,,,0
+2022,Saudi Arabian Grand Prix,RUS,2.0,,,0
+2022,Saudi Arabian Grand Prix,SAI,2.0,,,0
+2022,Saudi Arabian Grand Prix,STR,2.0,,,0
+2022,Saudi Arabian Grand Prix,VER,2.0,,,0
+2022,Saudi Arabian Grand Prix,ZHO,3.0,,,0
+2022,Singapore Grand Prix,ALB,1.0,,,0
+2022,Singapore Grand Prix,ALO,1.0,,,0
+2022,Singapore Grand Prix,BOT,1.0,,,0
+2022,Singapore Grand Prix,BOT,2.0,-0.374729046358854,0.10354873530523416,20
+2022,Singapore Grand Prix,GAS,1.0,,,0
+2022,Singapore Grand Prix,GAS,2.0,,,0
+2022,Singapore Grand Prix,HAM,1.0,,,0
+2022,Singapore Grand Prix,HAM,2.0,,,0
+2022,Singapore Grand Prix,LEC,1.0,,,0
+2022,Singapore Grand Prix,LEC,2.0,,,0
+2022,Singapore Grand Prix,MAG,3.0,,,0
+2022,Singapore Grand Prix,MSC,1.0,,,0
+2022,Singapore Grand Prix,MSC,3.0,-0.8134129554784153,0.00012689425340205976,16
+2022,Singapore Grand Prix,NOR,1.0,,,0
+2022,Singapore Grand Prix,NOR,2.0,,,0
+2022,Singapore Grand Prix,OCO,1.0,,,0
+2022,Singapore Grand Prix,PER,1.0,,,0
+2022,Singapore Grand Prix,PER,2.0,,,0
+2022,Singapore Grand Prix,RIC,1.0,,,0
+2022,Singapore Grand Prix,RIC,2.0,-0.8258730566932313,7.290382618424866e-06,20
+2022,Singapore Grand Prix,RUS,1.0,,,0
+2022,Singapore Grand Prix,SAI,1.0,,,0
+2022,Singapore Grand Prix,SAI,2.0,,,0
+2022,Singapore Grand Prix,STR,1.0,,,0
+2022,Singapore Grand Prix,STR,2.0,,,0
+2022,Singapore Grand Prix,TSU,1.0,,,0
+2022,Singapore Grand Prix,VER,1.0,,,0
+2022,Singapore Grand Prix,VER,3.0,-0.33617965684725953,0.1725711070322693,18
+2022,Singapore Grand Prix,VET,1.0,,,0
+2022,Singapore Grand Prix,VET,2.0,,,0
+2022,Spanish Grand Prix,ALB,3.0,0.6309411821421504,0.004989582534832507,18
+2022,Spanish Grand Prix,ALO,2.0,,,0
+2022,Spanish Grand Prix,ALO,3.0,-0.15928046240424185,0.502373237133344,20
+2022,Spanish Grand Prix,BOT,2.0,,,0
+2022,Spanish Grand Prix,BOT,3.0,,,0
+2022,Spanish Grand Prix,GAS,2.0,,,0
+2022,Spanish Grand Prix,GAS,3.0,0.7262984383351421,0.002167064422860081,15
+2022,Spanish Grand Prix,GAS,4.0,0.6689340728243579,0.002400727058276911,18
+2022,Spanish Grand Prix,HAM,2.0,0.8641242145512408,7.742792020942291e-06,17
+2022,Spanish Grand Prix,HAM,3.0,,,0
+2022,Spanish Grand Prix,HAM,4.0,0.8330284240714703,3.302963237363196e-05,17
+2022,Spanish Grand Prix,LAT,3.0,0.3778163403488735,0.08298933796254102,22
+2022,Spanish Grand Prix,LEC,1.0,0.760415273594285,0.000394947576621762,17
+2022,Spanish Grand Prix,MAG,2.0,,,0
+2022,Spanish Grand Prix,MAG,3.0,,,0
+2022,Spanish Grand Prix,MSC,2.0,0.7809531012125216,0.0003554496775865226,16
+2022,Spanish Grand Prix,MSC,3.0,,,0
+2022,Spanish Grand Prix,NOR,2.0,,,0
+2022,Spanish Grand Prix,NOR,3.0,0.433160843960675,0.09373828218608676,16
+2022,Spanish Grand Prix,OCO,2.0,,,0
+2022,Spanish Grand Prix,OCO,3.0,0.7979759823086212,0.0003635116885146726,15
+2022,Spanish Grand Prix,PER,2.0,,,0
+2022,Spanish Grand Prix,RIC,2.0,0.6549398740392547,0.0031791035264682457,18
+2022,Spanish Grand Prix,RIC,3.0,,,0
+2022,Spanish Grand Prix,RIC,4.0,0.6658904243354109,0.004863223704569697,16
+2022,Spanish Grand Prix,RUS,2.0,,,0
+2022,Spanish Grand Prix,SAI,2.0,,,0
+2022,Spanish Grand Prix,SAI,4.0,0.8437760152640631,2.9426060549522104e-06,20
+2022,Spanish Grand Prix,STR,3.0,,,0
+2022,Spanish Grand Prix,STR,4.0,0.33996311640235527,0.16748783898499053,18
+2022,Spanish Grand Prix,TSU,2.0,,,0
+2022,Spanish Grand Prix,TSU,3.0,-0.2668056161368344,0.28450719184547235,18
+2022,Spanish Grand Prix,VER,4.0,,,0
+2022,Spanish Grand Prix,VET,1.0,0.4279304916578447,0.08660715226970639,17
+2022,Spanish Grand Prix,VET,2.0,-0.02780268612781973,0.9100441409567586,19
+2022,Spanish Grand Prix,VET,3.0,,,0
+2022,Spanish Grand Prix,ZHO,2.0,,,0
+2022,São Paulo Grand Prix,ALB,2.0,,,0
+2022,São Paulo Grand Prix,ALB,3.0,,,0
+2022,São Paulo Grand Prix,ALO,2.0,,,0
+2022,São Paulo Grand Prix,ALO,3.0,,,0
+2022,São Paulo Grand Prix,BOT,1.0,0.32333525168797317,0.2218675473530948,16
+2022,São Paulo Grand Prix,BOT,2.0,,,0
+2022,São Paulo Grand Prix,BOT,3.0,-0.6633974714771151,0.005084508299344037,16
+2022,São Paulo Grand Prix,HAM,1.0,0.3184203324379844,0.15949669273628855,21
+2022,São Paulo Grand Prix,HAM,2.0,,,0
+2022,São Paulo Grand Prix,LAT,3.0,,,0
+2022,São Paulo Grand Prix,LEC,3.0,0.6107044757323408,0.003276066497710827,21
+2022,São Paulo Grand Prix,LEC,4.0,-0.653073174094309,0.004476506605630528,17
+2022,São Paulo Grand Prix,MSC,1.0,,,0
+2022,São Paulo Grand Prix,MSC,2.0,0.5579434383468569,0.010576797246285576,20
+2022,São Paulo Grand Prix,MSC,3.0,0.16225787129832647,0.5634298225629377,15
+2022,São Paulo Grand Prix,NOR,1.0,0.8494830708025818,3.1221462997524534e-05,16
+2022,São Paulo Grand Prix,NOR,2.0,,,0
+2022,São Paulo Grand Prix,OCO,1.0,0.07038118352648895,0.7956286293515398,16
+2022,São Paulo Grand Prix,OCO,2.0,,,0
+2022,São Paulo Grand Prix,PER,1.0,0.8797463487991124,1.5361183330815865e-05,15
+2022,São Paulo Grand Prix,PER,2.0,,,0
+2022,São Paulo Grand Prix,PER,3.0,,,0
+2022,São Paulo Grand Prix,RUS,1.0,0.8248998933792988,8.402114717990935e-05,16
+2022,São Paulo Grand Prix,RUS,2.0,,,0
+2022,São Paulo Grand Prix,SAI,2.0,0.5833686325671364,0.013963647408826937,17
+2022,São Paulo Grand Prix,STR,1.0,,,0
+2022,São Paulo Grand Prix,STR,2.0,,,0
+2022,São Paulo Grand Prix,TSU,2.0,0.7164350070264751,0.0008231877928693672,18
+2022,São Paulo Grand Prix,VER,3.0,0.23994720725940877,0.2701218113122805,23
+2022,São Paulo Grand Prix,VET,1.0,0.7411167187695289,0.0004330746674340635,18
+2022,São Paulo Grand Prix,VET,2.0,,,0
+2022,São Paulo Grand Prix,VET,3.0,,,0
+2022,São Paulo Grand Prix,ZHO,2.0,,,0
+2022,São Paulo Grand Prix,ZHO,3.0,-0.2949835608546665,0.16171121312458947,24
+2022,United States Grand Prix,ALB,3.0,,,0
+2022,United States Grand Prix,ALO,1.0,,,0
+2022,United States Grand Prix,ALO,3.0,,,0
+2022,United States Grand Prix,GAS,3.0,,,0
+2022,United States Grand Prix,HAM,3.0,,,0
+2022,United States Grand Prix,LAT,3.0,,,0
+2022,United States Grand Prix,LEC,1.0,,,0
+2022,United States Grand Prix,LEC,3.0,,,0
+2022,United States Grand Prix,MAG,1.0,,,0
+2022,United States Grand Prix,MAG,2.0,,,0
+2022,United States Grand Prix,MSC,1.0,,,0
+2022,United States Grand Prix,MSC,3.0,,,0
+2022,United States Grand Prix,NOR,3.0,,,0
+2022,United States Grand Prix,OCO,1.0,,,0
+2022,United States Grand Prix,OCO,2.0,,,0
+2022,United States Grand Prix,PER,3.0,,,0
+2022,United States Grand Prix,RIC,3.0,,,0
+2022,United States Grand Prix,RUS,3.0,,,0
+2022,United States Grand Prix,TSU,3.0,,,0
+2022,United States Grand Prix,VER,3.0,,,0
+2022,United States Grand Prix,VET,1.0,,,0
+2022,United States Grand Prix,VET,2.0,,,0
+2022,United States Grand Prix,ZHO,3.0,,,0
+2023,Abu Dhabi Grand Prix,ALB,2.0,,,0
+2023,Abu Dhabi Grand Prix,ALO,2.0,,,0
+2023,Abu Dhabi Grand Prix,ALO,3.0,,,0
+2023,Abu Dhabi Grand Prix,BOT,1.0,,,0
+2023,Abu Dhabi Grand Prix,BOT,2.0,,,0
+2023,Abu Dhabi Grand Prix,GAS,1.0,,,0
+2023,Abu Dhabi Grand Prix,GAS,3.0,,,0
+2023,Abu Dhabi Grand Prix,HAM,2.0,,,0
+2023,Abu Dhabi Grand Prix,HAM,3.0,,,0
+2023,Abu Dhabi Grand Prix,HUL,2.0,,,0
+2023,Abu Dhabi Grand Prix,HUL,3.0,,,0
+2023,Abu Dhabi Grand Prix,LEC,1.0,,,0
+2023,Abu Dhabi Grand Prix,LEC,2.0,,,0
+2023,Abu Dhabi Grand Prix,LEC,3.0,,,0
+2023,Abu Dhabi Grand Prix,MAG,2.0,,,0
+2023,Abu Dhabi Grand Prix,MAG,3.0,,,0
+2023,Abu Dhabi Grand Prix,NOR,2.0,,,0
+2023,Abu Dhabi Grand Prix,NOR,3.0,,,0
+2023,Abu Dhabi Grand Prix,OCO,2.0,,,0
+2023,Abu Dhabi Grand Prix,PER,1.0,,,0
+2023,Abu Dhabi Grand Prix,PER,2.0,,,0
+2023,Abu Dhabi Grand Prix,PER,3.0,,,0
+2023,Abu Dhabi Grand Prix,PIA,2.0,,,0
+2023,Abu Dhabi Grand Prix,PIA,3.0,,,0
+2023,Abu Dhabi Grand Prix,RIC,2.0,,,0
+2023,Abu Dhabi Grand Prix,RIC,3.0,,,0
+2023,Abu Dhabi Grand Prix,RUS,2.0,,,0
+2023,Abu Dhabi Grand Prix,RUS,3.0,,,0
+2023,Abu Dhabi Grand Prix,SAI,1.0,,,0
+2023,Abu Dhabi Grand Prix,SAI,2.0,,,0
+2023,Abu Dhabi Grand Prix,SAR,2.0,,,0
+2023,Abu Dhabi Grand Prix,SAR,3.0,,,0
+2023,Abu Dhabi Grand Prix,STR,1.0,,,0
+2023,Abu Dhabi Grand Prix,STR,2.0,,,0
+2023,Abu Dhabi Grand Prix,STR,3.0,,,0
+2023,Abu Dhabi Grand Prix,TSU,1.0,,,0
+2023,Abu Dhabi Grand Prix,TSU,2.0,,,0
+2023,Abu Dhabi Grand Prix,VER,2.0,,,0
+2023,Abu Dhabi Grand Prix,ZHO,2.0,,,0
+2023,Abu Dhabi Grand Prix,ZHO,3.0,,,0
+2023,Australian Grand Prix,ALO,2.0,,,0
+2023,Australian Grand Prix,BOT,3.0,,,0
+2023,Australian Grand Prix,DEV,2.0,,,0
+2023,Australian Grand Prix,GAS,2.0,,,0
+2023,Australian Grand Prix,HAM,2.0,,,0
+2023,Australian Grand Prix,HUL,2.0,,,0
+2023,Australian Grand Prix,MAG,3.0,,,0
+2023,Australian Grand Prix,NOR,2.0,,,0
+2023,Australian Grand Prix,OCO,3.0,,,0
+2023,Australian Grand Prix,PER,4.0,,,0
+2023,Australian Grand Prix,PIA,2.0,,,0
+2023,Australian Grand Prix,SAI,3.0,,,0
+2023,Australian Grand Prix,SAR,4.0,,,0
+2023,Australian Grand Prix,STR,2.0,,,0
+2023,Australian Grand Prix,TSU,2.0,,,0
+2023,Australian Grand Prix,VER,2.0,,,0
+2023,Australian Grand Prix,ZHO,3.0,,,0
+2023,Austrian Grand Prix,ALB,3.0,,,0
+2023,Austrian Grand Prix,ALB,4.0,,,0
+2023,Austrian Grand Prix,ALO,3.0,,,0
+2023,Austrian Grand Prix,ALO,4.0,,,0
+2023,Austrian Grand Prix,BOT,3.0,,,0
+2023,Austrian Grand Prix,BOT,4.0,,,0
+2023,Austrian Grand Prix,DEV,3.0,,,0
+2023,Austrian Grand Prix,DEV,4.0,,,0
+2023,Austrian Grand Prix,GAS,3.0,,,0
+2023,Austrian Grand Prix,GAS,4.0,,,0
+2023,Austrian Grand Prix,HAM,3.0,,,0
+2023,Austrian Grand Prix,HAM,4.0,,,0
+2023,Austrian Grand Prix,LEC,3.0,,,0
+2023,Austrian Grand Prix,LEC,4.0,,,0
+2023,Austrian Grand Prix,MAG,3.0,,,0
+2023,Austrian Grand Prix,MAG,4.0,,,0
+2023,Austrian Grand Prix,NOR,3.0,,,0
+2023,Austrian Grand Prix,NOR,4.0,,,0
+2023,Austrian Grand Prix,OCO,3.0,,,0
+2023,Austrian Grand Prix,OCO,4.0,,,0
+2023,Austrian Grand Prix,PER,2.0,,,0
+2023,Austrian Grand Prix,PER,3.0,,,0
+2023,Austrian Grand Prix,PER,4.0,,,0
+2023,Austrian Grand Prix,PIA,4.0,,,0
+2023,Austrian Grand Prix,PIA,5.0,,,0
+2023,Austrian Grand Prix,RUS,3.0,,,0
+2023,Austrian Grand Prix,RUS,4.0,,,0
+2023,Austrian Grand Prix,SAI,3.0,,,0
+2023,Austrian Grand Prix,SAI,4.0,,,0
+2023,Austrian Grand Prix,SAR,3.0,,,0
+2023,Austrian Grand Prix,SAR,4.0,,,0
+2023,Austrian Grand Prix,STR,3.0,,,0
+2023,Austrian Grand Prix,STR,4.0,,,0
+2023,Austrian Grand Prix,STR,5.0,,,0
+2023,Austrian Grand Prix,TSU,3.0,,,0
+2023,Austrian Grand Prix,TSU,4.0,,,0
+2023,Austrian Grand Prix,TSU,5.0,,,0
+2023,Austrian Grand Prix,VER,2.0,,,0
+2023,Austrian Grand Prix,VER,3.0,,,0
+2023,Austrian Grand Prix,VER,4.0,,,0
+2023,Austrian Grand Prix,ZHO,3.0,,,0
+2023,Austrian Grand Prix,ZHO,4.0,,,0
+2023,Azerbaijan Grand Prix,ALB,2.0,,,0
+2023,Azerbaijan Grand Prix,ALO,2.0,,,0
+2023,Azerbaijan Grand Prix,BOT,3.0,,,0
+2023,Azerbaijan Grand Prix,GAS,3.0,,,0
+2023,Azerbaijan Grand Prix,HAM,2.0,,,0
+2023,Azerbaijan Grand Prix,HUL,1.0,,,0
+2023,Azerbaijan Grand Prix,LEC,2.0,,,0
+2023,Azerbaijan Grand Prix,MAG,2.0,,,0
+2023,Azerbaijan Grand Prix,NOR,2.0,,,0
+2023,Azerbaijan Grand Prix,OCO,1.0,,,0
+2023,Azerbaijan Grand Prix,PER,2.0,,,0
+2023,Azerbaijan Grand Prix,PIA,2.0,,,0
+2023,Azerbaijan Grand Prix,RUS,2.0,,,0
+2023,Azerbaijan Grand Prix,SAI,2.0,,,0
+2023,Azerbaijan Grand Prix,SAR,2.0,,,0
+2023,Azerbaijan Grand Prix,STR,2.0,,,0
+2023,Azerbaijan Grand Prix,TSU,2.0,,,0
+2023,Azerbaijan Grand Prix,VER,2.0,,,0
+2023,Azerbaijan Grand Prix,ZHO,2.0,,,0
+2023,Bahrain Grand Prix,ALB,4.0,0.9417903514674938,5.2017949314841217e-08,16
+2023,Bahrain Grand Prix,ALO,2.0,,,0
+2023,Bahrain Grand Prix,ALO,3.0,,,0
+2023,Bahrain Grand Prix,BOT,2.0,,,0
+2023,Bahrain Grand Prix,BOT,3.0,,,0
+2023,Bahrain Grand Prix,DEV,3.0,,,0
+2023,Bahrain Grand Prix,GAS,4.0,0.9631683876414756,2.2365540687877716e-09,16
+2023,Bahrain Grand Prix,HAM,2.0,,,0
+2023,Bahrain Grand Prix,HAM,3.0,,,0
+2023,Bahrain Grand Prix,HUL,4.0,0.5497008618683087,0.033771903553947845,15
+2023,Bahrain Grand Prix,LEC,2.0,,,0
+2023,Bahrain Grand Prix,MAG,4.0,0.8937549127533971,7.111695790241285e-06,15
+2023,Bahrain Grand Prix,OCO,3.0,,,0
+2023,Bahrain Grand Prix,PER,2.0,0.35095728669279386,0.1996314682980221,15
+2023,Bahrain Grand Prix,PER,3.0,,,0
+2023,Bahrain Grand Prix,RUS,2.0,,,0
+2023,Bahrain Grand Prix,RUS,3.0,,,0
+2023,Bahrain Grand Prix,SAI,2.0,,,0
+2023,Bahrain Grand Prix,SAI,3.0,,,0
+2023,Bahrain Grand Prix,SAR,2.0,0.8022908164479322,0.00018438673861865672,16
+2023,Bahrain Grand Prix,SAR,4.0,0.6957701633937627,0.003969727224183912,15
+2023,Bahrain Grand Prix,STR,3.0,,,0
+2023,Bahrain Grand Prix,TSU,4.0,0.969284579592548,6.376731219912223e-10,16
+2023,Bahrain Grand Prix,VER,2.0,0.02975994910567575,0.9008814990098952,20
+2023,Bahrain Grand Prix,VER,3.0,,,0
+2023,Bahrain Grand Prix,ZHO,2.0,,,0
+2023,Bahrain Grand Prix,ZHO,3.0,0.5852408310870779,0.010726113354062036,18
+2023,Belgian Grand Prix,ALO,2.0,,,0
+2023,Belgian Grand Prix,BOT,2.0,,,0
+2023,Belgian Grand Prix,BOT,3.0,,,0
+2023,Belgian Grand Prix,GAS,1.0,0.5573171934247635,0.01317456966600674,19
+2023,Belgian Grand Prix,GAS,2.0,,,0
+2023,Belgian Grand Prix,HUL,3.0,0.9073020466141014,2.0427333944289717e-07,18
+2023,Belgian Grand Prix,MAG,2.0,,,0
+2023,Belgian Grand Prix,MAG,3.0,,,0
+2023,Belgian Grand Prix,NOR,3.0,-0.02330661208011056,0.9119480791631427,25
+2023,Belgian Grand Prix,OCO,2.0,,,0
+2023,Belgian Grand Prix,OCO,3.0,0.24723067900476542,0.3387293959890096,17
+2023,Belgian Grand Prix,RIC,2.0,,,0
+2023,Belgian Grand Prix,RIC,3.0,,,0
+2023,Belgian Grand Prix,RUS,1.0,,,0
+2023,Belgian Grand Prix,RUS,2.0,0.6720252675231673,0.0011726608562272652,20
+2023,Belgian Grand Prix,STR,1.0,,,0
+2023,Belgian Grand Prix,STR,2.0,0.11457504185242143,0.6116549691879558,22
+2023,Belgian Grand Prix,TSU,3.0,0.5945499690079072,0.0092600513373501,18
+2023,Belgian Grand Prix,ZHO,2.0,,,0
+2023,Belgian Grand Prix,ZHO,3.0,0.4364252714098715,0.07987278173661307,17
+2023,British Grand Prix,ALB,1.0,,,0
+2023,British Grand Prix,ALO,1.0,,,0
+2023,British Grand Prix,BOT,1.0,,,0
+2023,British Grand Prix,DEV,1.0,-0.7232020264564312,4.417164408089097e-05,25
+2023,British Grand Prix,GAS,1.0,,,0
+2023,British Grand Prix,HAM,1.0,,,0
+2023,British Grand Prix,HUL,2.0,,,0
+2023,British Grand Prix,LEC,1.0,,,0
+2023,British Grand Prix,MAG,1.0,,,0
+2023,British Grand Prix,NOR,1.0,,,0
+2023,British Grand Prix,PER,1.0,,,0
+2023,British Grand Prix,PER,2.0,-0.4390217433109868,0.08889011985993311,16
+2023,British Grand Prix,PIA,1.0,,,0
+2023,British Grand Prix,PIA,2.0,,,0
+2023,British Grand Prix,RUS,1.0,-0.683638658801523,0.00011810273227172148,26
+2023,British Grand Prix,RUS,2.0,,,0
+2023,British Grand Prix,SAI,1.0,,,0
+2023,British Grand Prix,SAI,2.0,,,0
+2023,British Grand Prix,SAR,1.0,,,0
+2023,British Grand Prix,SAR,2.0,-0.23677052771717177,0.39552945962346636,15
+2023,British Grand Prix,STR,1.0,,,0
+2023,British Grand Prix,TSU,2.0,,,0
+2023,British Grand Prix,VER,1.0,,,0
+2023,British Grand Prix,ZHO,1.0,,,0
+2023,Canadian Grand Prix,ALB,2.0,,,0
+2023,Canadian Grand Prix,ALO,2.0,,,0
+2023,Canadian Grand Prix,ALO,3.0,,,0
+2023,Canadian Grand Prix,BOT,1.0,,,0
+2023,Canadian Grand Prix,BOT,2.0,,,0
+2023,Canadian Grand Prix,DEV,2.0,,,0
+2023,Canadian Grand Prix,DEV,3.0,,,0
+2023,Canadian Grand Prix,GAS,2.0,,,0
+2023,Canadian Grand Prix,GAS,3.0,,,0
+2023,Canadian Grand Prix,HAM,2.0,,,0
+2023,Canadian Grand Prix,HAM,3.0,,,0
+2023,Canadian Grand Prix,HUL,3.0,,,0
+2023,Canadian Grand Prix,LEC,1.0,,,0
+2023,Canadian Grand Prix,LEC,2.0,,,0
+2023,Canadian Grand Prix,MAG,1.0,,,0
+2023,Canadian Grand Prix,MAG,2.0,,,0
+2023,Canadian Grand Prix,MAG,3.0,,,0
+2023,Canadian Grand Prix,NOR,2.0,,,0
+2023,Canadian Grand Prix,NOR,3.0,,,0
+2023,Canadian Grand Prix,OCO,2.0,,,0
+2023,Canadian Grand Prix,OCO,3.0,,,0
+2023,Canadian Grand Prix,PER,1.0,,,0
+2023,Canadian Grand Prix,PER,2.0,,,0
+2023,Canadian Grand Prix,PIA,2.0,,,0
+2023,Canadian Grand Prix,PIA,3.0,,,0
+2023,Canadian Grand Prix,RUS,2.0,,,0
+2023,Canadian Grand Prix,SAI,1.0,,,0
+2023,Canadian Grand Prix,SAI,2.0,,,0
+2023,Canadian Grand Prix,STR,3.0,,,0
+2023,Canadian Grand Prix,TSU,2.0,,,0
+2023,Canadian Grand Prix,VER,2.0,,,0
+2023,Canadian Grand Prix,VER,3.0,,,0
+2023,Canadian Grand Prix,ZHO,3.0,,,0
+2023,Dutch Grand Prix,ALB,1.0,-0.688619815534426,3.4394940473174865e-06,36
+2023,Dutch Grand Prix,ALB,2.0,,,0
+2023,Dutch Grand Prix,ALO,3.0,-0.8497989081845667,2.8374070669019005e-09,30
+2023,Dutch Grand Prix,BOT,2.0,,,0
+2023,Dutch Grand Prix,GAS,3.0,-0.8927716834234856,3.858990233021969e-10,27
+2023,Dutch Grand Prix,HAM,3.0,-0.6498361408953802,0.000243977058245785,27
+2023,Dutch Grand Prix,HUL,2.0,,,0
+2023,Dutch Grand Prix,LAW,4.0,,,0
+2023,Dutch Grand Prix,LEC,3.0,-0.21831627055240124,0.3417432142643694,21
+2023,Dutch Grand Prix,MAG,3.0,-0.7003323465645281,0.0012098721638910625,18
+2023,Dutch Grand Prix,MAG,4.0,,,0
+2023,Dutch Grand Prix,NOR,3.0,-0.2689118100529079,0.20386144963570124,24
+2023,Dutch Grand Prix,NOR,4.0,0.19128856481965598,0.47790113135184975,16
+2023,Dutch Grand Prix,OCO,3.0,-0.6422802083821032,0.0005369155438765061,25
+2023,Dutch Grand Prix,OCO,4.0,0.3273619812297621,0.2158327064311959,16
+2023,Dutch Grand Prix,PER,3.0,-0.7805444761432794,4.171095141201007e-06,25
+2023,Dutch Grand Prix,PIA,2.0,-0.6715959634404853,0.0003263741799599516,24
+2023,Dutch Grand Prix,RUS,4.0,,,0
+2023,Dutch Grand Prix,SAI,3.0,-0.7312223347889614,7.374564749470329e-05,23
+2023,Dutch Grand Prix,SAI,4.0,0.10226654858559156,0.696118779255687,17
+2023,Dutch Grand Prix,STR,5.0,0.34598317427668973,0.0977049247085384,24
+2023,Dutch Grand Prix,TSU,3.0,-0.22581527960487094,0.15045268614565824,42
+2023,Dutch Grand Prix,VER,3.0,-0.7234969326629971,6.255135684582746e-06,30
+2023,Dutch Grand Prix,ZHO,3.0,,,0
+2023,Dutch Grand Prix,ZHO,4.0,-0.23111189014869027,0.31346989199207376,21
+2023,Hungarian Grand Prix,ALB,2.0,,,0
+2023,Hungarian Grand Prix,ALB,3.0,,,0
+2023,Hungarian Grand Prix,ALO,1.0,,,0
+2023,Hungarian Grand Prix,ALO,2.0,,,0
+2023,Hungarian Grand Prix,ALO,3.0,,,0
+2023,Hungarian Grand Prix,BOT,2.0,,,0
+2023,Hungarian Grand Prix,BOT,3.0,,,0
+2023,Hungarian Grand Prix,HAM,2.0,,,0
+2023,Hungarian Grand Prix,HAM,3.0,,,0
+2023,Hungarian Grand Prix,HUL,2.0,,,0
+2023,Hungarian Grand Prix,HUL,3.0,,,0
+2023,Hungarian Grand Prix,LEC,1.0,,,0
+2023,Hungarian Grand Prix,LEC,2.0,,,0
+2023,Hungarian Grand Prix,LEC,3.0,,,0
+2023,Hungarian Grand Prix,MAG,2.0,,,0
+2023,Hungarian Grand Prix,MAG,3.0,,,0
+2023,Hungarian Grand Prix,NOR,1.0,,,0
+2023,Hungarian Grand Prix,NOR,2.0,,,0
+2023,Hungarian Grand Prix,NOR,3.0,,,0
+2023,Hungarian Grand Prix,PER,1.0,,,0
+2023,Hungarian Grand Prix,PER,2.0,,,0
+2023,Hungarian Grand Prix,PER,3.0,,,0
+2023,Hungarian Grand Prix,PIA,1.0,,,0
+2023,Hungarian Grand Prix,PIA,2.0,,,0
+2023,Hungarian Grand Prix,PIA,3.0,,,0
+2023,Hungarian Grand Prix,RIC,1.0,,,0
+2023,Hungarian Grand Prix,RIC,3.0,,,0
+2023,Hungarian Grand Prix,RUS,1.0,,,0
+2023,Hungarian Grand Prix,RUS,2.0,,,0
+2023,Hungarian Grand Prix,RUS,3.0,,,0
+2023,Hungarian Grand Prix,SAI,2.0,,,0
+2023,Hungarian Grand Prix,SAI,3.0,,,0
+2023,Hungarian Grand Prix,SAR,2.0,,,0
+2023,Hungarian Grand Prix,SAR,3.0,,,0
+2023,Hungarian Grand Prix,STR,2.0,,,0
+2023,Hungarian Grand Prix,STR,3.0,,,0
+2023,Hungarian Grand Prix,TSU,2.0,,,0
+2023,Hungarian Grand Prix,TSU,3.0,,,0
+2023,Hungarian Grand Prix,VER,1.0,,,0
+2023,Hungarian Grand Prix,VER,2.0,,,0
+2023,Hungarian Grand Prix,VER,3.0,,,0
+2023,Hungarian Grand Prix,ZHO,2.0,,,0
+2023,Hungarian Grand Prix,ZHO,3.0,,,0
+2023,Italian Grand Prix,ALB,2.0,,,0
+2023,Italian Grand Prix,ALO,1.0,,,0
+2023,Italian Grand Prix,ALO,2.0,,,0
+2023,Italian Grand Prix,BOT,1.0,,,0
+2023,Italian Grand Prix,BOT,2.0,,,0
+2023,Italian Grand Prix,GAS,2.0,,,0
+2023,Italian Grand Prix,GAS,3.0,,,0
+2023,Italian Grand Prix,HAM,1.0,,,0
+2023,Italian Grand Prix,HAM,2.0,,,0
+2023,Italian Grand Prix,HUL,2.0,,,0
+2023,Italian Grand Prix,LAW,2.0,,,0
+2023,Italian Grand Prix,LAW,3.0,,,0
+2023,Italian Grand Prix,LEC,1.0,,,0
+2023,Italian Grand Prix,LEC,2.0,,,0
+2023,Italian Grand Prix,MAG,2.0,,,0
+2023,Italian Grand Prix,MAG,3.0,,,0
+2023,Italian Grand Prix,NOR,1.0,,,0
+2023,Italian Grand Prix,NOR,2.0,,,0
+2023,Italian Grand Prix,OCO,1.0,,,0
+2023,Italian Grand Prix,PER,1.0,,,0
+2023,Italian Grand Prix,PER,2.0,,,0
+2023,Italian Grand Prix,PIA,1.0,,,0
+2023,Italian Grand Prix,PIA,2.0,,,0
+2023,Italian Grand Prix,RUS,1.0,,,0
+2023,Italian Grand Prix,RUS,2.0,,,0
+2023,Italian Grand Prix,SAI,1.0,,,0
+2023,Italian Grand Prix,SAI,2.0,,,0
+2023,Italian Grand Prix,SAR,2.0,,,0
+2023,Italian Grand Prix,STR,1.0,,,0
+2023,Italian Grand Prix,STR,2.0,,,0
+2023,Italian Grand Prix,VER,1.0,,,0
+2023,Italian Grand Prix,VER,2.0,,,0
+2023,Italian Grand Prix,ZHO,2.0,,,0
+2023,Italian Grand Prix,ZHO,3.0,,,0
+2023,Japanese Grand Prix,ALO,3.0,,,0
+2023,Japanese Grand Prix,GAS,3.0,,,0
+2023,Japanese Grand Prix,HAM,2.0,,,0
+2023,Japanese Grand Prix,HAM,3.0,,,0
+2023,Japanese Grand Prix,LAW,3.0,,,0
+2023,Japanese Grand Prix,LEC,2.0,,,0
+2023,Japanese Grand Prix,LEC,3.0,,,0
+2023,Japanese Grand Prix,MAG,2.0,,,0
+2023,Japanese Grand Prix,MAG,3.0,,,0
+2023,Japanese Grand Prix,NOR,2.0,,,0
+2023,Japanese Grand Prix,NOR,3.0,,,0
+2023,Japanese Grand Prix,OCO,2.0,,,0
+2023,Japanese Grand Prix,OCO,3.0,,,0
+2023,Japanese Grand Prix,PIA,2.0,,,0
+2023,Japanese Grand Prix,PIA,3.0,,,0
+2023,Japanese Grand Prix,RUS,1.0,,,0
+2023,Japanese Grand Prix,RUS,2.0,,,0
+2023,Japanese Grand Prix,SAI,2.0,,,0
+2023,Japanese Grand Prix,TSU,2.0,,,0
+2023,Japanese Grand Prix,TSU,3.0,,,0
+2023,Japanese Grand Prix,VER,2.0,,,0
+2023,Japanese Grand Prix,VER,3.0,,,0
+2023,Japanese Grand Prix,ZHO,4.0,,,0
+2023,Las Vegas Grand Prix,ALB,2.0,,,0
+2023,Las Vegas Grand Prix,ALO,2.0,,,0
+2023,Las Vegas Grand Prix,ALO,3.0,,,0
+2023,Las Vegas Grand Prix,BOT,2.0,,,0
+2023,Las Vegas Grand Prix,BOT,3.0,,,0
+2023,Las Vegas Grand Prix,GAS,2.0,,,0
+2023,Las Vegas Grand Prix,HAM,3.0,,,0
+2023,Las Vegas Grand Prix,HUL,3.0,,,0
+2023,Las Vegas Grand Prix,LEC,2.0,,,0
+2023,Las Vegas Grand Prix,MAG,3.0,,,0
+2023,Las Vegas Grand Prix,OCO,2.0,,,0
+2023,Las Vegas Grand Prix,PER,2.0,,,0
+2023,Las Vegas Grand Prix,PER,3.0,,,0
+2023,Las Vegas Grand Prix,PIA,2.0,,,0
+2023,Las Vegas Grand Prix,RIC,2.0,,,0
+2023,Las Vegas Grand Prix,RUS,3.0,,,0
+2023,Las Vegas Grand Prix,SAI,2.0,,,0
+2023,Las Vegas Grand Prix,SAI,3.0,,,0
+2023,Las Vegas Grand Prix,SAR,2.0,,,0
+2023,Las Vegas Grand Prix,STR,2.0,,,0
+2023,Las Vegas Grand Prix,STR,3.0,,,0
+2023,Las Vegas Grand Prix,TSU,3.0,,,0
+2023,Las Vegas Grand Prix,VER,3.0,,,0
+2023,Las Vegas Grand Prix,ZHO,1.0,,,0
+2023,Las Vegas Grand Prix,ZHO,2.0,,,0
+2023,Mexico City Grand Prix,ALB,1.0,,,0
+2023,Mexico City Grand Prix,ALB,3.0,,,0
+2023,Mexico City Grand Prix,ALO,1.0,,,0
+2023,Mexico City Grand Prix,BOT,1.0,,,0
+2023,Mexico City Grand Prix,BOT,3.0,,,0
+2023,Mexico City Grand Prix,GAS,1.0,,,0
+2023,Mexico City Grand Prix,GAS,3.0,,,0
+2023,Mexico City Grand Prix,HAM,1.0,,,0
+2023,Mexico City Grand Prix,HAM,3.0,,,0
+2023,Mexico City Grand Prix,HUL,1.0,,,0
+2023,Mexico City Grand Prix,HUL,3.0,,,0
+2023,Mexico City Grand Prix,LEC,1.0,,,0
+2023,Mexico City Grand Prix,LEC,3.0,,,0
+2023,Mexico City Grand Prix,MAG,1.0,,,0
+2023,Mexico City Grand Prix,NOR,2.0,,,0
+2023,Mexico City Grand Prix,NOR,4.0,,,0
+2023,Mexico City Grand Prix,OCO,1.0,,,0
+2023,Mexico City Grand Prix,OCO,2.0,,,0
+2023,Mexico City Grand Prix,PIA,1.0,,,0
+2023,Mexico City Grand Prix,PIA,3.0,,,0
+2023,Mexico City Grand Prix,RIC,1.0,,,0
+2023,Mexico City Grand Prix,RIC,3.0,,,0
+2023,Mexico City Grand Prix,RUS,1.0,,,0
+2023,Mexico City Grand Prix,RUS,3.0,,,0
+2023,Mexico City Grand Prix,SAI,1.0,,,0
+2023,Mexico City Grand Prix,SAI,3.0,,,0
+2023,Mexico City Grand Prix,SAR,1.0,,,0
+2023,Mexico City Grand Prix,SAR,3.0,,,0
+2023,Mexico City Grand Prix,STR,1.0,,,0
+2023,Mexico City Grand Prix,STR,3.0,,,0
+2023,Mexico City Grand Prix,TSU,2.0,,,0
+2023,Mexico City Grand Prix,TSU,3.0,,,0
+2023,Mexico City Grand Prix,VER,1.0,,,0
+2023,Mexico City Grand Prix,VER,4.0,,,0
+2023,Mexico City Grand Prix,ZHO,1.0,,,0
+2023,Mexico City Grand Prix,ZHO,3.0,,,0
+2023,Miami Grand Prix,ALB,1.0,,,0
+2023,Miami Grand Prix,ALB,2.0,,,0
+2023,Miami Grand Prix,ALO,1.0,,,0
+2023,Miami Grand Prix,ALO,2.0,,,0
+2023,Miami Grand Prix,BOT,2.0,,,0
+2023,Miami Grand Prix,DEV,2.0,,,0
+2023,Miami Grand Prix,GAS,2.0,,,0
+2023,Miami Grand Prix,HAM,1.0,,,0
+2023,Miami Grand Prix,HAM,2.0,,,0
+2023,Miami Grand Prix,HUL,1.0,,,0
+2023,Miami Grand Prix,HUL,2.0,,,0
+2023,Miami Grand Prix,LEC,1.0,,,0
+2023,Miami Grand Prix,LEC,2.0,,,0
+2023,Miami Grand Prix,MAG,2.0,,,0
+2023,Miami Grand Prix,NOR,2.0,,,0
+2023,Miami Grand Prix,OCO,1.0,,,0
+2023,Miami Grand Prix,OCO,2.0,,,0
+2023,Miami Grand Prix,PER,1.0,,,0
+2023,Miami Grand Prix,PER,2.0,,,0
+2023,Miami Grand Prix,PIA,2.0,,,0
+2023,Miami Grand Prix,RUS,1.0,,,0
+2023,Miami Grand Prix,RUS,2.0,,,0
+2023,Miami Grand Prix,SAI,1.0,,,0
+2023,Miami Grand Prix,SAI,2.0,,,0
+2023,Miami Grand Prix,SAR,2.0,,,0
+2023,Miami Grand Prix,STR,1.0,,,0
+2023,Miami Grand Prix,TSU,1.0,,,0
+2023,Miami Grand Prix,TSU,2.0,,,0
+2023,Miami Grand Prix,VER,1.0,,,0
+2023,Miami Grand Prix,ZHO,1.0,,,0
+2023,Miami Grand Prix,ZHO,2.0,,,0
+2023,Monaco Grand Prix,ALB,2.0,,,0
+2023,Monaco Grand Prix,ALB,3.0,,,0
+2023,Monaco Grand Prix,ALO,1.0,,,0
+2023,Monaco Grand Prix,ALO,3.0,,,0
+2023,Monaco Grand Prix,BOT,1.0,,,0
+2023,Monaco Grand Prix,BOT,2.0,,,0
+2023,Monaco Grand Prix,DEV,1.0,,,0
+2023,Monaco Grand Prix,DEV,2.0,,,0
+2023,Monaco Grand Prix,GAS,1.0,,,0
+2023,Monaco Grand Prix,GAS,3.0,,,0
+2023,Monaco Grand Prix,HAM,1.0,,,0
+2023,Monaco Grand Prix,HAM,2.0,,,0
+2023,Monaco Grand Prix,HAM,3.0,,,0
+2023,Monaco Grand Prix,HUL,2.0,,,0
+2023,Monaco Grand Prix,LEC,1.0,,,0
+2023,Monaco Grand Prix,LEC,3.0,,,0
+2023,Monaco Grand Prix,MAG,1.0,,,0
+2023,Monaco Grand Prix,NOR,1.0,,,0
+2023,Monaco Grand Prix,NOR,3.0,,,0
+2023,Monaco Grand Prix,OCO,1.0,,,0
+2023,Monaco Grand Prix,OCO,2.0,,,0
+2023,Monaco Grand Prix,OCO,3.0,,,0
+2023,Monaco Grand Prix,PER,2.0,,,0
+2023,Monaco Grand Prix,PER,3.0,,,0
+2023,Monaco Grand Prix,PIA,1.0,,,0
+2023,Monaco Grand Prix,PIA,2.0,,,0
+2023,Monaco Grand Prix,RUS,1.0,,,0
+2023,Monaco Grand Prix,RUS,2.0,,,0
+2023,Monaco Grand Prix,SAI,1.0,,,0
+2023,Monaco Grand Prix,SAI,2.0,,,0
+2023,Monaco Grand Prix,SAI,3.0,,,0
+2023,Monaco Grand Prix,SAR,1.0,,,0
+2023,Monaco Grand Prix,SAR,3.0,0.6282559430504264,0.0004498134236192113,27
+2023,Monaco Grand Prix,SAR,4.0,,,0
+2023,Monaco Grand Prix,STR,1.0,,,0
+2023,Monaco Grand Prix,TSU,1.0,,,0
+2023,Monaco Grand Prix,TSU,2.0,,,0
+2023,Monaco Grand Prix,VER,1.0,,,0
+2023,Monaco Grand Prix,VER,2.0,,,0
+2023,Monaco Grand Prix,ZHO,2.0,,,0
+2023,Monaco Grand Prix,ZHO,3.0,,,0
+2023,Qatar Grand Prix,BOT,2.0,,,0
+2023,Qatar Grand Prix,BOT,3.0,,,0
+2023,Qatar Grand Prix,BOT,4.0,,,0
+2023,Qatar Grand Prix,HUL,4.0,,,0
+2023,Qatar Grand Prix,LAW,2.0,,,0
+2023,Qatar Grand Prix,LAW,3.0,,,0
+2023,Qatar Grand Prix,LAW,4.0,,,0
+2023,Qatar Grand Prix,MAG,2.0,,,0
+2023,Qatar Grand Prix,MAG,4.0,,,0
+2023,Qatar Grand Prix,RUS,3.0,,,0
+2023,Qatar Grand Prix,RUS,4.0,,,0
+2023,Qatar Grand Prix,STR,2.0,,,0
+2023,Qatar Grand Prix,STR,3.0,,,0
+2023,Qatar Grand Prix,STR,4.0,,,0
+2023,Qatar Grand Prix,TSU,3.0,,,0
+2023,Qatar Grand Prix,TSU,4.0,,,0
+2023,Saudi Arabian Grand Prix,ALB,1.0,,,0
+2023,Saudi Arabian Grand Prix,ALO,1.0,,,0
+2023,Saudi Arabian Grand Prix,ALO,2.0,,,0
+2023,Saudi Arabian Grand Prix,DEV,1.0,,,0
+2023,Saudi Arabian Grand Prix,DEV,2.0,,,0
+2023,Saudi Arabian Grand Prix,GAS,2.0,,,0
+2023,Saudi Arabian Grand Prix,HAM,1.0,,,0
+2023,Saudi Arabian Grand Prix,HAM,2.0,,,0
+2023,Saudi Arabian Grand Prix,HUL,2.0,,,0
+2023,Saudi Arabian Grand Prix,LEC,2.0,,,0
+2023,Saudi Arabian Grand Prix,MAG,2.0,,,0
+2023,Saudi Arabian Grand Prix,NOR,3.0,,,0
+2023,Saudi Arabian Grand Prix,OCO,2.0,,,0
+2023,Saudi Arabian Grand Prix,PER,1.0,,,0
+2023,Saudi Arabian Grand Prix,PER,2.0,,,0
+2023,Saudi Arabian Grand Prix,PIA,2.0,,,0
+2023,Saudi Arabian Grand Prix,RUS,1.0,,,0
+2023,Saudi Arabian Grand Prix,RUS,2.0,,,0
+2023,Saudi Arabian Grand Prix,SAI,2.0,,,0
+2023,Saudi Arabian Grand Prix,SAR,1.0,,,0
+2023,Saudi Arabian Grand Prix,SAR,2.0,,,0
+2023,Saudi Arabian Grand Prix,TSU,1.0,,,0
+2023,Saudi Arabian Grand Prix,TSU,2.0,,,0
+2023,Saudi Arabian Grand Prix,VER,1.0,,,0
+2023,Saudi Arabian Grand Prix,VER,2.0,,,0
+2023,Saudi Arabian Grand Prix,ZHO,3.0,,,0
+2023,Singapore Grand Prix,ALB,1.0,,,0
+2023,Singapore Grand Prix,ALB,2.0,,,0
+2023,Singapore Grand Prix,ALO,1.0,,,0
+2023,Singapore Grand Prix,ALO,2.0,,,0
+2023,Singapore Grand Prix,BOT,1.0,,,0
+2023,Singapore Grand Prix,GAS,1.0,,,0
+2023,Singapore Grand Prix,GAS,2.0,,,0
+2023,Singapore Grand Prix,HAM,1.0,,,0
+2023,Singapore Grand Prix,HAM,2.0,,,0
+2023,Singapore Grand Prix,HUL,1.0,,,0
+2023,Singapore Grand Prix,HUL,2.0,,,0
+2023,Singapore Grand Prix,LAW,1.0,,,0
+2023,Singapore Grand Prix,LAW,2.0,,,0
+2023,Singapore Grand Prix,LEC,1.0,-0.39771684019709,0.12711795672318674,16
+2023,Singapore Grand Prix,LEC,2.0,,,0
+2023,Singapore Grand Prix,MAG,1.0,,,0
+2023,Singapore Grand Prix,MAG,2.0,,,0
+2023,Singapore Grand Prix,NOR,1.0,,,0
+2023,Singapore Grand Prix,NOR,2.0,,,0
+2023,Singapore Grand Prix,OCO,1.0,,,0
+2023,Singapore Grand Prix,OCO,2.0,,,0
+2023,Singapore Grand Prix,PER,1.0,,,0
+2023,Singapore Grand Prix,PIA,1.0,,,0
+2023,Singapore Grand Prix,PIA,2.0,,,0
+2023,Singapore Grand Prix,RUS,1.0,,,0
+2023,Singapore Grand Prix,RUS,2.0,,,0
+2023,Singapore Grand Prix,SAI,1.0,,,0
+2023,Singapore Grand Prix,SAI,2.0,,,0
+2023,Singapore Grand Prix,SAR,1.0,,,0
+2023,Singapore Grand Prix,SAR,2.0,,,0
+2023,Singapore Grand Prix,VER,1.0,,,0
+2023,Singapore Grand Prix,ZHO,2.0,,,0
+2023,Singapore Grand Prix,ZHO,3.0,,,0
+2023,Spanish Grand Prix,ALB,2.0,,,0
+2023,Spanish Grand Prix,ALB,3.0,,,0
+2023,Spanish Grand Prix,ALO,1.0,-0.430649414559432,0.0844086044033518,17
+2023,Spanish Grand Prix,ALO,2.0,-0.6943250866542401,0.000237311380454722,23
+2023,Spanish Grand Prix,ALO,3.0,,,0
+2023,Spanish Grand Prix,BOT,2.0,,,0
+2023,Spanish Grand Prix,BOT,3.0,,,0
+2023,Spanish Grand Prix,DEV,2.0,,,0
+2023,Spanish Grand Prix,DEV,3.0,,,0
+2023,Spanish Grand Prix,GAS,1.0,-0.6161871345293293,0.008439553556569857,17
+2023,Spanish Grand Prix,GAS,2.0,,,0
+2023,Spanish Grand Prix,GAS,3.0,,,0
+2023,Spanish Grand Prix,HAM,1.0,-0.4960741258231177,0.018870068316859098,22
+2023,Spanish Grand Prix,HAM,2.0,,,0
+2023,Spanish Grand Prix,HAM,3.0,0.40186245538030785,0.13759033972915866,15
+2023,Spanish Grand Prix,HUL,2.0,,,0
+2023,Spanish Grand Prix,HUL,3.0,,,0
+2023,Spanish Grand Prix,HUL,4.0,,,0
+2023,Spanish Grand Prix,LEC,2.0,-0.375422672170945,0.07751613709744647,23
+2023,Spanish Grand Prix,LEC,3.0,,,0
+2023,Spanish Grand Prix,MAG,3.0,,,0
+2023,Spanish Grand Prix,MAG,4.0,,,0
+2023,Spanish Grand Prix,NOR,2.0,,,0
+2023,Spanish Grand Prix,NOR,3.0,,,0
+2023,Spanish Grand Prix,OCO,2.0,,,0
+2023,Spanish Grand Prix,OCO,3.0,,,0
+2023,Spanish Grand Prix,PER,1.0,,,0
+2023,Spanish Grand Prix,PER,2.0,,,0
+2023,Spanish Grand Prix,PER,3.0,0.740134087411492,0.0016048352099937882,15
+2023,Spanish Grand Prix,PIA,1.0,-0.6010420437041937,0.017798835880317797,15
+2023,Spanish Grand Prix,PIA,2.0,,,0
+2023,Spanish Grand Prix,PIA,3.0,,,0
+2023,Spanish Grand Prix,RUS,1.0,-0.6391314822812292,0.0010267646626231856,23
+2023,Spanish Grand Prix,RUS,2.0,,,0
+2023,Spanish Grand Prix,RUS,3.0,0.5361171131114914,0.01482348870329165,20
+2023,Spanish Grand Prix,SAI,2.0,,,0
+2023,Spanish Grand Prix,SAI,3.0,,,0
+2023,Spanish Grand Prix,SAR,1.0,,,0
+2023,Spanish Grand Prix,SAR,2.0,,,0
+2023,Spanish Grand Prix,SAR,3.0,,,0
+2023,Spanish Grand Prix,STR,2.0,0.3736743513648587,0.12663454027716547,18
+2023,Spanish Grand Prix,STR,3.0,,,0
+2023,Spanish Grand Prix,TSU,2.0,,,0
+2023,Spanish Grand Prix,TSU,3.0,,,0
+2023,Spanish Grand Prix,VER,1.0,,,0
+2023,Spanish Grand Prix,VER,2.0,,,0
+2023,Spanish Grand Prix,ZHO,2.0,,,0
+2023,Spanish Grand Prix,ZHO,3.0,,,0
+2023,São Paulo Grand Prix,ALO,3.0,-0.34694134550869876,0.12335391696103497,21
+2023,São Paulo Grand Prix,ALO,4.0,,,0
+2023,São Paulo Grand Prix,ALO,5.0,-0.06263073993003734,0.7764910765615175,23
+2023,São Paulo Grand Prix,BOT,4.0,,,0
+2023,São Paulo Grand Prix,GAS,3.0,-0.023989364318412774,0.9156086438387822,22
+2023,São Paulo Grand Prix,GAS,4.0,,,0
+2023,São Paulo Grand Prix,GAS,5.0,0.3637789290300015,0.08055931785142248,24
+2023,São Paulo Grand Prix,HAM,4.0,,,0
+2023,São Paulo Grand Prix,HAM,5.0,-0.12290863624598526,0.5672137931826077,24
+2023,São Paulo Grand Prix,HUL,3.0,0.09499593465651213,0.716854377338918,17
+2023,São Paulo Grand Prix,HUL,4.0,0.17416231902150264,0.42674364318347763,23
+2023,São Paulo Grand Prix,HUL,5.0,-0.8526353067770145,2.387694542027448e-07,23
+2023,São Paulo Grand Prix,NOR,3.0,-0.34324087701403483,0.10882876909890869,23
+2023,São Paulo Grand Prix,NOR,4.0,,,0
+2023,São Paulo Grand Prix,OCO,4.0,,,0
+2023,São Paulo Grand Prix,OCO,5.0,0.918225844110515,7.760414240063462e-08,18
+2023,São Paulo Grand Prix,OCO,6.0,0.7310198293631422,0.0005678336922115374,18
+2023,São Paulo Grand Prix,PER,3.0,-0.40491939202088156,0.11975332158706735,16
+2023,São Paulo Grand Prix,PER,4.0,,,0
+2023,São Paulo Grand Prix,PER,5.0,0.14641349059878384,0.4948096295506495,24
+2023,São Paulo Grand Prix,PIA,3.0,,,0
+2023,São Paulo Grand Prix,PIA,4.0,0.47554996002691236,0.014073561305155684,26
+2023,São Paulo Grand Prix,PIA,5.0,-0.21006073102430134,0.4348864152431221,16
+2023,São Paulo Grand Prix,RIC,3.0,0.27388262296266086,0.21743064167365375,22
+2023,São Paulo Grand Prix,RIC,4.0,,,0
+2023,São Paulo Grand Prix,RUS,3.0,-0.40493709498008473,0.13432355524566553,15
+2023,São Paulo Grand Prix,RUS,4.0,,,0
+2023,São Paulo Grand Prix,SAI,3.0,-0.339471574930039,0.12219286462265601,22
+2023,São Paulo Grand Prix,SAI,4.0,,,0
+2023,São Paulo Grand Prix,SAI,5.0,0.06090614269116041,0.8043744967330287,19
+2023,São Paulo Grand Prix,SAR,4.0,0.7545260553801336,1.3159774641003517e-05,25
+2023,São Paulo Grand Prix,SAR,5.0,0.20373666296496848,0.3286547445378582,25
+2023,São Paulo Grand Prix,STR,3.0,-0.3743732359123741,0.1258698444361253,18
+2023,São Paulo Grand Prix,STR,4.0,,,0
+2023,São Paulo Grand Prix,STR,5.0,-0.3377648684962434,0.17042878427359842,18
+2023,São Paulo Grand Prix,TSU,3.0,-0.2111288736765122,0.34559458951240196,22
+2023,São Paulo Grand Prix,TSU,4.0,,,0
+2023,São Paulo Grand Prix,TSU,5.0,0.010796543685035893,0.9695378858895959,15
+2023,São Paulo Grand Prix,VER,3.0,-0.34032809214035564,0.11206230277630141,23
+2023,São Paulo Grand Prix,VER,4.0,,,0
+2023,United States Grand Prix,ALB,2.0,,,0
+2023,United States Grand Prix,ALB,3.0,,,0
+2023,United States Grand Prix,ALO,1.0,,,0
+2023,United States Grand Prix,ALO,2.0,,,0
+2023,United States Grand Prix,BOT,2.0,,,0
+2023,United States Grand Prix,BOT,3.0,,,0
+2023,United States Grand Prix,GAS,1.0,,,0
+2023,United States Grand Prix,GAS,2.0,,,0
+2023,United States Grand Prix,GAS,3.0,,,0
+2023,United States Grand Prix,HAM,1.0,,,0
+2023,United States Grand Prix,HAM,2.0,,,0
+2023,United States Grand Prix,HAM,3.0,,,0
+2023,United States Grand Prix,HUL,1.0,,,0
+2023,United States Grand Prix,HUL,3.0,,,0
+2023,United States Grand Prix,LEC,1.0,,,0
+2023,United States Grand Prix,LEC,2.0,,,0
+2023,United States Grand Prix,MAG,2.0,,,0
+2023,United States Grand Prix,MAG,3.0,,,0
+2023,United States Grand Prix,NOR,1.0,,,0
+2023,United States Grand Prix,NOR,2.0,,,0
+2023,United States Grand Prix,NOR,3.0,,,0
+2023,United States Grand Prix,PER,1.0,,,0
+2023,United States Grand Prix,PER,2.0,,,0
+2023,United States Grand Prix,PER,3.0,,,0
+2023,United States Grand Prix,RIC,1.0,,,0
+2023,United States Grand Prix,RIC,2.0,,,0
+2023,United States Grand Prix,RUS,1.0,,,0
+2023,United States Grand Prix,RUS,2.0,,,0
+2023,United States Grand Prix,RUS,3.0,,,0
+2023,United States Grand Prix,SAI,1.0,,,0
+2023,United States Grand Prix,SAI,2.0,,,0
+2023,United States Grand Prix,SAI,3.0,,,0
+2023,United States Grand Prix,SAR,2.0,,,0
+2023,United States Grand Prix,SAR,3.0,,,0
+2023,United States Grand Prix,STR,1.0,,,0
+2023,United States Grand Prix,STR,2.0,,,0
+2023,United States Grand Prix,TSU,1.0,,,0
+2023,United States Grand Prix,TSU,2.0,,,0
+2023,United States Grand Prix,TSU,3.0,,,0
+2023,United States Grand Prix,VER,2.0,,,0
+2023,United States Grand Prix,VER,3.0,,,0
+2023,United States Grand Prix,ZHO,2.0,,,0
+2023,United States Grand Prix,ZHO,3.0,,,0
+2024,Abu Dhabi Grand Prix,ALB,2.0,,,0
+2024,Abu Dhabi Grand Prix,ALO,2.0,,,0
+2024,Abu Dhabi Grand Prix,ALO,3.0,,,0
+2024,Abu Dhabi Grand Prix,BOT,2.0,,,0
+2024,Abu Dhabi Grand Prix,COL,2.0,,,0
+2024,Abu Dhabi Grand Prix,DOO,1.0,,,0
+2024,Abu Dhabi Grand Prix,DOO,2.0,,,0
+2024,Abu Dhabi Grand Prix,GAS,2.0,,,0
+2024,Abu Dhabi Grand Prix,HAM,1.0,,,0
+2024,Abu Dhabi Grand Prix,HAM,2.0,,,0
+2024,Abu Dhabi Grand Prix,HUL,2.0,,,0
+2024,Abu Dhabi Grand Prix,LAW,1.0,,,0
+2024,Abu Dhabi Grand Prix,LAW,4.0,,,0
+2024,Abu Dhabi Grand Prix,LEC,1.0,,,0
+2024,Abu Dhabi Grand Prix,LEC,2.0,,,0
+2024,Abu Dhabi Grand Prix,MAG,2.0,,,0
+2024,Abu Dhabi Grand Prix,MAG,4.0,0.7610891288997581,2.4749275262848485e-05,23
+2024,Abu Dhabi Grand Prix,NOR,1.0,,,0
+2024,Abu Dhabi Grand Prix,NOR,2.0,,,0
+2024,Abu Dhabi Grand Prix,PIA,2.0,,,0
+2024,Abu Dhabi Grand Prix,PIA,3.0,,,0
+2024,Abu Dhabi Grand Prix,RUS,1.0,,,0
+2024,Abu Dhabi Grand Prix,RUS,2.0,,,0
+2024,Abu Dhabi Grand Prix,SAI,1.0,,,0
+2024,Abu Dhabi Grand Prix,SAI,2.0,,,0
+2024,Abu Dhabi Grand Prix,STR,2.0,,,0
+2024,Abu Dhabi Grand Prix,STR,3.0,,,0
+2024,Abu Dhabi Grand Prix,TSU,1.0,,,0
+2024,Abu Dhabi Grand Prix,TSU,2.0,,,0
+2024,Abu Dhabi Grand Prix,VER,1.0,,,0
+2024,Abu Dhabi Grand Prix,VER,2.0,,,0
+2024,Abu Dhabi Grand Prix,ZHO,2.0,,,0
+2024,Abu Dhabi Grand Prix,ZHO,3.0,,,0
+2024,Australian Grand Prix,ALB,2.0,,,0
+2024,Australian Grand Prix,ALB,3.0,,,0
+2024,Australian Grand Prix,ALO,1.0,,,0
+2024,Australian Grand Prix,ALO,2.0,,,0
+2024,Australian Grand Prix,BOT,2.0,,,0
+2024,Australian Grand Prix,BOT,3.0,,,0
+2024,Australian Grand Prix,GAS,1.0,,,0
+2024,Australian Grand Prix,GAS,2.0,,,0
+2024,Australian Grand Prix,HUL,1.0,,,0
+2024,Australian Grand Prix,HUL,2.0,,,0
+2024,Australian Grand Prix,HUL,3.0,,,0
+2024,Australian Grand Prix,LEC,2.0,,,0
+2024,Australian Grand Prix,LEC,3.0,,,0
+2024,Australian Grand Prix,MAG,2.0,,,0
+2024,Australian Grand Prix,MAG,3.0,,,0
+2024,Australian Grand Prix,NOR,2.0,,,0
+2024,Australian Grand Prix,NOR,3.0,,,0
+2024,Australian Grand Prix,OCO,3.0,,,0
+2024,Australian Grand Prix,PER,2.0,,,0
+2024,Australian Grand Prix,PER,3.0,,,0
+2024,Australian Grand Prix,PIA,2.0,,,0
+2024,Australian Grand Prix,PIA,3.0,,,0
+2024,Australian Grand Prix,RIC,2.0,,,0
+2024,Australian Grand Prix,RIC,3.0,,,0
+2024,Australian Grand Prix,RUS,2.0,,,0
+2024,Australian Grand Prix,SAI,2.0,,,0
+2024,Australian Grand Prix,SAI,3.0,,,0
+2024,Australian Grand Prix,STR,2.0,,,0
+2024,Australian Grand Prix,STR,3.0,,,0
+2024,Australian Grand Prix,TSU,2.0,,,0
+2024,Australian Grand Prix,TSU,3.0,,,0
+2024,Australian Grand Prix,ZHO,2.0,,,0
+2024,Australian Grand Prix,ZHO,3.0,,,0
+2024,Austrian Grand Prix,ALB,2.0,,,0
+2024,Austrian Grand Prix,ALB,3.0,,,0
+2024,Austrian Grand Prix,ALO,2.0,,,0
+2024,Austrian Grand Prix,ALO,3.0,,,0
+2024,Austrian Grand Prix,BOT,1.0,,,0
+2024,Austrian Grand Prix,BOT,2.0,,,0
+2024,Austrian Grand Prix,BOT,3.0,,,0
+2024,Austrian Grand Prix,GAS,1.0,,,0
+2024,Austrian Grand Prix,GAS,2.0,,,0
+2024,Austrian Grand Prix,GAS,3.0,,,0
+2024,Austrian Grand Prix,HAM,1.0,,,0
+2024,Austrian Grand Prix,HAM,2.0,,,0
+2024,Austrian Grand Prix,HUL,2.0,,,0
+2024,Austrian Grand Prix,HUL,3.0,,,0
+2024,Austrian Grand Prix,LEC,3.0,,,0
+2024,Austrian Grand Prix,LEC,4.0,,,0
+2024,Austrian Grand Prix,LEC,5.0,,,0
+2024,Austrian Grand Prix,MAG,2.0,,,0
+2024,Austrian Grand Prix,MAG,3.0,,,0
+2024,Austrian Grand Prix,NOR,1.0,,,0
+2024,Austrian Grand Prix,NOR,2.0,,,0
+2024,Austrian Grand Prix,OCO,1.0,,,0
+2024,Austrian Grand Prix,OCO,2.0,,,0
+2024,Austrian Grand Prix,OCO,3.0,,,0
+2024,Austrian Grand Prix,PER,1.0,,,0
+2024,Austrian Grand Prix,PER,2.0,,,0
+2024,Austrian Grand Prix,PER,3.0,,,0
+2024,Austrian Grand Prix,PIA,1.0,,,0
+2024,Austrian Grand Prix,PIA,2.0,,,0
+2024,Austrian Grand Prix,PIA,3.0,,,0
+2024,Austrian Grand Prix,RIC,2.0,,,0
+2024,Austrian Grand Prix,RIC,3.0,,,0
+2024,Austrian Grand Prix,RUS,1.0,,,0
+2024,Austrian Grand Prix,RUS,2.0,,,0
+2024,Austrian Grand Prix,RUS,3.0,,,0
+2024,Austrian Grand Prix,SAI,1.0,,,0
+2024,Austrian Grand Prix,SAI,2.0,,,0
+2024,Austrian Grand Prix,SAI,3.0,,,0
+2024,Austrian Grand Prix,SAR,2.0,,,0
+2024,Austrian Grand Prix,SAR,3.0,,,0
+2024,Austrian Grand Prix,SAR,4.0,,,0
+2024,Austrian Grand Prix,STR,1.0,,,0
+2024,Austrian Grand Prix,STR,2.0,,,0
+2024,Austrian Grand Prix,STR,3.0,,,0
+2024,Austrian Grand Prix,TSU,1.0,,,0
+2024,Austrian Grand Prix,TSU,2.0,,,0
+2024,Austrian Grand Prix,TSU,3.0,,,0
+2024,Austrian Grand Prix,VER,1.0,,,0
+2024,Austrian Grand Prix,VER,2.0,,,0
+2024,Austrian Grand Prix,ZHO,1.0,,,0
+2024,Austrian Grand Prix,ZHO,2.0,,,0
+2024,Austrian Grand Prix,ZHO,3.0,,,0
+2024,Azerbaijan Grand Prix,ALB,1.0,,,0
+2024,Azerbaijan Grand Prix,ALB,2.0,,,0
+2024,Azerbaijan Grand Prix,ALO,2.0,,,0
+2024,Azerbaijan Grand Prix,BEA,2.0,,,0
+2024,Azerbaijan Grand Prix,BOT,2.0,,,0
+2024,Azerbaijan Grand Prix,COL,2.0,,,0
+2024,Azerbaijan Grand Prix,GAS,1.0,,,0
+2024,Azerbaijan Grand Prix,HAM,2.0,,,0
+2024,Azerbaijan Grand Prix,HUL,2.0,,,0
+2024,Azerbaijan Grand Prix,LEC,2.0,,,0
+2024,Azerbaijan Grand Prix,NOR,1.0,,,0
+2024,Azerbaijan Grand Prix,OCO,1.0,,,0
+2024,Azerbaijan Grand Prix,PER,2.0,,,0
+2024,Azerbaijan Grand Prix,PIA,2.0,,,0
+2024,Azerbaijan Grand Prix,RIC,1.0,,,0
+2024,Azerbaijan Grand Prix,RUS,2.0,,,0
+2024,Azerbaijan Grand Prix,SAI,1.0,,,0
+2024,Azerbaijan Grand Prix,SAI,2.0,,,0
+2024,Azerbaijan Grand Prix,STR,2.0,,,0
+2024,Azerbaijan Grand Prix,STR,3.0,,,0
+2024,Azerbaijan Grand Prix,VER,2.0,,,0
+2024,Azerbaijan Grand Prix,ZHO,1.0,,,0
+2024,Bahrain Grand Prix,ALB,2.0,,,0
+2024,Bahrain Grand Prix,ALB,3.0,,,0
+2024,Bahrain Grand Prix,ALO,2.0,,,0
+2024,Bahrain Grand Prix,ALO,3.0,,,0
+2024,Bahrain Grand Prix,BOT,2.0,,,0
+2024,Bahrain Grand Prix,BOT,3.0,,,0
+2024,Bahrain Grand Prix,GAS,2.0,,,0
+2024,Bahrain Grand Prix,HAM,2.0,,,0
+2024,Bahrain Grand Prix,HAM,3.0,,,0
+2024,Bahrain Grand Prix,HUL,2.0,,,0
+2024,Bahrain Grand Prix,HUL,3.0,,,0
+2024,Bahrain Grand Prix,LEC,2.0,,,0
+2024,Bahrain Grand Prix,LEC,3.0,,,0
+2024,Bahrain Grand Prix,MAG,2.0,,,0
+2024,Bahrain Grand Prix,MAG,3.0,,,0
+2024,Bahrain Grand Prix,NOR,2.0,,,0
+2024,Bahrain Grand Prix,NOR,3.0,,,0
+2024,Bahrain Grand Prix,OCO,2.0,,,0
+2024,Bahrain Grand Prix,OCO,3.0,,,0
+2024,Bahrain Grand Prix,PER,2.0,,,0
+2024,Bahrain Grand Prix,PER,3.0,0.8867412288413596,1.9178031316639148e-07,20
+2024,Bahrain Grand Prix,PIA,2.0,,,0
+2024,Bahrain Grand Prix,PIA,3.0,,,0
+2024,Bahrain Grand Prix,RIC,2.0,,,0
+2024,Bahrain Grand Prix,RIC,3.0,0.9069471666769559,3.529643727687255e-08,20
+2024,Bahrain Grand Prix,RUS,2.0,,,0
+2024,Bahrain Grand Prix,RUS,3.0,,,0
+2024,Bahrain Grand Prix,SAI,2.0,,,0
+2024,Bahrain Grand Prix,SAI,3.0,,,0
+2024,Bahrain Grand Prix,SAR,2.0,,,0
+2024,Bahrain Grand Prix,STR,2.0,,,0
+2024,Bahrain Grand Prix,STR,3.0,,,0
+2024,Bahrain Grand Prix,TSU,2.0,,,0
+2024,Bahrain Grand Prix,TSU,3.0,,,0
+2024,Bahrain Grand Prix,VER,2.0,,,0
+2024,Bahrain Grand Prix,VER,3.0,0.23943705866067838,0.32350168596132256,19
+2024,Bahrain Grand Prix,ZHO,2.0,,,0
+2024,Bahrain Grand Prix,ZHO,3.0,,,0
+2024,Belgian Grand Prix,ALB,3.0,,,0
+2024,Belgian Grand Prix,ALO,2.0,,,0
+2024,Belgian Grand Prix,BOT,2.0,,,0
+2024,Belgian Grand Prix,GAS,2.0,,,0
+2024,Belgian Grand Prix,GAS,3.0,,,0
+2024,Belgian Grand Prix,HAM,3.0,,,0
+2024,Belgian Grand Prix,HUL,3.0,,,0
+2024,Belgian Grand Prix,LEC,3.0,,,0
+2024,Belgian Grand Prix,MAG,2.0,,,0
+2024,Belgian Grand Prix,OCO,2.0,,,0
+2024,Belgian Grand Prix,PER,3.0,,,0
+2024,Belgian Grand Prix,PIA,2.0,,,0
+2024,Belgian Grand Prix,RIC,3.0,-0.35630781710607945,0.10360716740899706,22
+2024,Belgian Grand Prix,RUS,2.0,,,0
+2024,Belgian Grand Prix,SAI,1.0,,,0
+2024,Belgian Grand Prix,SAI,3.0,,,0
+2024,Belgian Grand Prix,SAR,3.0,,,0
+2024,Belgian Grand Prix,STR,2.0,,,0
+2024,Belgian Grand Prix,TSU,2.0,-0.6288660401599087,0.00033796010135976823,28
+2024,Belgian Grand Prix,VER,2.0,,,0
+2024,Belgian Grand Prix,VER,3.0,,,0
+2024,British Grand Prix,ALB,1.0,,,0
+2024,British Grand Prix,ALO,1.0,,,0
+2024,British Grand Prix,BOT,1.0,,,0
+2024,British Grand Prix,HAM,1.0,,,0
+2024,British Grand Prix,HUL,1.0,,,0
+2024,British Grand Prix,LEC,1.0,,,0
+2024,British Grand Prix,MAG,1.0,,,0
+2024,British Grand Prix,NOR,1.0,,,0
+2024,British Grand Prix,OCO,1.0,0.7833053875382177,0.00019991160242633288,17
+2024,British Grand Prix,PER,1.0,,,0
+2024,British Grand Prix,PIA,1.0,,,0
+2024,British Grand Prix,RIC,1.0,,,0
+2024,British Grand Prix,RUS,1.0,,,0
+2024,British Grand Prix,SAI,1.0,,,0
+2024,British Grand Prix,SAR,1.0,,,0
+2024,British Grand Prix,STR,1.0,,,0
+2024,British Grand Prix,TSU,1.0,,,0
+2024,British Grand Prix,VER,1.0,,,0
+2024,Canadian Grand Prix,ALB,1.0,,,0
+2024,Canadian Grand Prix,ALO,1.0,,,0
+2024,Canadian Grand Prix,ALO,3.0,,,0
+2024,Canadian Grand Prix,BOT,1.0,,,0
+2024,Canadian Grand Prix,BOT,2.0,,,0
+2024,Canadian Grand Prix,GAS,1.0,,,0
+2024,Canadian Grand Prix,GAS,3.0,,,0
+2024,Canadian Grand Prix,HAM,1.0,,,0
+2024,Canadian Grand Prix,HUL,4.0,,,0
+2024,Canadian Grand Prix,LEC,1.0,,,0
+2024,Canadian Grand Prix,MAG,2.0,,,0
+2024,Canadian Grand Prix,NOR,1.0,,,0
+2024,Canadian Grand Prix,NOR,2.0,,,0
+2024,Canadian Grand Prix,OCO,1.0,,,0
+2024,Canadian Grand Prix,OCO,2.0,,,0
+2024,Canadian Grand Prix,PER,1.0,,,0
+2024,Canadian Grand Prix,PIA,1.0,,,0
+2024,Canadian Grand Prix,PIA,3.0,,,0
+2024,Canadian Grand Prix,RIC,1.0,,,0
+2024,Canadian Grand Prix,RIC,3.0,,,0
+2024,Canadian Grand Prix,RUS,1.0,,,0
+2024,Canadian Grand Prix,SAI,1.0,,,0
+2024,Canadian Grand Prix,SAR,1.0,,,0
+2024,Canadian Grand Prix,STR,1.0,,,0
+2024,Canadian Grand Prix,STR,3.0,,,0
+2024,Canadian Grand Prix,TSU,1.0,,,0
+2024,Canadian Grand Prix,TSU,2.0,,,0
+2024,Canadian Grand Prix,VER,1.0,,,0
+2024,Canadian Grand Prix,ZHO,1.0,,,0
+2024,Chinese Grand Prix,ALB,3.0,,,0
+2024,Chinese Grand Prix,GAS,4.0,,,0
+2024,Chinese Grand Prix,HAM,3.0,,,0
+2024,Chinese Grand Prix,HUL,3.0,,,0
+2024,Chinese Grand Prix,LEC,1.0,,,0
+2024,Chinese Grand Prix,LEC,2.0,,,0
+2024,Chinese Grand Prix,MAG,1.0,,,0
+2024,Chinese Grand Prix,MAG,3.0,,,0
+2024,Chinese Grand Prix,NOR,1.0,,,0
+2024,Chinese Grand Prix,NOR,2.0,,,0
+2024,Chinese Grand Prix,OCO,3.0,,,0
+2024,Chinese Grand Prix,PER,3.0,,,0
+2024,Chinese Grand Prix,PIA,3.0,,,0
+2024,Chinese Grand Prix,RUS,3.0,,,0
+2024,Chinese Grand Prix,SAI,1.0,,,0
+2024,Chinese Grand Prix,SAI,2.0,,,0
+2024,Chinese Grand Prix,SAR,3.0,,,0
+2024,Chinese Grand Prix,STR,5.0,,,0
+2024,Chinese Grand Prix,VER,3.0,,,0
+2024,Chinese Grand Prix,ZHO,4.0,0.8575100256113877,4.376308030636145e-05,15
+2024,Dutch Grand Prix,ALB,2.0,,,0
+2024,Dutch Grand Prix,ALB,3.0,,,0
+2024,Dutch Grand Prix,ALO,1.0,,,0
+2024,Dutch Grand Prix,ALO,2.0,,,0
+2024,Dutch Grand Prix,BOT,2.0,,,0
+2024,Dutch Grand Prix,BOT,3.0,,,0
+2024,Dutch Grand Prix,GAS,1.0,,,0
+2024,Dutch Grand Prix,GAS,2.0,,,0
+2024,Dutch Grand Prix,HAM,1.0,-0.04467394512814725,0.8475218209470305,21
+2024,Dutch Grand Prix,HAM,2.0,,,0
+2024,Dutch Grand Prix,HAM,3.0,0.5899218392569007,0.0030479957314449393,23
+2024,Dutch Grand Prix,HUL,2.0,,,0
+2024,Dutch Grand Prix,LEC,1.0,,,0
+2024,Dutch Grand Prix,LEC,2.0,,,0
+2024,Dutch Grand Prix,MAG,1.0,,,0
+2024,Dutch Grand Prix,MAG,2.0,,,0
+2024,Dutch Grand Prix,NOR,1.0,,,0
+2024,Dutch Grand Prix,NOR,2.0,,,0
+2024,Dutch Grand Prix,OCO,1.0,,,0
+2024,Dutch Grand Prix,OCO,2.0,,,0
+2024,Dutch Grand Prix,PER,1.0,,,0
+2024,Dutch Grand Prix,PER,2.0,,,0
+2024,Dutch Grand Prix,PIA,1.0,,,0
+2024,Dutch Grand Prix,PIA,2.0,,,0
+2024,Dutch Grand Prix,RIC,1.0,,,0
+2024,Dutch Grand Prix,RIC,2.0,,,0
+2024,Dutch Grand Prix,RUS,1.0,,,0
+2024,Dutch Grand Prix,RUS,2.0,,,0
+2024,Dutch Grand Prix,RUS,3.0,0.30337065485625775,0.23652867295701316,17
+2024,Dutch Grand Prix,SAI,1.0,,,0
+2024,Dutch Grand Prix,SAI,2.0,,,0
+2024,Dutch Grand Prix,SAR,1.0,,,0
+2024,Dutch Grand Prix,SAR,2.0,,,0
+2024,Dutch Grand Prix,STR,1.0,,,0
+2024,Dutch Grand Prix,STR,2.0,,,0
+2024,Dutch Grand Prix,TSU,2.0,,,0
+2024,Dutch Grand Prix,TSU,3.0,,,0
+2024,Dutch Grand Prix,VER,1.0,,,0
+2024,Dutch Grand Prix,VER,2.0,,,0
+2024,Dutch Grand Prix,ZHO,1.0,,,0
+2024,Dutch Grand Prix,ZHO,2.0,,,0
+2024,Dutch Grand Prix,ZHO,3.0,0.12968041422836482,0.6080469563755759,18
+2024,Emilia Romagna Grand Prix,ALB,5.0,,,0
+2024,Emilia Romagna Grand Prix,ALO,2.0,,,0
+2024,Emilia Romagna Grand Prix,ALO,3.0,,,0
+2024,Emilia Romagna Grand Prix,BOT,2.0,,,0
+2024,Emilia Romagna Grand Prix,GAS,2.0,,,0
+2024,Emilia Romagna Grand Prix,GAS,3.0,,,0
+2024,Emilia Romagna Grand Prix,HAM,1.0,,,0
+2024,Emilia Romagna Grand Prix,HAM,2.0,,,0
+2024,Emilia Romagna Grand Prix,HUL,2.0,,,0
+2024,Emilia Romagna Grand Prix,LEC,1.0,,,0
+2024,Emilia Romagna Grand Prix,LEC,2.0,,,0
+2024,Emilia Romagna Grand Prix,MAG,1.0,,,0
+2024,Emilia Romagna Grand Prix,MAG,2.0,,,0
+2024,Emilia Romagna Grand Prix,NOR,1.0,,,0
+2024,Emilia Romagna Grand Prix,NOR,2.0,,,0
+2024,Emilia Romagna Grand Prix,OCO,1.0,,,0
+2024,Emilia Romagna Grand Prix,OCO,2.0,,,0
+2024,Emilia Romagna Grand Prix,PER,1.0,,,0
+2024,Emilia Romagna Grand Prix,PER,2.0,,,0
+2024,Emilia Romagna Grand Prix,PIA,1.0,,,0
+2024,Emilia Romagna Grand Prix,PIA,2.0,,,0
+2024,Emilia Romagna Grand Prix,RIC,2.0,,,0
+2024,Emilia Romagna Grand Prix,RUS,1.0,,,0
+2024,Emilia Romagna Grand Prix,RUS,2.0,,,0
+2024,Emilia Romagna Grand Prix,SAI,1.0,,,0
+2024,Emilia Romagna Grand Prix,SAI,2.0,,,0
+2024,Emilia Romagna Grand Prix,SAR,1.0,,,0
+2024,Emilia Romagna Grand Prix,SAR,2.0,,,0
+2024,Emilia Romagna Grand Prix,STR,1.0,,,0
+2024,Emilia Romagna Grand Prix,STR,2.0,,,0
+2024,Emilia Romagna Grand Prix,TSU,2.0,,,0
+2024,Emilia Romagna Grand Prix,VER,1.0,,,0
+2024,Emilia Romagna Grand Prix,VER,2.0,,,0
+2024,Emilia Romagna Grand Prix,ZHO,1.0,,,0
+2024,Emilia Romagna Grand Prix,ZHO,2.0,,,0
+2024,Hungarian Grand Prix,ALB,2.0,,,0
+2024,Hungarian Grand Prix,ALB,3.0,,,0
+2024,Hungarian Grand Prix,ALO,2.0,,,0
+2024,Hungarian Grand Prix,ALO,3.0,,,0
+2024,Hungarian Grand Prix,BOT,2.0,,,0
+2024,Hungarian Grand Prix,BOT,3.0,,,0
+2024,Hungarian Grand Prix,GAS,1.0,,,0
+2024,Hungarian Grand Prix,HAM,2.0,,,0
+2024,Hungarian Grand Prix,HAM,3.0,,,0
+2024,Hungarian Grand Prix,HUL,2.0,,,0
+2024,Hungarian Grand Prix,HUL,3.0,,,0
+2024,Hungarian Grand Prix,LEC,1.0,,,0
+2024,Hungarian Grand Prix,LEC,2.0,,,0
+2024,Hungarian Grand Prix,LEC,3.0,,,0
+2024,Hungarian Grand Prix,MAG,2.0,,,0
+2024,Hungarian Grand Prix,MAG,3.0,,,0
+2024,Hungarian Grand Prix,NOR,1.0,,,0
+2024,Hungarian Grand Prix,NOR,2.0,,,0
+2024,Hungarian Grand Prix,NOR,3.0,,,0
+2024,Hungarian Grand Prix,OCO,2.0,,,0
+2024,Hungarian Grand Prix,OCO,3.0,,,0
+2024,Hungarian Grand Prix,PER,1.0,,,0
+2024,Hungarian Grand Prix,PER,2.0,,,0
+2024,Hungarian Grand Prix,PER,3.0,,,0
+2024,Hungarian Grand Prix,PIA,1.0,,,0
+2024,Hungarian Grand Prix,PIA,2.0,,,0
+2024,Hungarian Grand Prix,PIA,3.0,,,0
+2024,Hungarian Grand Prix,RIC,2.0,,,0
+2024,Hungarian Grand Prix,RIC,3.0,,,0
+2024,Hungarian Grand Prix,RUS,1.0,,,0
+2024,Hungarian Grand Prix,RUS,2.0,,,0
+2024,Hungarian Grand Prix,RUS,3.0,,,0
+2024,Hungarian Grand Prix,SAI,1.0,,,0
+2024,Hungarian Grand Prix,SAI,2.0,,,0
+2024,Hungarian Grand Prix,SAI,3.0,,,0
+2024,Hungarian Grand Prix,SAR,2.0,,,0
+2024,Hungarian Grand Prix,SAR,3.0,,,0
+2024,Hungarian Grand Prix,STR,2.0,,,0
+2024,Hungarian Grand Prix,STR,3.0,,,0
+2024,Hungarian Grand Prix,TSU,1.0,,,0
+2024,Hungarian Grand Prix,TSU,2.0,,,0
+2024,Hungarian Grand Prix,VER,1.0,,,0
+2024,Hungarian Grand Prix,VER,2.0,,,0
+2024,Hungarian Grand Prix,VER,3.0,,,0
+2024,Hungarian Grand Prix,ZHO,2.0,,,0
+2024,Hungarian Grand Prix,ZHO,3.0,,,0
+2024,Italian Grand Prix,ALB,1.0,,,0
+2024,Italian Grand Prix,ALB,2.0,,,0
+2024,Italian Grand Prix,ALO,2.0,,,0
+2024,Italian Grand Prix,ALO,3.0,,,0
+2024,Italian Grand Prix,BOT,1.0,,,0
+2024,Italian Grand Prix,BOT,2.0,,,0
+2024,Italian Grand Prix,COL,2.0,,,0
+2024,Italian Grand Prix,GAS,2.0,,,0
+2024,Italian Grand Prix,GAS,3.0,,,0
+2024,Italian Grand Prix,HAM,2.0,,,0
+2024,Italian Grand Prix,HAM,3.0,,,0
+2024,Italian Grand Prix,HUL,2.0,,,0
+2024,Italian Grand Prix,HUL,3.0,,,0
+2024,Italian Grand Prix,LEC,2.0,,,0
+2024,Italian Grand Prix,MAG,2.0,,,0
+2024,Italian Grand Prix,NOR,2.0,,,0
+2024,Italian Grand Prix,NOR,3.0,,,0
+2024,Italian Grand Prix,OCO,1.0,,,0
+2024,Italian Grand Prix,OCO,2.0,,,0
+2024,Italian Grand Prix,PER,1.0,,,0
+2024,Italian Grand Prix,PER,3.0,,,0
+2024,Italian Grand Prix,PIA,2.0,,,0
+2024,Italian Grand Prix,RIC,2.0,,,0
+2024,Italian Grand Prix,RUS,2.0,,,0
+2024,Italian Grand Prix,RUS,3.0,,,0
+2024,Italian Grand Prix,SAI,1.0,,,0
+2024,Italian Grand Prix,SAI,2.0,,,0
+2024,Italian Grand Prix,STR,1.0,,,0
+2024,Italian Grand Prix,STR,2.0,,,0
+2024,Italian Grand Prix,VER,1.0,,,0
+2024,Italian Grand Prix,VER,2.0,,,0
+2024,Italian Grand Prix,ZHO,2.0,,,0
+2024,Japanese Grand Prix,ALO,3.0,,,0
+2024,Japanese Grand Prix,ALO,4.0,,,0
+2024,Japanese Grand Prix,BOT,4.0,,,0
+2024,Japanese Grand Prix,GAS,4.0,,,0
+2024,Japanese Grand Prix,HAM,2.0,,,0
+2024,Japanese Grand Prix,HUL,3.0,,,0
+2024,Japanese Grand Prix,HUL,4.0,,,0
+2024,Japanese Grand Prix,LEC,2.0,,,0
+2024,Japanese Grand Prix,LEC,3.0,,,0
+2024,Japanese Grand Prix,MAG,2.0,,,0
+2024,Japanese Grand Prix,MAG,3.0,,,0
+2024,Japanese Grand Prix,NOR,4.0,,,0
+2024,Japanese Grand Prix,OCO,2.0,,,0
+2024,Japanese Grand Prix,OCO,4.0,,,0
+2024,Japanese Grand Prix,PER,3.0,,,0
+2024,Japanese Grand Prix,PER,4.0,,,0
+2024,Japanese Grand Prix,PIA,3.0,,,0
+2024,Japanese Grand Prix,PIA,4.0,,,0
+2024,Japanese Grand Prix,RUS,2.0,,,0
+2024,Japanese Grand Prix,SAI,3.0,,,0
+2024,Japanese Grand Prix,SAI,4.0,,,0
+2024,Japanese Grand Prix,SAR,2.0,,,0
+2024,Japanese Grand Prix,STR,5.0,0.49797976067413274,0.049643286092411254,16
+2024,Japanese Grand Prix,TSU,4.0,,,0
+2024,Japanese Grand Prix,VER,3.0,,,0
+2024,Japanese Grand Prix,VER,4.0,,,0
+2024,Las Vegas Grand Prix,ALO,2.0,,,0
+2024,Las Vegas Grand Prix,ALO,3.0,,,0
+2024,Las Vegas Grand Prix,BOT,1.0,,,0
+2024,Las Vegas Grand Prix,BOT,2.0,,,0
+2024,Las Vegas Grand Prix,COL,3.0,,,0
+2024,Las Vegas Grand Prix,HAM,3.0,,,0
+2024,Las Vegas Grand Prix,HUL,2.0,,,0
+2024,Las Vegas Grand Prix,HUL,3.0,,,0
+2024,Las Vegas Grand Prix,LAW,2.0,,,0
+2024,Las Vegas Grand Prix,LEC,2.0,,,0
+2024,Las Vegas Grand Prix,LEC,3.0,,,0
+2024,Las Vegas Grand Prix,MAG,1.0,,,0
+2024,Las Vegas Grand Prix,MAG,2.0,,,0
+2024,Las Vegas Grand Prix,NOR,2.0,,,0
+2024,Las Vegas Grand Prix,NOR,3.0,,,0
+2024,Las Vegas Grand Prix,OCO,3.0,,,0
+2024,Las Vegas Grand Prix,PER,1.0,,,0
+2024,Las Vegas Grand Prix,PER,3.0,,,0
+2024,Las Vegas Grand Prix,PIA,3.0,,,0
+2024,Las Vegas Grand Prix,RUS,2.0,,,0
+2024,Las Vegas Grand Prix,RUS,3.0,,,0
+2024,Las Vegas Grand Prix,SAI,2.0,,,0
+2024,Las Vegas Grand Prix,SAI,3.0,,,0
+2024,Las Vegas Grand Prix,STR,2.0,,,0
+2024,Las Vegas Grand Prix,STR,3.0,,,0
+2024,Las Vegas Grand Prix,TSU,2.0,,,0
+2024,Las Vegas Grand Prix,TSU,3.0,,,0
+2024,Las Vegas Grand Prix,VER,3.0,,,0
+2024,Las Vegas Grand Prix,ZHO,2.0,,,0
+2024,Las Vegas Grand Prix,ZHO,3.0,,,0
+2024,Mexico City Grand Prix,BOT,1.0,,,0
+2024,Mexico City Grand Prix,BOT,2.0,,,0
+2024,Mexico City Grand Prix,COL,1.0,,,0
+2024,Mexico City Grand Prix,COL,2.0,,,0
+2024,Mexico City Grand Prix,GAS,1.0,,,0
+2024,Mexico City Grand Prix,GAS,2.0,,,0
+2024,Mexico City Grand Prix,HAM,1.0,,,0
+2024,Mexico City Grand Prix,HAM,2.0,,,0
+2024,Mexico City Grand Prix,HUL,1.0,,,0
+2024,Mexico City Grand Prix,HUL,2.0,,,0
+2024,Mexico City Grand Prix,LAW,1.0,,,0
+2024,Mexico City Grand Prix,LAW,2.0,,,0
+2024,Mexico City Grand Prix,LEC,1.0,,,0
+2024,Mexico City Grand Prix,LEC,2.0,,,0
+2024,Mexico City Grand Prix,MAG,1.0,,,0
+2024,Mexico City Grand Prix,MAG,2.0,,,0
+2024,Mexico City Grand Prix,NOR,1.0,,,0
+2024,Mexico City Grand Prix,NOR,2.0,,,0
+2024,Mexico City Grand Prix,OCO,1.0,,,0
+2024,Mexico City Grand Prix,OCO,2.0,,,0
+2024,Mexico City Grand Prix,PER,2.0,,,0
+2024,Mexico City Grand Prix,PER,3.0,,,0
+2024,Mexico City Grand Prix,PIA,1.0,,,0
+2024,Mexico City Grand Prix,PIA,2.0,,,0
+2024,Mexico City Grand Prix,RUS,1.0,,,0
+2024,Mexico City Grand Prix,RUS,2.0,,,0
+2024,Mexico City Grand Prix,SAI,1.0,,,0
+2024,Mexico City Grand Prix,SAI,2.0,,,0
+2024,Mexico City Grand Prix,STR,1.0,,,0
+2024,Mexico City Grand Prix,STR,2.0,,,0
+2024,Mexico City Grand Prix,VER,1.0,,,0
+2024,Mexico City Grand Prix,VER,2.0,,,0
+2024,Mexico City Grand Prix,ZHO,1.0,,,0
+2024,Mexico City Grand Prix,ZHO,2.0,,,0
+2024,Miami Grand Prix,ALB,2.0,,,0
+2024,Miami Grand Prix,ALO,1.0,,,0
+2024,Miami Grand Prix,ALO,2.0,,,0
+2024,Miami Grand Prix,BOT,3.0,,,0
+2024,Miami Grand Prix,GAS,2.0,,,0
+2024,Miami Grand Prix,HAM,1.0,,,0
+2024,Miami Grand Prix,HAM,2.0,,,0
+2024,Miami Grand Prix,HUL,3.0,,,0
+2024,Miami Grand Prix,LEC,1.0,,,0
+2024,Miami Grand Prix,LEC,2.0,,,0
+2024,Miami Grand Prix,MAG,1.0,,,0
+2024,Miami Grand Prix,MAG,4.0,,,0
+2024,Miami Grand Prix,NOR,1.0,,,0
+2024,Miami Grand Prix,NOR,2.0,,,0
+2024,Miami Grand Prix,OCO,1.0,,,0
+2024,Miami Grand Prix,OCO,2.0,,,0
+2024,Miami Grand Prix,PER,1.0,,,0
+2024,Miami Grand Prix,PER,3.0,,,0
+2024,Miami Grand Prix,PIA,1.0,,,0
+2024,Miami Grand Prix,PIA,3.0,,,0
+2024,Miami Grand Prix,RIC,1.0,,,0
+2024,Miami Grand Prix,RIC,2.0,,,0
+2024,Miami Grand Prix,RUS,1.0,,,0
+2024,Miami Grand Prix,RUS,2.0,,,0
+2024,Miami Grand Prix,SAI,1.0,,,0
+2024,Miami Grand Prix,SAI,2.0,,,0
+2024,Miami Grand Prix,STR,3.0,,,0
+2024,Miami Grand Prix,TSU,1.0,,,0
+2024,Miami Grand Prix,TSU,2.0,,,0
+2024,Miami Grand Prix,VER,1.0,,,0
+2024,Miami Grand Prix,VER,2.0,,,0
+2024,Miami Grand Prix,ZHO,1.0,,,0
+2024,Miami Grand Prix,ZHO,2.0,-0.5517963645509952,0.004242214435891415,25
+2024,Monaco Grand Prix,ALB,2.0,,,0
+2024,Monaco Grand Prix,ALO,2.0,,,0
+2024,Monaco Grand Prix,BOT,3.0,,,0
+2024,Monaco Grand Prix,GAS,2.0,,,0
+2024,Monaco Grand Prix,HAM,2.0,,,0
+2024,Monaco Grand Prix,HAM,3.0,,,0
+2024,Monaco Grand Prix,LEC,2.0,,,0
+2024,Monaco Grand Prix,NOR,2.0,,,0
+2024,Monaco Grand Prix,PIA,2.0,,,0
+2024,Monaco Grand Prix,RIC,2.0,,,0
+2024,Monaco Grand Prix,RUS,2.0,,,0
+2024,Monaco Grand Prix,SAI,2.0,,,0
+2024,Monaco Grand Prix,SAR,2.0,,,0
+2024,Monaco Grand Prix,SAR,3.0,,,0
+2024,Monaco Grand Prix,STR,2.0,,,0
+2024,Monaco Grand Prix,STR,4.0,0.061226411449950155,0.7663754000714005,26
+2024,Monaco Grand Prix,TSU,2.0,,,0
+2024,Monaco Grand Prix,VER,2.0,,,0
+2024,Monaco Grand Prix,VER,3.0,,,0
+2024,Monaco Grand Prix,ZHO,2.0,,,0
+2024,Qatar Grand Prix,ALB,1.0,,,0
+2024,Qatar Grand Prix,ALO,1.0,,,0
+2024,Qatar Grand Prix,ALO,4.0,,,0
+2024,Qatar Grand Prix,BOT,1.0,,,0
+2024,Qatar Grand Prix,BOT,4.0,,,0
+2024,Qatar Grand Prix,GAS,1.0,,,0
+2024,Qatar Grand Prix,GAS,4.0,,,0
+2024,Qatar Grand Prix,HAM,1.0,,,0
+2024,Qatar Grand Prix,HUL,2.0,,,0
+2024,Qatar Grand Prix,LAW,1.0,,,0
+2024,Qatar Grand Prix,LAW,5.0,-0.09366892686792987,0.7398615692685089,15
+2024,Qatar Grand Prix,LEC,1.0,,,0
+2024,Qatar Grand Prix,LEC,4.0,,,0
+2024,Qatar Grand Prix,MAG,1.0,,,0
+2024,Qatar Grand Prix,MAG,4.0,,,0
+2024,Qatar Grand Prix,NOR,1.0,,,0
+2024,Qatar Grand Prix,PER,1.0,,,0
+2024,Qatar Grand Prix,PIA,1.0,,,0
+2024,Qatar Grand Prix,PIA,4.0,,,0
+2024,Qatar Grand Prix,RUS,1.0,,,0
+2024,Qatar Grand Prix,RUS,5.0,,,0
+2024,Qatar Grand Prix,SAI,1.0,,,0
+2024,Qatar Grand Prix,SAI,4.0,,,0
+2024,Qatar Grand Prix,TSU,1.0,,,0
+2024,Qatar Grand Prix,TSU,5.0,0.16161236940850243,0.5650037797448556,15
+2024,Qatar Grand Prix,VER,1.0,,,0
+2024,Qatar Grand Prix,VER,4.0,,,0
+2024,Qatar Grand Prix,ZHO,1.0,,,0
+2024,Qatar Grand Prix,ZHO,4.0,,,0
+2024,Saudi Arabian Grand Prix,ALB,2.0,,,0
+2024,Saudi Arabian Grand Prix,ALO,2.0,,,0
+2024,Saudi Arabian Grand Prix,BEA,2.0,,,0
+2024,Saudi Arabian Grand Prix,BOT,2.0,,,0
+2024,Saudi Arabian Grand Prix,HAM,1.0,,,0
+2024,Saudi Arabian Grand Prix,HUL,1.0,,,0
+2024,Saudi Arabian Grand Prix,HUL,2.0,,,0
+2024,Saudi Arabian Grand Prix,LEC,2.0,,,0
+2024,Saudi Arabian Grand Prix,MAG,2.0,,,0
+2024,Saudi Arabian Grand Prix,NOR,1.0,,,0
+2024,Saudi Arabian Grand Prix,OCO,2.0,,,0
+2024,Saudi Arabian Grand Prix,PER,2.0,,,0
+2024,Saudi Arabian Grand Prix,PIA,2.0,,,0
+2024,Saudi Arabian Grand Prix,RIC,2.0,,,0
+2024,Saudi Arabian Grand Prix,RUS,2.0,,,0
+2024,Saudi Arabian Grand Prix,SAR,2.0,,,0
+2024,Saudi Arabian Grand Prix,TSU,2.0,,,0
+2024,Saudi Arabian Grand Prix,VER,2.0,,,0
+2024,Saudi Arabian Grand Prix,ZHO,1.0,,,0
+2024,Singapore Grand Prix,ALO,1.0,,,0
+2024,Singapore Grand Prix,ALO,2.0,,,0
+2024,Singapore Grand Prix,BOT,1.0,,,0
+2024,Singapore Grand Prix,BOT,2.0,,,0
+2024,Singapore Grand Prix,COL,1.0,,,0
+2024,Singapore Grand Prix,COL,2.0,,,0
+2024,Singapore Grand Prix,GAS,1.0,,,0
+2024,Singapore Grand Prix,GAS,2.0,0.48006552864136903,0.020430226516453088,23
+2024,Singapore Grand Prix,HAM,1.0,-0.4275572237082128,0.11190040572528095,15
+2024,Singapore Grand Prix,HAM,2.0,,,0
+2024,Singapore Grand Prix,HUL,1.0,,,0
+2024,Singapore Grand Prix,HUL,2.0,,,0
+2024,Singapore Grand Prix,LEC,1.0,,,0
+2024,Singapore Grand Prix,LEC,2.0,,,0
+2024,Singapore Grand Prix,MAG,1.0,,,0
+2024,Singapore Grand Prix,MAG,2.0,,,0
+2024,Singapore Grand Prix,NOR,1.0,,,0
+2024,Singapore Grand Prix,NOR,2.0,,,0
+2024,Singapore Grand Prix,OCO,1.0,,,0
+2024,Singapore Grand Prix,OCO,2.0,,,0
+2024,Singapore Grand Prix,PER,1.0,,,0
+2024,Singapore Grand Prix,PER,2.0,,,0
+2024,Singapore Grand Prix,PIA,1.0,,,0
+2024,Singapore Grand Prix,PIA,2.0,,,0
+2024,Singapore Grand Prix,RIC,2.0,,,0
+2024,Singapore Grand Prix,RUS,1.0,,,0
+2024,Singapore Grand Prix,RUS,2.0,,,0
+2024,Singapore Grand Prix,SAI,2.0,,,0
+2024,Singapore Grand Prix,STR,1.0,,,0
+2024,Singapore Grand Prix,STR,2.0,,,0
+2024,Singapore Grand Prix,TSU,1.0,,,0
+2024,Singapore Grand Prix,TSU,2.0,-0.4740807642305993,0.012482369762825378,27
+2024,Singapore Grand Prix,VER,1.0,,,0
+2024,Singapore Grand Prix,VER,2.0,,,0
+2024,Singapore Grand Prix,ZHO,1.0,,,0
+2024,Singapore Grand Prix,ZHO,2.0,,,0
+2024,Spanish Grand Prix,ALB,1.0,,,0
+2024,Spanish Grand Prix,ALB,2.0,0.7578593817352547,2.805609459470328e-05,23
+2024,Spanish Grand Prix,ALB,3.0,-0.005938511353449871,0.9796183524135695,21
+2024,Spanish Grand Prix,ALO,1.0,-0.16960751102260402,0.5151854472568416,17
+2024,Spanish Grand Prix,ALO,2.0,,,0
+2024,Spanish Grand Prix,ALO,3.0,,,0
+2024,Spanish Grand Prix,BOT,2.0,0.9241596024451194,8.569743656147093e-07,15
+2024,Spanish Grand Prix,BOT,3.0,,,0
+2024,Spanish Grand Prix,GAS,2.0,,,0
+2024,Spanish Grand Prix,GAS,3.0,,,0
+2024,Spanish Grand Prix,HAM,2.0,,,0
+2024,Spanish Grand Prix,HAM,3.0,0.6783835894503553,0.0005199565418353711,22
+2024,Spanish Grand Prix,HUL,2.0,,,0
+2024,Spanish Grand Prix,HUL,3.0,,,0
+2024,Spanish Grand Prix,LEC,1.0,0.4352186925240614,0.04292973011846881,22
+2024,Spanish Grand Prix,LEC,2.0,,,0
+2024,Spanish Grand Prix,LEC,3.0,0.83893880140504,1.3556883126644095e-05,18
+2024,Spanish Grand Prix,MAG,2.0,,,0
+2024,Spanish Grand Prix,MAG,3.0,,,0
+2024,Spanish Grand Prix,NOR,1.0,0.06263140228524908,0.7873887978462936,21
+2024,Spanish Grand Prix,NOR,2.0,,,0
+2024,Spanish Grand Prix,NOR,3.0,0.7310948622944028,0.0005667161381429428,18
+2024,Spanish Grand Prix,OCO,2.0,,,0
+2024,Spanish Grand Prix,OCO,3.0,,,0
+2024,Spanish Grand Prix,PER,2.0,0.7332324164927533,0.0012295453602400351,16
+2024,Spanish Grand Prix,PER,3.0,,,0
+2024,Spanish Grand Prix,PER,4.0,0.8265470605496338,7.900841847874071e-05,16
+2024,Spanish Grand Prix,PIA,1.0,0.6131539519106202,0.005244477284227673,19
+2024,Spanish Grand Prix,PIA,2.0,,,0
+2024,Spanish Grand Prix,PIA,3.0,0.2995872630378033,0.21273458199561485,19
+2024,Spanish Grand Prix,RIC,2.0,,,0
+2024,Spanish Grand Prix,RIC,3.0,,,0
+2024,Spanish Grand Prix,RUS,2.0,,,0
+2024,Spanish Grand Prix,RUS,3.0,,,0
+2024,Spanish Grand Prix,SAI,2.0,,,0
+2024,Spanish Grand Prix,SAI,3.0,,,0
+2024,Spanish Grand Prix,SAR,2.0,,,0
+2024,Spanish Grand Prix,SAR,3.0,,,0
+2024,Spanish Grand Prix,STR,1.0,-0.5346747957244204,0.04002540927608653,15
+2024,Spanish Grand Prix,STR,2.0,,,0
+2024,Spanish Grand Prix,STR,3.0,,,0
+2024,Spanish Grand Prix,TSU,2.0,,,0
+2024,Spanish Grand Prix,TSU,3.0,,,0
+2024,Spanish Grand Prix,TSU,4.0,-0.05639238875485871,0.8133215947633174,20
+2024,Spanish Grand Prix,VER,1.0,0.6899879781198641,0.004416820445854686,15
+2024,Spanish Grand Prix,VER,2.0,,,0
+2024,Spanish Grand Prix,VER,3.0,0.701450824578069,0.00039529013126730797,21
+2024,Spanish Grand Prix,ZHO,2.0,,,0
+2024,Spanish Grand Prix,ZHO,3.0,,,0
+2024,São Paulo Grand Prix,ALO,1.0,,,0
+2024,São Paulo Grand Prix,ALO,3.0,,,0
+2024,São Paulo Grand Prix,BEA,1.0,,,0
+2024,São Paulo Grand Prix,BEA,3.0,,,0
+2024,São Paulo Grand Prix,BOT,1.0,,,0
+2024,São Paulo Grand Prix,BOT,2.0,,,0
+2024,São Paulo Grand Prix,COL,1.0,,,0
+2024,São Paulo Grand Prix,GAS,1.0,,,0
+2024,São Paulo Grand Prix,GAS,2.0,,,0
+2024,São Paulo Grand Prix,HAM,1.0,,,0
+2024,São Paulo Grand Prix,HAM,3.0,,,0
+2024,São Paulo Grand Prix,HUL,1.0,,,0
+2024,São Paulo Grand Prix,LAW,1.0,,,0
+2024,São Paulo Grand Prix,LAW,3.0,,,0
+2024,São Paulo Grand Prix,LEC,1.0,,,0
+2024,São Paulo Grand Prix,LEC,3.0,,,0
+2024,São Paulo Grand Prix,NOR,1.0,,,0
+2024,São Paulo Grand Prix,NOR,3.0,,,0
+2024,São Paulo Grand Prix,OCO,1.0,,,0
+2024,São Paulo Grand Prix,OCO,2.0,,,0
+2024,São Paulo Grand Prix,PER,1.0,,,0
+2024,São Paulo Grand Prix,PER,3.0,,,0
+2024,São Paulo Grand Prix,PIA,1.0,,,0
+2024,São Paulo Grand Prix,PIA,3.0,,,0
+2024,São Paulo Grand Prix,RUS,1.0,,,0
+2024,São Paulo Grand Prix,RUS,3.0,,,0
+2024,São Paulo Grand Prix,SAI,1.0,,,0
+2024,São Paulo Grand Prix,TSU,1.0,,,0
+2024,São Paulo Grand Prix,TSU,3.0,,,0
+2024,São Paulo Grand Prix,VER,1.0,,,0
+2024,São Paulo Grand Prix,VER,2.0,,,0
+2024,São Paulo Grand Prix,ZHO,1.0,,,0
+2024,São Paulo Grand Prix,ZHO,5.0,,,0
+2024,United States Grand Prix,ALB,2.0,,,0
+2024,United States Grand Prix,ALB,3.0,,,0
+2024,United States Grand Prix,ALO,1.0,,,0
+2024,United States Grand Prix,ALO,2.0,,,0
+2024,United States Grand Prix,BOT,2.0,,,0
+2024,United States Grand Prix,COL,1.0,,,0
+2024,United States Grand Prix,COL,2.0,,,0
+2024,United States Grand Prix,GAS,2.0,,,0
+2024,United States Grand Prix,HUL,1.0,,,0
+2024,United States Grand Prix,HUL,2.0,,,0
+2024,United States Grand Prix,LAW,1.0,,,0
+2024,United States Grand Prix,LAW,2.0,,,0
+2024,United States Grand Prix,LEC,1.0,,,0
+2024,United States Grand Prix,LEC,2.0,,,0
+2024,United States Grand Prix,MAG,2.0,,,0
+2024,United States Grand Prix,MAG,3.0,,,0
+2024,United States Grand Prix,NOR,1.0,,,0
+2024,United States Grand Prix,NOR,2.0,,,0
+2024,United States Grand Prix,OCO,1.0,,,0
+2024,United States Grand Prix,OCO,2.0,,,0
+2024,United States Grand Prix,PER,1.0,,,0
+2024,United States Grand Prix,PER,2.0,,,0
+2024,United States Grand Prix,PIA,1.0,,,0
+2024,United States Grand Prix,PIA,2.0,,,0
+2024,United States Grand Prix,RUS,1.0,,,0
+2024,United States Grand Prix,RUS,2.0,,,0
+2024,United States Grand Prix,SAI,1.0,,,0
+2024,United States Grand Prix,SAI,2.0,,,0
+2024,United States Grand Prix,STR,1.0,,,0
+2024,United States Grand Prix,STR,2.0,,,0
+2024,United States Grand Prix,TSU,2.0,,,0
+2024,United States Grand Prix,VER,1.0,,,0
+2024,United States Grand Prix,VER,2.0,,,0
+2024,United States Grand Prix,ZHO,2.0,,,0
+2024,United States Grand Prix,ZHO,3.0,,,0
