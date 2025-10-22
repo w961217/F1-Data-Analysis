@@ -2,10 +2,10 @@ import pandas as pd
 from scipy import stats
 
 # Load the data
-df = pd.read_csv(r"C:\Users\wesle\Programming\Python\F1-Data-Analysis\csv\fastf1_lap_data.csv") 
+df = pd.read_csv(r"C:\Users\wesle\Programming\Python\F1-Data-Analysis\csv\fastf1_lap_data.csv")
 
 # Clean the data
-df = df.dropna(subset=["TyreLife", "LapTime", "Compound"])
+df = df.dropna(subset=["TyreLife", "LapTime", "Compound", "TrackTemp"])
 df = df[df["LapTime"] > 0]
 
 # Filter for SOFT compound only
@@ -19,21 +19,24 @@ print(f"Drivers: {df['Driver'].nunique()}")
 print("\n" + "=" * 80 + "\n")
 
 # Analyze by Year, Grand Prix, Driver, and Stint
-print("ANALYSIS BY YEAR, GRAND PRIX, DRIVER, AND STINT (SOFT tyres, >15 laps):")
+print("ANALYSIS BY YEAR, GRAND PRIX, DRIVER, AND STINT (SOFT tyres, >10 laps):")
 print("-" * 80)
 
 results = []
 grouped = df.groupby(["Year", "GrandPrix", "Driver", "Stint"])
 
 for (year, gp, driver, stint), group in grouped:
-    # Only analyze stints with more than 15 laps
-    if len(group) < 5:
+    # Only analyze stints with more than 10 laps
+    if len(group) < 10:
         continue
 
-    # Use scipy linregress
+    # Perform linear regression
     slope, intercept, r_value, p_value, std_err = stats.linregress(
         group["TyreLife"], group["LapTime"]
     )
+
+    # Compute average track temperature for the stint
+    avg_temp = group["TrackTemp"].mean()
 
     results.append(
         {
@@ -47,14 +50,21 @@ for (year, gp, driver, stint), group in grouped:
             "correlation": r_value,
             "p_value": p_value,
             "std_err": std_err,
+            "avg_track_temp": avg_temp,
         }
     )
 
+# Convert to DataFrame
 results_df = pd.DataFrame(results)
 
-# Save results to CSV
-results_df.to_csv("tyre_degradation_results.csv", index=False)
-print(f"\n" + "=" * 80)
-print(f"\nDetailed results saved to 'tyre_degradation_results.csv'")
-print("\nAnalysis complete!") 
+# Sort by Driver (A–Z), then by Track Temperature (descending)
+results_df = results_df.sort_values(
+    by=["Driver", "avg_track_temp"], ascending=[True, False]
+)
 
+# Save results to CSV
+results_df.to_csv("tyre_degradation_results_6.0.csv", index=False)
+
+print(f"\n" + "=" * 80)
+print(f"\nDetailed results saved to 'tyre_degradation_results.csv' (sorted by driver and track temperature)")
+print("\nAnalysis complete!")
