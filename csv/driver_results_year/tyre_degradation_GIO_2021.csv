@@ -1,0 +1,2 @@
+Year,GrandPrix,Driver,Stint,n_laps,degradation_rate,r_squared,correlation,p_value,std_err,avg_track_temp
+2021,Qatar Grand Prix,GIO,1,13,-0.06156043956043938,0.13078037154166033,-0.36163568897671083,0.22469221162361747,0.047851862771034384,30.399999999999995

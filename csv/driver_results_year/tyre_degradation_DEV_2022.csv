@@ -1,0 +1,2 @@
+Year,GrandPrix,Driver,Stint,n_laps,degradation_rate,r_squared,correlation,p_value,std_err,avg_track_temp
+2022,Italian Grand Prix,DEV,1,15,0.004520377733598527,0.005526300043158851,0.07433908825886185,0.7923194518145368,0.016818314583458834,43.733333333333334

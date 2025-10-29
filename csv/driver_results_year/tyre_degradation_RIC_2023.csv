@@ -1,0 +1,2 @@
+Year,GrandPrix,Driver,Stint,n_laps,degradation_rate,r_squared,correlation,p_value,std_err,avg_track_temp
+2023,São Paulo Grand Prix,RIC,5,14,-0.011764835164834996,0.002439534417302136,-0.04939164319297482,0.8668373185004581,0.06867700755993376,37.52142857142858

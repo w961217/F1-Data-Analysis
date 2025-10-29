@@ -1,0 +1,2 @@
+Year,GrandPrix,Driver,Stint,n_laps,degradation_rate,r_squared,correlation,p_value,std_err,avg_track_temp
+2021,Hungarian Grand Prix,RAI,5,14,0.04070714285714299,0.058539881629171696,0.2419501635237548,0.4046305697469875,0.04712539918450896,37.5

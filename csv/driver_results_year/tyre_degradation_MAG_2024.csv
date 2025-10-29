@@ -1,0 +1,2 @@
+Year,GrandPrix,Driver,Stint,n_laps,degradation_rate,r_squared,correlation,p_value,std_err,avg_track_temp
+2024,British Grand Prix,MAG,3,14,-0.026063736263736408,0.01917331301282564,-0.1384677327496397,0.6368697700984489,0.053813793161420605,24.87857142857143
