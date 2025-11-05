@@ -1,2 +1,2 @@
-Year,GrandPrix,Driver,Stint,n_laps,degradation_rate,r_squared,correlation,p_value,std_err,avg_track_temp
-2021,Qatar Grand Prix,RUS,1,15,-0.05379642857142858,0.1516542942258671,-0.38942816311338746,0.15134918194857788,0.0352891213680778,30.37333333333333
+Year,GrandPrix,Driver,Stint,n_laps,degradation_rate,std_err,avg_track_temp
+2021,Qatar Grand Prix,RUS,1,15,-0.05379642857142858,0.0352891213680778,30.37333333333333

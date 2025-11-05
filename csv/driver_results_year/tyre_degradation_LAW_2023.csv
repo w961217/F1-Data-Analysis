@@ -1,2 +1,2 @@
-Year,GrandPrix,Driver,Stint,n_laps,degradation_rate,r_squared,correlation,p_value,std_err,avg_track_temp
-2023,Dutch Grand Prix,LAW,5,11,0.04200909090909151,0.5053527731208628,0.710881687146928,0.014193950427619034,0.013853914127029956,26.236363636363638
+Year,GrandPrix,Driver,Stint,n_laps,degradation_rate,std_err,avg_track_temp
+2023,Dutch Grand Prix,LAW,5,11,0.04200909090909151,0.013853914127029956,26.236363636363638

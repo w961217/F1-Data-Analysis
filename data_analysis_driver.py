@@ -4,7 +4,7 @@ import os
 
 # Load the data
 df = pd.read_csv(
-    r"C:\Users\user\Programming\Python\F1-Data-Analysis\csv\fastf1_lap_data.csv"
+    r"C:\Users\wesle\Programming\Python\F1-Data-Analysis\csv\fastf1_lap_data.csv"
 )
 
 # Clean the data
@@ -21,11 +21,7 @@ print(f"Grand Prix events: {df['GrandPrix'].nunique()}")
 print(f"Drivers: {df['Driver'].nunique()}")
 print("\n" + "=" * 80 + "\n")
 
-# Create output folder
-output_dir = "driver_results"
-os.makedirs(output_dir, exist_ok=True)
-
-print("ANALYSIS BY YEAR, GRAND PRIX, DRIVER, AND STINT (SOFT tyres, >10 laps):")
+print("ANALYSIS BY YEAR, GRAND PRIX, DRIVER, AND STINT (SOFT tyres, 10–20 laps):")
 print("-" * 80)
 
 # Group by driver
@@ -34,16 +30,14 @@ for driver, driver_df in df.groupby("Driver"):
 
     grouped = driver_df.groupby(["Year", "GrandPrix", "Stint"])
     for (year, gp, stint), group in grouped:
-        # Only analyze stints with more than 10 laps
-        if len(group) < 10:
+        # Only analyze stints between 10 and 20 laps
+        if len(group) < 10 or len(group) > 20:
             continue
 
-        # Perform linear regression
-        slope, intercept, r_value, p_value, std_err = stats.linregress(
-            group["TyreLife"], group["LapTime"]
-        )
+        # Perform linear regression to find degradation rate (slope) and standard error
+        slope, _, _, _, std_err = stats.linregress(group["TyreLife"], group["LapTime"])
 
-        # Compute average track temperature for the stint
+        # Average track temperature for this stint
         avg_temp = group["TrackTemp"].mean()
 
         results.append(
@@ -54,9 +48,6 @@ for driver, driver_df in df.groupby("Driver"):
                 "Stint": int(stint),
                 "n_laps": len(group),
                 "degradation_rate": slope,
-                "r_squared": float(r_value) ** 2, 
-                "correlation": r_value,
-                "p_value": p_value,
                 "std_err": std_err,
                 "avg_track_temp": avg_temp,
             }
@@ -72,6 +63,10 @@ for driver, driver_df in df.groupby("Driver"):
         by="avg_track_temp", ascending=False
     )
 
+    # Create output folder
+    output_dir = "driver_results"
+    os.makedirs(output_dir, exist_ok=True)
+
     # Save each driver's results to a separate CSV
     safe_driver_name = str(driver).replace(" ", "_").replace("/", "_")
     output_path = os.path.join(output_dir, f"{safe_driver_name}_tyre_degradation.csv")
@@ -80,5 +75,5 @@ for driver, driver_df in df.groupby("Driver"):
     print(f"Saved results for {driver}: {output_path}")
 
 print(f"\n" + "=" * 80)
-print(f"\nDetailed results saved to '{output_dir}/' — one file per driver")
+print(f"\nDetailed degradation-rate results with std_err saved to '{output_dir}/' — one file per driver")
 print("\nAnalysis complete!")

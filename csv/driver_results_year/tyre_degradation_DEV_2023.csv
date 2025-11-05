@@ -1,2 +1,2 @@
-Year,GrandPrix,Driver,Stint,n_laps,degradation_rate,r_squared,correlation,p_value,std_err,avg_track_temp
-2023,British Grand Prix,DEV,3,14,-0.06288351648351691,0.2717121922563103,-0.5212601963092044,0.05594228061329635,0.029719613227247175,30.028571428571432
+Year,GrandPrix,Driver,Stint,n_laps,degradation_rate,std_err,avg_track_temp
+2023,British Grand Prix,DEV,3,14,-0.06288351648351691,0.029719613227247175,30.028571428571432

@@ -1,2 +1,2 @@
-Year,GrandPrix,Driver,Stint,n_laps,degradation_rate,r_squared,correlation,p_value,std_err,avg_track_temp
-2021,Monaco Grand Prix,TSU,2,12,0.2265804195804195,0.5662739336020753,0.7525117498099783,0.004741972697695382,0.06270711970285037,33.916666666666664
+Year,GrandPrix,Driver,Stint,n_laps,degradation_rate,std_err,avg_track_temp
+2021,Monaco Grand Prix,TSU,2,12,0.2265804195804195,0.06270711970285037,33.916666666666664

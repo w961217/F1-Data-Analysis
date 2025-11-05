@@ -1,2 +1,2 @@
-Year,GrandPrix,Driver,Stint,n_laps,degradation_rate,r_squared,correlation,p_value,std_err,avg_track_temp
-2024,Qatar Grand Prix,LAW,5,15,-0.018157142857142258,0.008773867860589594,-0.09366892686792987,0.7398615692685087,0.05352623065255225,21.993333333333332
+Year,GrandPrix,Driver,Stint,n_laps,degradation_rate,std_err,avg_track_temp
+2024,Qatar Grand Prix,LAW,5,15,-0.018157142857142258,0.05352623065255225,21.993333333333332
