@@ -59,9 +59,9 @@ for driver, driver_df in df.groupby("Driver"):
 
     # Convert to DataFrame and sort
     driver_results_df = pd.DataFrame(results)
-    driver_results_df = driver_results_df.sort_values(
-        by="avg_track_temp", ascending=False
-    )
+    # driver_results_df = driver_results_df.sort_values(
+    #     by="avg_track_temp", ascending=False
+    # )
 
     # Create output folder
     output_dir = "driver_results"

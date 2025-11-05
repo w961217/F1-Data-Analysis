@@ -3,7 +3,7 @@ from scipy import stats
 import os
 
 # Load the data
-df = pd.read_csv(r"C:\Users\wesle\Programming\Python\F1-Data-Analysis\csv\fastf1_lap_data.csv")
+df = pd.read_csv(r"C:\Users\user\Programming\Python\F1-Data-Analysis\csv\fastf1_lap_data.csv")
 
 # Clean the data
 df = df.dropna(subset=["TyreLife", "LapTime", "Compound", "TrackTemp"])
