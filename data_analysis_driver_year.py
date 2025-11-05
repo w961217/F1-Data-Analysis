@@ -3,7 +3,7 @@ from scipy import stats
 from typing import Tuple
 
 # Load the data
-df = pd.read_csv(r"C:\Users\wesle\Programming\Python\F1-Data-Analysis\csv\fastf1_lap_data.csv")
+df = pd.read_csv(r"C:\Users\user\Programming\Python\F1-Data-Analysis\csv\fastf1_lap_data.csv")
 
 # Clean the data
 df = df.dropna(subset=["TyreLife", "LapTime", "Compound", "TrackTemp"])
@@ -47,7 +47,7 @@ for (year, gp, driver, stint), group in grouped:
             "Stint": int(stint),
             "n_laps": len(group),
             "degradation_rate": slope,
-            "r_squared": r_value ** 2,
+            "r_squared": r_value ** 2, #type: ignore 
             "correlation": r_value,
             "p_value": p_value,
             "std_err": std_err,
