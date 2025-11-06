@@ -3,8 +3,8 @@ from fastf1.events import get_event_schedule
 import pandas as pd
 from pathlib import Path
 
-YEARS = [2021, 2022, 2023, 2024]
-OUTPUT = Path("csv") / "fastf1_lap_data.csv"
+YEARS = [2022, 2023, 2024]
+OUTPUT = Path("csv") / "fastf1_lap_data1.csv"
 
 all_data = []
 

@@ -75,5 +75,7 @@ for driver, driver_df in df.groupby("Driver"):
     print(f"Saved results for {driver}: {output_path}")
 
 print(f"\n" + "=" * 80)
-print(f"\nDetailed degradation-rate results with std_err saved to '{output_dir}/' — one file per driver")
+print(
+    f"\nDetailed degradation-rate results with std_err saved to '{output_dir}/' — one file per driver"
+)
 print("\nAnalysis complete!")
